@@ -1,0 +1,3258 @@
+                  _____                                  _
+                 |  __ \                                | |
+                 | |__) |_____   _____ _ __   __ _ _ __ | |_
+                 |  _  // _ \ \ / / _ \ '_ \ / _` | '_ \| __|
+                 | | \ \  __/\ V /  __/ | | | (_| | | | | |_
+                 |_|  \_\___| \_/ \___|_| |_|\__,_|_| |_|\__|
+
+
+                               by Michael Walsh
+                                   Ver 1.1
+                                July 10, 2001
+
+                            Questions?  Additions?
+                       E-mail me at: cumw7@pen.eiu.edu
+                      Put "Revenant" in the Subject Line
+
+
+
+                    ---------------------------------------
+                              TABLE OF CONTENTS:
+                    ---------------------------------------
+                        i. Intro: About Revenant
+                       ii. The Ability Scores
+                      iii. Fighting in Ahkuilon
+                       iv. Using the Magics of Ahkuilon
+                        v. Things You Should Know
+                    ---------------------------------------
+                        I. West Ahkuilon
+                             a. The Keep
+                             b. Town of Misthaven
+                             c. The Forest
+                             d. The Druhg Camp
+                             e. The Ancient Tower
+                             f. Arakna Island
+                             g. The Ogrok Camp
+                       II. The Caves
+                             a. The First Caves
+                             b. Kragg Mountain
+                             c. The Infested Swamp
+                             d. The Maze of Darkness
+                             e. The Spiral Arm
+                             f. The Queen's Crypt
+                      III. East Ahkuilon
+                             a. The Ruins
+                             b. The Pit
+                             c. The City of the Children
+                             d. The Underground Pyramid
+                             e. The Chase of Sabu
+                             f. The Slave Camp
+                             g. The Nahkranoth Lair
+                        IV. Anserak
+                             a. Red Labyrinth
+                             b. White Labyrinth
+                             c. Green Labyrinth
+                             d. Blue Labyrinth
+                             e. Orange Labyrinth
+                             f. Yellow Labyrinth
+                             g. Purple Labyrinth
+                             h. Yhagoro At Last
+                    ---------------------------------------
+                       vi. Character Experience Chart
+                      vii. Skill Experience Chart
+                     viii. Jong's Combination Moves
+                       ix. Weapon & Item Shop Inventories
+                        x. Armor Shop Inventories
+                       xi. Spell Chart
+                      xii. Cheat Codes
+                    ---------------------------------------
+                        x. Other Works
+                        y. Previous Updates List
+                        z. Legal Information
+                    ---------------------------------------
+
+
+
+==============================================================================
+                            Intro: About Revenant
+==============================================================================
+
+
+   Revenant is one of those games that came out on the heels of a certain
+other title released by Blizzard.  The gameplay in Revenant is quite similar
+to that other game.  However, there is enough in this game to make it worth
+playing.  Fans of that "other game" should find this game to be a lot of fun.
+This is truly one of the most exciting and entertaining action/RPG games that
+I have ever played.  I hope you enjoy playing it!
+
+
+
+==============================================================================
+                              The Ability Scores
+==============================================================================
+
+
+   Like many other role-playing games, your character in Revenant has several 
+ability scores.  They will affect how your character fights and controls 
+magic.  Below are the ability scores in Revenant, as well as a description of
+each one.  The descriptions are taken straight from the game manual.
+
+ O---------------O----------------------------------------------------------O
+ | Ability Score |                       Description                        |
+ O---------------O----------------------------------------------------------O
+ | Strength      |  "The pure muscle power of your character.  The higher   |
+ | --------      |  your Strength stat, the more damage you will do.  This  |
+ |               |  also determines which armor you can wear, as all armor  |
+ |               |  has a Strength minimum in order to equip it."           |
+ |               |                                                          |
+ | Constitution  |  "The toughness of your character.  A higher             |
+ | ------------  |   Constitution means more Hit Points and more Fatigue    |
+ |               |   Points.  This means you can stay in the fights longer  |
+ |               |   and not tire as quickly.                               |
+ |               |                                                          |
+ | Agility       |  "The offensive dexterity of your character.  Higher     |
+ | -------       |   Agility means your character will hit more in both     |
+ |               |   Hand to Hand and Ranged combat."                       |
+ |               |                                                          |
+ | Reflexes      |  "The opposite of Agility, Reflexes is the level of your |
+ | --------      |   coordination between mind and body when reacting, such |
+ |               |   as avoiding blows.  The higher your Reflexes, the      |
+ |               |   harder you are to hit."                                |
+ |               |                                                          |
+ | Mind          |  "The stat that governs all aspects of magic in          |
+ | ----          |   REVENANT.  A good Mind stat means that you will have   |
+ |               |   more mana at your disposal, and you will gain an edge  |
+ |               |   in spellcasting."                                      |
+ |               |                                                          |
+ | Luck          |  "The amount of good (or bad) fortune your character     |
+ | ----          |   has.  A high luck stat means that you will do          |
+ |               |   everything slightly better.  You will hit more often,  |
+ |               |   a lock more often, etc.  The actual help this gives    |
+ |               |   you is very small, but a small margin might be just    |
+ |               |   what you need.  A low Luck stat means that you have    |
+ |               |   bad luck, and things will be generally harder to pull  |
+ |               |   off.                                                   |
+ O---------------O----------------------------------------------------------O
+
+
+   Each time your character gains another level of experience, he may add 1 or 
+more points to these scores.  For the first 15 levels, you may add two points 
+anywhere you would like - even two in the same score!  However, starting at 
+level 16, you only receive 1 point per level of experience.
+
+   So which stats are the most important?  To some degree, that is is a matter 
+of opinion.  However, regardless of whether you want to go toe to toe with 
+every enemy, or stand back and sling mighty spells, there are some universally 
+beneficial stats.  So, without further ado, my ranking of the ability scores:
+
+      1. Strength - Needed to use weapons AND armor.
+      2. Constitution - Gives you hit points; needed to wear armor.
+      3. Mind - Gives you tons of mana per level. (replace with Agility if you
+                don't cast spells often)
+      4. Reflexes - Helps in avoiding attacks, but you can do this by dodging.
+      5. Agility - Helps you land blows with weapons. (replace with Mind if 
+                   you are not going to be a hand to hand fighter)
+      6. Luck - It is nice to have, but... pass.
+
+
+
+==============================================================================
+                             Fighting In Ahkuilon
+==============================================================================
+
+
+   There are three main types of attacks that you must master before you ill 
+become a whirling Revenant of destruction.  They are:  The Thrust, Swing, and 
+Chop.  Every time you swing a weapon, your Fatigue Meter goes down; don't 
+worry - it will go back up to full on its own.  Each attack takes off a 
+different amount of Fatigue Points.  In addition, each attack deals a 
+different amount of damage.
+
+
+          O-------------------------------------------------------O
+          | Attack Type   |   Fatigue Used   |   Damage Inflicted |
+          O-------------------------------------------------------O
+          |   Thrust      |      Low         |       Low          |
+          |   Swing       |      Medium      |       Medium       |
+          |   Chop        |      High        |       High         |
+          O-------------------------------------------------------O
+
+
+   Another thing that is not represented in the chart above is that the Swing 
+has a real long reach, making it my attack of choice.
+
+   In addition to these basic attack types, you will also learn attack 
+combinations throughout the game.  See the section entitled Jong's Combination 
+Moves near the end of this document.
+
+
+
+==============================================================================
+                         Using The Magics Of Ahkuilon
+==============================================================================
+
+   The magic system in Revenant is quite unique.  Rather than scribing your 
+spells in a scroll book, you will use the power of 12 different Talismans.
+You can combine them together in order to make new spells.  In addition, you 
+can place four of these spells in your Quick Slot, so that you may cast them 
+whenever you like!  To make a spell, do the following:
+
+      1. Go to the Spell Builder screen. (click the purple pouch icon)
+      2. Click on one or more of your Talismans.
+      3. When you place them in the correct combination, click on the
+         rectangular button at the bottom.  Whether you successfully cast it 
+         or not, it is added to your known spells list.
+
+   There are a total of 12 Talismans in Revenant.  Below is a listing of them, 
+by name:
+
+                            O-------------------O
+                            | Chaos       Ocean |
+                            | Death       Sky   |
+                            | Earth       Soul  |
+                            | Law         Stars |
+                            | Life        Sun   |
+                            | Moon        Ward  |
+                            O-------------------O
+
+   One final note about casting spells.  Your ability to successfully cast a
+spell is dependent upon two factors:  The level of your Invoke Skill, and the
+Skill Level of the Spell.  See the Spell Chart near the end of this document
+for more information.
+
+
+
+==============================================================================
+                            Things You Should Know
+==============================================================================
+
+
+   Before you enter the walkthrough portion of this document, there are a few
+concepts and items relating to the game that you should understand.  Please
+take the time to read this section; it is short, but important.
+
+
+ PATCH:  The current Patch for Revenant is Version 1.22.  For those who do not
+ ------  know, a patch corrects problems that were not found in the original
+         game before it was sent to the stores.  On occasion, they also add 
+	 new features to a game.  Revenant's patch does both of the above. You
+	 can download the latest patch for Revenant at:
+
+                    http://www.cinematix.com/download.html
+
+         I played the game using Patch Version 1.22.  You should make sure 
+         that you are using Patch Version 1.22 before e-mailing me to say that 
+         something is incorrect in this document.
+
+
+
+
+ DIRECTIONS:  There are countless directions given within the walkthrough
+ -----------  portion of this document.  To understand them, understand that 
+              north is at the top center of your screen.  Therefore, northeast 
+              is toward the upper-right corner of your monitor. (as you might
+              think it would be)
+
+
+ MULTIPLAYER:  There is a multiplayer option in this game.  However, it will
+ ------------  covered within the body of this document.
+
+
+ ABILITY SCORES:  There are two important points that you should remember 
+ ---------------  regarding ability scores.  First, remember that you choose 
+                  which statistics you wish to improve BEFORE you go up in 
+                  level.  Second, be aware that you can improve TWO stats (or 
+                  one stat. by two points) up until level 15.  After this, you 
+                  only get to add ONE point to your scores per level.
+
+
+ STORES:  The three stores in Misthaven will expand their inventories
+ -------  throughout the course of the game.  The Weapon and Armor Shops will 
+          receive new wares according to your character level; see the charts 
+          near the end of this document for more information.  The Item Shop, 
+          however, receives its new items based on certain events being 
+          completed within the game.  Refer to the charts near the end of this 
+          document for that information as well.
+
+          In a similar manner, Jong will teach you new attack combination
+          depending on your character level.
+
+
+
+==============================================================================
+                                 WALKTHROUGH
+==============================================================================
+
+
+   Prepare to dive into a very captivating adventure.  You will take the role
+of Locke d'Averum, a recently resurrected revenant.  You have no knowledge of
+your past, and it seems unlikely that you will ever fully remember all of it.
+You have also forgotten many of the skills you possessed in your former life,
+but you will be able to re-learn them.  Behind you lies a forgotten past;
+before you lies an uncertain future. Time to set out in search of...
+something.
+
+
+
+==============================================================================
+I.   West Ahkuilon
+==============================================================================
+
+
+O--------------O                                      O----------------------O
+| 1a. The Keep |                                      | Recommended Level: 1 |
+O--------------O                                      O----------------------O
+
+   You will begin the game in the Keep, which is home to Lord Tendrick, among
+others.  You will be greeted by both Lord Tendrick and Sardok, who is the
+resident wizard.  Question them and you will learn what you are, (a Revenant)
+why you are alive again, (Sardok summoned you) and what you are supposed to do
+(Lord Tendrick's daughter Andria has disappeared, and you must find her).
+Sardok and Lord Tendales will not send you out into the world unprepared: you
+will receive some help in the form of items.  Sardok will give you:
+
+      Level 1 Magic Scroll
+      Life Talisman
+      Soul Talisman
+      Moon Talisman
+
+   Lord Tendales will also present you with some much needed materials:
+
+      Red Cloth Shirt
+      Brown Cloth Pants
+      Black Cloth Boots
+      Short Sword
+
+   It is a good thing that you are given some supplies, because you will
+immediately be attacked by a member of the Children of Change cult.  You can
+either defeat him using your bare hands, or you can use the newly-obtained
+Short Sword that Tendrick gave to you.  Defeating Rahul the Monk will earn you
+10xp, which will not only go toward advancing your character's level, but will
+also go toward the Skill Level of whichever weapon you used to defeat him.
+Now Sardok and Tendrick will have a brief conversation regarding Rand, the
+guard who has apparently been slacking off lately.  He is thrown in jail and
+is to be executed.  Once this conversation is over, head southwest through the
+door.
+
+   Continue southwest down the hall.  You will meet a guard named Steffan.
+You can talk with him if you want, but it is not necessary.  In one corner of
+the room is a chest, but it is locked.  Continue going southwest and you will
+encounter another guard, this one is named Miyamoto.  Miyamoto can tell you
+some more about Sardok, Lord Tendrick, and Andria.
+
+   Head east from Miyamoto, and you will discover a chest.  Inside is:
+
+      250gp
+
+   Return to Miyamoto and head southeast.  When the path opens up into a room,
+take the stairs to the lower level.  The area with the bluish brick floor and
+the iron bars leads to the jail.  You will come across a guard named Gow, who
+provides interesting coversation.  Next, head to the cells and talk to Rand.
+He will tell you about the Children, as well as where they might have come
+from.  Now make your way back out of the jail, and head northeast, toward the
+Throne Room.  On your way, the path will branch off to the northwest and
+southeast.  Head to the southeast first.  You will find a room with a glowing
+Teleporter and a chest.  The chest contains:
+
+      Apple
+      150gp
+
+   There is another chest to the north of the Teleporter room, but it is
+locked.  Now return to the main hall and take the northwest path.  You will
+find another chest in here, which has:
+
+      100gp
+
+   Finally, return to the main hallway and take it to the northeast.  You will
+reach the throne room.  You should talk to Lord Tendrick and Sardok, filling
+them in on what you have learned from Rand.  Sardok persuades Tendrick to
+execute Rand immediately.  A small cutscene begins, which shows Rand being
+executed in a most grotesque manner.  When it is finished, you will be at the
+entrance to the Keep.  Exit through the door and head outside.
+
+
+
+O-----------------------O                             O----------------------O
+| 1b. Town of Misthaven |                             | Recommended Level: 1 |
+O-----------------------O                             O----------------------O
+
+   After a brief jaunt down the road, you will arrive in the town.  The size
+of this place can be a bit intimidating to the first time visitor, so I will
+give directions to all of the major attractions, building-by-building.  You
+will visit this place often during your journeys, so it will not take long to
+become familiar with this place.  For starters, head west from the door to the
+Keep.  After going down a flight of stairs, head west.  Enter the first door
+that you come across.
+
+
+House
+-----
+   Inside, you can talk with Pauline, Karen, and Verhooven (The women are
+especially excited at having a real, live representative of the undead in
+their home).  There is a chest in this house which has:
+
+      Letter to Styxx
+      Magical Rose
+      144gp
+
+   Now head back out to the main road.
+
+
+Jong's Dojo
+-----------
+
+   From the House, head southwest.  Enter the next door you find.  Inside, you
+will find that there are no people, but there are a few doors.  Enter through
+the unlocked door and you will find yourself in the yard.  Here you will meet
+Jong, the Combat Master.  You will be visiting him periodically throughout the
+game.  He will teach you newer and more powerful combat maneuvers.  Right now,
+he will teach you the "Charging Thrust."  You will have to gain some
+experience by fighting before he will teach you more.  Head back out to the
+main road.
+
+
+Item Shop
+---------
+
+   From Jong's Dojo, head south and take the stairs down to the lower level.
+Head southeast until you see a door on the right (the blue-roofed building).
+This is the Item Store.  Inside, Hruthford is sweeping the place up.  He will
+take time out, however, in order to sell you anything you need.  He tells you
+to check back with him from time to time, since he sometimes puts new items up
+for sale.  At this point in the game, Hruthford will sell you:
+
+                       -------------------------------
+                       | Pouch               - 100gp |
+                       | Meat                - 150gp |
+                       | Fish                - 150gp |
+                       | Bread               - 120gp |
+                       | Apple               - 100gp |
+                       | Cheese              - 100gp |
+                       | Bracelet of Fortune - 750gp |
+                       | Ivory Pendant       - 500gp |
+                       -------------------------------
+
+   When you are finished, exit the shop.
+
+
+Herb Shop
+---------
+
+   From the Item Shop, head west.  There is a sign above the door with a
+potion on it.  Enter through the door and you will find yourself in the Herb
+and Remedy Shop.  Elanhi, who is the shop owner, would like to offer you a
+number of remedies.  He will sell you the following goods:
+
+                     -----------------------------------
+                     | Lesser Healing        -   250gp |
+                     | Lesser Mana           -   250gp |
+                     | Lesser Restoration    -   500gp |
+                     | Greater Healing       -   900gp |
+                     | Greater Mana          -   900gp |
+                     | Greater Restoration   - 1,750gp |
+                     | Enchanted Healing     - 1,500gp |
+                     | Enchanted Mana        - 1,500gp |
+                     | Enchanted Restoration - 2,750gp |
+                     | Cure Poison           -   100gp |
+                     -----------------------------------
+
+   When you are done shopping, leave the store.
+
+
+Library
+-------
+
+   From the Herb Shop, head east, passing the Item Shop.  Then turn northeast
+and take the next door on the left.  This is the Library of Misthaven. Inside,
+you will meet Geralt.  He is one of the most learned men in all of Akhuilon.
+If you have any questions regarding anything in the game, it would not hurt to
+stop by the library and see what Geralt knows.  The two bookshelves on the
+lower level of the building have:
+
+      Potion of Lesser Restoration
+      Potion of Lesser Healing
+
+   Be sure to check the bookshelves on the upper level as well.  You can find
+a total of six books, all of which will provide you with the history of the
+region.  The books are:
+
+      Military Intellegence on the "Children of the Change" Cult
+      Predatory Creatures of Akhuilon
+      The Warrior Clans
+      The Cataclysm
+      The Church
+      Magic
+
+   Once you are done exploring, head outside.
+
+
+Weapon Shop
+-----------
+
+   From in front of the Library, head northeast.  At the end of the street,
+you will find the Weapon Shop.  Talk with Gina.  She will present you with a
+selection of weapons.  You will also want to check by her store periodically,
+since she will offer new weapons (depending on your character's level. See the
+Weapon Shop Inventory section near the end of this document).  At this point
+in the game, she will offer the following weapons:
+
+                           ------------------------
+                           | Short Sword  - 195gp |
+                           | Club         - 210gp |
+                           | Stone Axe    - 255gp |
+                           | Bone Pickaxe - 225gp |
+                           ------------------------
+
+   After purchasing any implements of destruction, head back outside.
+
+
+Armor Shop
+----------
+
+   From the Weapon Shop, head southwest until you reach a staircase, which you
+should take to the lower level.  You will be in a marketplace area.  You
+should search all the containers that comprise the marketplace; many of them
+contain various types of food.  From the staircase, head northwest.  There is
+a man named Lucas who will give you some useful information.  Enter the
+building next to him.  This is the Armor Shop.
+
+   In the Armor Shop is a chest, but it is locked.  Talk to Cronos, the shop
+owner.  He has some armor for sale.  As is true with the Weapon Shop, the
+armor available is dependent on your character level.  Unless otherwise noted,
+there is no difference in the different colors of armor (except, of course,
+the color. There are some armors later in the game that have different
+properties based on color).  At this point, he will sell you the following
+armor:
+
+           -------------------------------------------------------
+           | (Black, Blue, Brown, Red) Cloth Boots     -    10gp |
+           | (Black, Blue, Brown, Red) Cloth Pants     -    10gp |
+           | (Black, Blue, Brown, Red) Cloth Shirt     -    10gp |
+           | (Black, Brown, Red) Leather Gloves        -   250gp |
+           | (Black, Brown, Red) Leather Helmet        -   250gp |
+           | (Black, Brown, Red) Leather Chest Plate   -   500gp |
+           | (Black, Brown, Red) Leather Boots         -   250gp |
+           | (Black, Brown, Red) Leather Leg Plate     -   500gp |
+           | (Black, Gold, Silver) Studded Gauntlets   -   500gp |
+           | (Black, Gold, Silver) Studded Helmet      - 1,000gp |
+           | (Black, Gold, Silver) Studded Chest Plate - 1,500gp |
+           | (Black, Gold, Silver) Studded Boots       -   500gp |
+           | (Black, Gold, Silver) Studded Leg Plate   - 1,500gp |
+           -------------------------------------------------------
+
+   When you are done equipping yourself, head outside.
+
+
+The Docks
+---------
+
+   From in front of the Armor Shop, head southwest.  You will pass another
+door on the way; that house belongs to Gus, whom you will meet later.  Keep
+heading south.  Once on the docks, (wooden ground) continue southwest until
+you are at the end.  Take the northeast path.  There is a ship here; board it.
+You can search the crates here for the following:
+
+      Watermelon
+      Grapes
+      Orange
+      Banana
+
+   Now you should return back to the marketplace area.
+
+
+The Inn
+-------
+
+   Once you are in front of the marketplace, head east, then north.  Continue
+north to the end of the road.  The last building on the street is the Inn.
+Enter the building.
+
+   Like any typical Inn, there are many people to meet here.  The first person
+you should talk to is Gus, the man in the striped shirt who is sitting at the
+table.  He will give you information about the Ancient Tower, saying that you
+should talk to either Sardok or Geralt about it.  He can also enlighten you on
+the topic of the caves.  Apparently, the Ogrok's have built their camp around
+the entrance to the cave.  Therefore, you must deal with them first.  They are
+looking for the Amulet of Rogoss, which is located on Arakna Island.  He says
+that he can take you there, if you do a favor from him first.  He gave a woman
+a Diamond Ring, but she left with it.  He would like you to go and retrieve it
+for him.  The woman's name is Harowen, and she can be found in the Ancient
+Tower.  He tells you to talk with either Sardok or Geralt if you want to learn
+more about the tower.  He also claims to be related to Sohail the Ogrok
+Slayer.  He then gets up to leave, and it is quite obvious that he is a wee
+bit inebriated.
+
+   Walk upstairs.  You will see a very large man in some wicked looking armor.
+This is Bayne.  He tells you that he would love to go Ogrok hunting with you
+someday.  This is one of the 4 characters that you can use in the multiplayer
+game.  He will not join you in the single player game.
+
+   Head southeast into the first room upstairs.  There is some gold in the
+chest.  Now exit and head to the second room.  There are two people in this
+room: Karl and Maureen.  If you search the chest in this room, you will find:
+
+      24gp
+      Pouch
+
+   The Pouch is a valuable addition to your inventory.  Now you can place food
+items or extra quest items in it.  This will keep your main item inventory
+cleaner.  Now exit the Inn.
+
+
+House
+-----
+
+   From the Inn, go southwest.  Pass the first door you come to and enter the
+second.  You should be in an ordinary house.  Search the bookshelf for:
+
+      14gp
+
+   Now enter the back room.  Open the chest here, and you will receive:
+
+      18gp
+      Lesser Mana Potion
+
+   Now that you are done here, exit the House.  From this house, head
+southeast through the Town Gate.  You are now in the Forest.  Prepare for some
+fighting!
+
+
+
+O----------------O                                  O------------------------O
+| 1c. The Forest |                                  | Recommended Level: 1-4 |
+O----------------O                                  O------------------------O
+
+   You will want to be sure and stay in the western section of the Forest.
+Enemies tend to get stronger as you head east, so stay close to town,
+especially during your first couple of levels.  If you run across something
+NOT on the list, and you are between Levels 1 and 4, you might have gone too
+far east.
+
+
+Olihoot
+-------
+
+   From the town gate, head east.  When you see a sign that says Olihoot,
+continue to the east.  You will reach a small tree with an old man sitting out
+in front.  This is Olihoot.  Talk to him and he will tell you about the Caves
+and your memories.  After he is finished talking with you, he will give you
+the Sky Talisman.  Now you can form some new spells!
+
+   From Olihoot's house, head northeast.  Just past the hermit's house is a
+chest with:
+
+      500gp
+
+   You should now return to the town Library.
+
+
+Library
+-------
+
+   Talk with Geralt about the Ancient Tower.  He will tell you that you need
+to find the Golden Sun Key in order to enter the tower.  The key is in the
+possession of a man named Jason.  Apparently, Jason has been captured by
+Druhgs and is about to become their dinner.  You will need to rescue him in
+order to get the key.  First, however, there is another quest that you should
+complete first.
+
+
+Bone Yard
+---------
+
+   From the town gate, head northeast.  You will come to the Bone Yard.  The
+first enemy that you are likely to encounter is Styxx.  He is most likely the
+strongest enemy you have faced thus far.  Take him out using your longer
+ranged attacks.  Once he is defeated, walk up to the large crypt and place the
+Magical Rose atop it.  the treasure chest to the left of the crypt will open.
+Search the chest for:
+
+      Emerald Ring
+
+   To the north of this chest is another chest, but it is locked.  Return here
+once you have fond some lockpicks.  In the chest is:
+
+      1,000pg
+
+   This next step is optional, but if you would like some more treasure, then
+leave the Bone Yard and head northwest.  There is a chest near the shore with:
+
+      Sausage
+      1,000gp
+
+   Now head back to the town gate.
+
+
+
+O--------------------O                              O------------------------O
+| 1d. The Druhg Camp |                              | Recommended Level: 4-5 |
+O--------------------O                              O------------------------O
+
+   From the town gate, head southeast.  At the "Ancient Tower/Druhg Camp"
+sign, head east.  When you reach the second sign, (just north of Olihoot)
+follow the road to the northeast.  Continue past the Bone Yard sign.  You will
+pass the Misthaven sign.  Now head northeast until you reach the water.
+Follow the water's edge east, then northeast.  When the waters end, you will
+be at the "Druhg Camp/Ancient Tower/Ogrok" sign.  From here, head northwest.
+
+   Continue northwest, even after the path curves to the north.  Among some
+rocks, you will find a chest with:
+
+      Greater Healing Potion
+
+   From the chest, head due east, ignoring all roads.  You will come to
+another chest.  This one contains:
+
+      500gp
+      Greater Healing Potion
+
+   Head north from this chest until you come to a road heading northeast.
+Follow that path, and you will come to the Druhg Camp.  You will face several
+Druhgs here; Under Druhgs, Mongrel Druhgs, and Thrushers are all here.  In the
+center of the camp, tied to a stake, is Jason.  After you have cleared the
+camp of all the Druhgs, talk to Jason.  You will untie him.  He will give you
+the Solaria (Golden Sun Key).  Now, search the chest to the right of the stake
+for:
+
+      Animal Fur Helmet
+      Animal Fur Gauntlets
+      Animal Fur Chest Plate
+      Animal Fur Leg Plate
+      Animal Fur Boots
+      Ball Racker
+
+   There is also a chest to the northwest of the stake.  That one will yield:
+
+      1,500gp
+      Earth Talisman
+      Bone Sickle
+      Level 2 Magic Scroll
+
+   You should now head back to town.  The Ancient Tower only has one enemy in
+it, but it is quite a difficult battle.  In fact, it may be the single most
+difficult battle in the game!  You will want to stock up on all types of
+potions.  In addition, you will want to gain a couple more levels.  Use the
+Recommended Level Guide below for an idea of where you should be.  In this
+case, I would highly recommend the highest level you can get.  Level 7 would
+be a good idea.
+
+
+
+O-----------------------O                           O------------------------O
+| 1e. The Ancient Tower |                           | Recommended Level: 5-7 |
+O-----------------------O                           O------------------------O
+
+   From the town gate, head southeast.  At the "Ancient Tower/Druhg Camp"
+sign, head east.  When you reach the second sign, (just north of Olihoot)
+follow the road to the northeast.  Continue past the Bone Yard sign.  You will
+pass the Misthaven sign.  Now head northeast until you reach the water.
+Follow the water's edge east, then northeast.  When the waters end, you will
+be at the "Druhg Camp/Ancient Tower/Ogrok" sign.  Head northeast.  Your will
+soon arrive at the Tower.
+
+   Inside, talk with Harowen.  She is the women to whom Gus gave his Diamond
+Ring.  She tells you that it is at the top of the tower.  There is a chest
+next to her that has:
+
+      340gp
+
+   Morganna is another character from the multiplayer version of the game.  To
+the left of Morganna is a town teleporter.  To the right of Morganna is a warp
+tile.  Be prepared for a tough battle!
+
+
+Top of Tower
+------------
+
+   The good news is that there is only one enemy to fight in the entire tower.
+The bad news is that the one enemy you are to fight is an ill-tempered dragon!
+Sidious is his name, and burning you to cinders is his game.  He has 800hp,
+making him the toughest enemy you have faced thus far.  General tips to win
+are to avoid his fire breath - not only does it hurt you, but you are
+temporarily unable to fight back.  Now is a good time to practice the use of
+the block button.
+
+   If you manage to defeat him, you will notice that there are 5 treasure
+chests lining the wall.  The first chest, on the far left, has:
+
+      Diamond Ring
+      Ocean Talisman
+      Lesser Healing Potion
+
+   The second chest contains:
+
+      Lesser Mana
+      300gp
+
+   The third chest hides the following:
+
+      Lesser Mana Potion
+      250gp
+
+   The fourth chest yields:
+
+      1,500gp
+      Lesser Restoration Potion
+      Lockpicks
+
+   The final chest will give you:
+
+      Fenrus Collar
+      1,000gp
+      Meat
+
+   Once you are back down on the lower level of the tower, talk to Harowen
+again.  When you are finished here, take the town teleporter back to
+Misthaven.
+
+
+Misthaven
+---------
+
+   Check at the Weapon and Armor Shops to see if there is anything new.  New
+inventories arrive according to what level you are.  Every third level,
+beginning with three, at least one of the shops adds items to their inventory.
+(See the table near the end of this document for more detailed information)
+
+
+Gus' House
+----------
+
+   From the Armor Shop, head southwest.  Enter the next house.  This is Gus'
+House. (remember Gus, the drunk at the Inn?)  Give him back his Diamond Ring.
+He is now willing to take you to Arakna Island.
+
+
+
+O-------------------O                               O------------------------O
+| 1f. Arakna Island |                               | Recommended Level: 6-7 |
+O-------------------O                               O------------------------O
+
+   Be aware that you this will be your only chance to visit Arakna Island.
+Once you leave the island, you can not come back.  Ready to continue?  Here we
+go!
+
+   From Gus, go northwest.  Just off of the trail is a locked chest with:
+
+      1,000gp
+
+   Head northeast along the trail.  Follow the path as it turns to the 
+northwest.  When the path heads straight north, go west toward the water.  
+There is a chest here with:
+
+      Cure Poison
+      Tulwar
+
+   Return to the path and continue north, then northwest.  Right before the
+path curves to the west, head south.  There is a chest hidden here with:
+
+      500gp
+      Amulet of Channeling
+
+   Return to the path, and head north until you reach the waterline.  There is
+a chest here with:
+
+      Lesser Mana Potion
+
+   Return to the trail and head west, then southwest.  Stay near the northern 
+shore; there is yet another chest, this one has:
+
+      Lesser Healing Potion
+
+   Just to the west of this chest is ANOTHER chest.  This one has:
+
+      Woodland Boots
+      Woodland Chest Plate
+      Woodland Leg Plate
+      Woodland Gauntlets
+      Woodland Helmet
+
+   Head south along the trail.  Search the western coast for a chest 
+containing:
+
+      1,000gp
+      Lesser Healing Potion
+
+   Head directly east from this chest all the way to the coast to find a 
+locked chest with:
+
+      500gp
+      Cure Poison
+
+   Now return to the path and follow it southeast.  At the end of the trail, 
+head north.  There is a locked chest here with:
+
+      Lesser Healing Potion
+      Cure Poison
+      1,000gp
+
+   Now go east.  There is a teleporter here.  Step onto it.  When you 
+reappear, you will be greeted by three Recluses.  Kill them and head
+southeast.  You will now have to face the second boss of the game.  Widowett
+is a fair challenge, but not as difficult as Sidious was to defeat.  When she 
+is dead, continue to the southeast.  At the end of the path is a chest 
+containing:
+
+      Stars Talisman
+      Amulet of Rogoss
+
+   Now return to Gus and have him sail you back to Misthaven.
+
+
+Item Shop
+---------
+
+   You should check out the Item Shop while you are in town.  This is one of 
+the only two times in the game that this shop will get new items, so enjoy it 
+while you can.  Hruthford will now offer you the following additional items:
+
+                       -------------------------------
+                       | Sigil Ring        - 4,000gp |
+                       | Emerald Collar    - 3,200gp |
+                       | Amulet of Cunning - 2,000gp |
+                       | Fire Ruby Ring    - 2,500gp |
+                       -------------------------------
+
+   Before you embark on the next mission, you might want to make sure that
+your Hand Combat Skill level is up to 3.  If it is not, fight some enemies in
+the forests to build your Combat Skill level.  You should now be strong enough
+to freely roam the entire Forest.  Before you set out for the Ogrok Camp,
+there are several Treasure Chests awaiting your touch.  Below is a list of
+their locations.  Pay close attention to the land markers so that you will be
+able to find these chests.
+
+   O----------------------------------------------------------------------O
+   |                    Treasure Chests in The Forest                     |
+   O----------------------------------------------------------------------O
+   |  1. North of Ancient Tower near northern coast - 1,500gp             |
+   |  2. From "Ancient Tower/Druhg Camp/Ogrok Sign" go SE, S, then SE     |
+   |     path.  Head E until you reach a river - Lesser Healing Potion    |
+   |  3. From #2, go E to bridge, but don't cross it.  Go S - Sausage,    |
+   |     1,000gp, Fenrus Collar, Cure Poison.                             |
+   |  4. From #2, go E until you encounter an Earth Golem.  Go SE to dead |
+   |     giant.  Head N - 120gp, Lesser Healing Potion.                   |
+   |  5. Near where you encounter Earth Golem - 1,500gp, Cure Poison.     |
+   |  6. SE of dead giant.  Chest is near coast - 1gp, Lesser Healing.    |
+   |  7. From giant, go E until you reach the trail.  Follow trail E and  |
+   |     NE.  When you see mountains, head NE.  There are Skeletons       |
+   |     guarding the chest - 1,000gp, Greater Restoration Potion.        |
+   O----------------------------------------------------------------------O
+
+   When you are ready, head to the Ancient Tower, and prepare to travel to the
+Ogrok Village.
+
+
+
+O--------------------O                              O------------------------O
+| 1g. The Ogrok Camp |                              | Recommended Level: 6-8 |
+O--------------------O                              O------------------------O
+
+   From the Ancient Tower, head east, ignoring all the paths.  You will reach 
+a rock wall and a chest with:
+
+      Greater Mana Potion
+      1,510gp
+
+   Follow the rock wall to the southeast.  You will find another chest.  This 
+one has:
+
+      1,000gp
+      Lesser Restoration Potion
+
+   Follow the river south and southwest until you reach a bridge.  Cross over 
+it and head south until you reach an east to west trail.  Go east along this 
+trail.  You will soon reach the front door of the Ogrok Camp.
+
+   Talk with the Gatekeeper.  They will let you into the camp if you have the
+Amulet of Rogoss.  Once inside, you learn that you will have to defeat their 
+champion in Hand Combat if you would like access to the caves.  You will fight 
+with Baez in the Battle Arena.  If you defeat him, the Ogroks will become more
+friendly toward you.  You will also receive a new weapon - the Soul Cleaver.
+
+   While you are in the Ogrok Camp, you should take some time and search for 
+treasure.  From the Ogrok Chief, go north until you find the rack of dead 
+hanging animals.  Northwest of here is a chest with:
+
+      1gp
+      Meat
+
+   Further to the northwest is another chest.  This one has:
+
+      1gp
+      Cure Poison
+
+   Head south from the Battle Arena to find a chest with:
+
+      1gp
+      Lesser Healing Potion
+
+   Now go southeast from the Battle Arena and cross over the bridge.  Just on 
+the other side is a chest with:
+
+      Band of Regeneration
+      Level 3 Magic Scroll
+
+   From this chest, head southeast, then northeast.  There is a chest outside 
+the entrance to the Caves with:
+
+      1gp
+      Lesser Mana Potion
+
+   Now you should be prepared to enter the Caves.
+
+
+
+
+==============================================================================
+II.   The Caves
+==============================================================================
+
+
+O---------------------O                             O------------------------O
+| 2a. The First Caves |                             | Recommended Level: 7-9 |
+O---------------------O                             O------------------------O
+
+   This is where the game begins to pick up in difficulty.  In addition, the 
+areas become more complex.  For that reason, I have included maps to go along 
+with some of the more complex areas.  In the beginning, however, the Caves are 
+rather straightforward.  Onward!
+
+   Olihoot is waiting for you at the entrance to the caves.  He warns you not 
+to trust anyone.  He also gives you the Sun Talisman.  To the west is a town 
+teleporter, in case you need to return to Misthaven.
+
+   Head to the northwest.  Be careful as you move - those fire geysers are NOT 
+decoration!  Continue following the path to the northeast.  You will soon be 
+able to choose whether you want to go to the northwest or to the southeast.  
+Head southeast.  Kill the Green Dragon who is guarding a chest.  In the chest 
+is:
+
+      Red Scalemail Chest Plate
+
+   Now head west to the end of the trail.  Climb the stairs and head 
+northeast.  Next, climb down the stairs and go southeast.  Near a table and 
+some chairs is a locked chest with:
+
+      1,500gp
+      Lesser Restoration
+      Cure Poison
+
+   Now head northeast until you reach the wall.  To the northwest is a chest, 
+which has:
+
+      Lesser Mana
+      Red Scalemail Helmet
+
+   From here, head to the southeast.  The walls will become greenish.  NEar 
+another table and chairs is a chest containing:
+
+      Red Scalemail Boots
+      Red Scalemail Gauntlets
+
+   From this location, there is a path heading to the northeast, which is 
+guarded by an Earth Golem, and a path heading east.  Go down the eastern path.  
+You will find 2 Issathis guarding a locked chest, which contains:
+
+      1,500gp
+      Lesser Healing
+
+   Head northeast then south from the chest.  Walk down the stairs and pick up 
+the scroll.  Now head southeast.  Near the end of the path is a new (and 
+annoying) enemy - the Cinderate.  As you might imagine, this priest
+specializes in... fire, fire, fire!  You can take either of the two sets of 
+stairs heading northeast and east; they both lead to the same spot.  After you 
+defeat the Green Dragon, continue to the northeast.  
+
+   When you reach the Graveyard, continue to the Northeast.  Next, take the 
+branch-off to the southeast.  There are three chests here.  Going in 
+counter-clockwise order, the first one has nothing.  The second one contains:
+
+      1,500gp
+      Red Scalemail Leg Plate
+
+   While the third one will yield
+
+      20gp
+
+   Now go northwest from here.  Follow the winding trail to its end in order 
+to reach the exit.
+
+
+
+O--------------------O                             O-------------------------O
+| 2b. Kragg Mountain |                             | Recommended Level: 9-11 |
+O--------------------O                             O-------------------------O
+
+   From the entrance to the area, head west to the stairs.  Take them down to 
+the lower level, and kill the Cinderate who dares to impede your progress.  
+Now head west  When the path splits to the southwest and the west, go 
+southwest.  Next, take the stairs south.  When the path forks to the northeast 
+and the east, go east.  Take the stairs down, and prepare to "dance" with 2 
+Skeletons and a Cinderate. (who says that fire and the undead don't mix?)  
+There is a chest near the stairs which contains:
+
+      Blackened Axe
+      Lesser Mana
+
+   Backtrack up the stairs and to the left.  Climb up the second set of 
+stairs.  Now go west and climb down that set of stairs.  From the stairs, make 
+your way westward.  You will pass another set of stairs; ignore them.  There 
+is a locked chest at the end of your westward jaunt which contains:
+
+      Cure Poison
+      500gp
+
+   Now climb the stairs, go west until you reach another set of stairs, and go 
+up them.  Go west until you are at the end of the passage.  There is a chest 
+heal which will give you the following:
+
+      1,000gp
+      Amulet of Thunderbolts
+
+   Return to the east, going down two flights of stairs, and up another one.  
+When you reach the area with the yellow crack in the center, head north and
+west.  Defeat the Monk who is waiting there for you, and go up the stairs.  
+Head east and go up another flight of stairs.  Now go west.  The path will 
+split to the northwest and also continue west.  First take the west path.  
+When the path splits to the north and south, go north.  There is a chest here 
+with:
+
+      Lesser Healing
+
+   Now backtrack to the stairs on the northwest path.  Take the scroll from 
+the remains, then go upstairs.  From here, head east.  Along the north side of 
+the trail is a staircase which will take you north.  It will take you to a 
+Town Teleporter, if you need one at this point.  If you do not need to return 
+to Misthaven, continue to the east.  You will travel down 3 flights of stairs.  
+Once you reach the bottom, head northwest.  You will run into another one of 
+your favorite masters of immolation - the Cinderate.  Just past him is a
+locked chest with:
+
+      1,000gp
+      Bread
+
+   Continue northeast, going up the flight of stairs that you find.  Then head 
+west and you will reach the exit.  Yay!
+
+
+
+O------------------------O                        O--------------------------O
+| 2c. The Infested Swamp |                        | Recommended Level: 10-12 |
+O------------------------O                        O--------------------------O
+
+   First things first.  You will meet up with a new enemy - the Sirocco.  This 
+red ninja is DEADLY FAST!!  You should be very careful about how you fight
+him.  For starters, if you have not yet learned the joys of using the [block] 
+button, now would be a REALLY good time to do so.  One tip I can give you is 
+to block his attacks until his Stamina runs low.  Then nail him!  Anyway, once
+you have mastered the somewhat fine art of dispatching annoying red ninja, 
+climb up the stairs and kill the Ogrok who is mulling about.  In the locked 
+chest you will find the following:
+
+      1,000gp
+      Greater Healing
+
+   Now head back down the stairs.  The path splits to the west, south, and 
+southeast.  Go southeast, and take the stairs down.  Now travel east and you 
+will find the entrance to a mini cave.  Enter in.
+
+
+Fire Cave
+---------
+
+   This is the first of two mini caves situated within the Infested Swamp.  
+Within this cave are only two Monks and a Cinderate.  Dispatch them and head 
+southwest.  Loot the chest for:
+
+      Greater Restoration
+      Bottle of Spores
+
+   The Bottle of Spores appears a bit out of place, but you will need it soon 
+enough.  Now you can leave the cave.
+
+     NOTE:  Perhaps it was only because I was playing in this area REALLY late 
+            at night, but I found it frightfully amusing when a Monk would 
+            accidentally jump onto a Fire Geyser.  Heh, heh...
+
+
+The Infested Swamp
+------------------
+
+   Once you have returned to the main swamp area, make your way back to where 
+you first entered the swamp.  Then take the western path.  Climb the two 
+staircases and continue west.  The path will lead you to a large open area.  
+From here, head north and climb up the stairs.  There is a chest here with:
+
+      500gp
+
+   Now go back down the stairs and head west.  There will be two sets of 
+stairs.  One of them leads you southeast onto some lilypads.  The other one
+heads southwest.  Take the latter stairs.  Ignore the first staircase heading 
+north that you find, but take the second one.  Go all the way to the west and 
+open the chest that you find there.  Inside is:
+
+      1,500gp
+      Cheese
+
+   Now backtrack and use the first set of stairs (the ones that you ignored).  
+There is a series of 5 staircases.  After climbing the third one, head west.  
+Defeat the Sirocco who blocks your path.  Next, take the path to the southeast 
+and enter the mini cave.
+
+
+Fire Cave 2
+-----------
+
+   This is the second of the two mini caves i the Infested Swamp.  Unlike the 
+first mini cave, this one is somewhat more complicated.  For starters, take 
+the first path you find to the north.  At the end of the trail is a chest with:
+
+      Celtic Boots
+
+   Now return to the entrance to the mini cave and head west.  Take the stairs 
+that you find to the north.  Continue north up two more staircases and exit 
+the cave.
+
+
+The Infested Swamp
+------------------
+
+   From the entrance to Fire Cave 2, head east and climb up the stairs that 
+you find there.  Go west and you will find an extremely odd structure.  Go 
+into your inventory, find the Bottle of Spores, and drag it onto the odd 
+structure.  A mushroom ramp will magically appear.  Yippee!  Climb up and 
+enter (or rather, exit) the cave.
+
+
+The Forest
+----------
+
+   I imagine that you did not think you would end up here!  You might have 
+seen this "unreachable" chest earlier in your travels within the forest.  
+Well, what are you waiting for?  Open it to find:
+
+      2 Greater Restoration Potions
+      Enchanted Mana Potion
+      2,540gp
+      Blue Scalemail Helmet
+      Blue Scalemail Gauntlets
+      Blue Scalemail Boots
+      Blue Scalemail Leg Plate
+      Blue Scalemail Chest Plate
+
+   You should now re-enter the Infested Swamp.
+
+
+The Infested Swamp
+------------------
+
+   Backtrack all the way to the beginning of the Infested Swamp.  Now take the 
+path to the south.  The path will curve to the west and split.  There is a 
+double staircase that heads north, and a path going west.  Go west.  When the 
+path ends, take the stairs to the south.  Head east onto the lilypad path.
+You will come to a chest containing:
+
+      Greater Mana
+      Level 4 Magic Scroll
+
+   Now backtrack to the double staircase, and head northwest.  Go west past 
+the tombs.  The path will curve to the south and then to the east.  Pick up 
+the scroll that you find lying on the ground and head east to the end of the
+path - and to the exit.
+
+
+
+O--------------------------O                      O--------------------------O
+| 2d. The Maze of Darkness |                      | Recommended Level: 11-13 |
+O--------------------------O                      O--------------------------O
+
+   This is the point of the game, in my opinion, where the maps become more 
+complex.  At any rate, I have provided a quick way to get all of the treasure, 
+pass by the town teleporter if you need it, and finally reach the exit to this 
+maze:
+
+
+Chest A
+-------
+
+  From the start of the maze, head northeast until you reach the end of the
+trail.  You will find a chest that has:  Greater Mana, Meat.
+
+
+Town Teleporter
+---------------
+
+   From this chest, go northeast, then southeast.  Take the path to the
+southwest.  The first path to the southeast leads to the Town Teleporter.
+
+
+Chest B
+-------
+
+   Backtrack to the start of the maze, and take the path to the southwest.  
+Follow it all the way to the end, then follow the path northwest.  The first 
+trail you find heading to the northeast will lead you to a locked chest with:  
+2,000gp
+
+
+Chest C
+-------
+
+   Backtrack once again to the start of the maze, and head northeast this 
+time.  At the very end of the path, go northwest.  The first path to the 
+southwest leads to a room with a locked chest containing:  Meat, Bread.
+
+
+Chest D
+-------
+
+   Head back out the the hallway and continue to the northwest.  when the path 
+splits to the southwest and the northeast, go southwest.  You will have to 
+fight a Green Dragon, but there is also a chest containing:  1,000gp.
+
+
+Chest E
+-------
+
+   Continue to the northwest.  At the end of the trail, head southwest.  
+Ignore all of the paths that lead to the southeast; keep heading southwest.  
+You will eventually have to choose between heading southeast and northeast.  
+Follow the path to the northeast, and you will reach a room with a chest.  
+Inside the chest is:  Cure Poison, 1,500gp.
+
+
+Chest F and the Exit
+--------------------
+
+   Remember the series of paths that led southeast back along the trail - the 
+ones I told you to ignore?  Backtrack to the southeast trails, and take the 
+second one to the southeast.  You will eventually be forced to choose between 
+going northeast and southwest; both lead to the same place.  Whichever route 
+you take, you should find a path heading northwest.  It soon spills into a 
+room.  The chest in the room contains:  500gp, Greater Healing, Celtic Helmet.
+
+   You will also find the exit here.  Pass through to enter the next area!
+
+
+
+O--------------------O                            O--------------------------O
+| 2e. The Spiral Arm |                            | Recommended Level: 11-13 |
+O--------------------O                            O--------------------------O
+
+   You are nearing the end of your journeys through the caves!  From the 
+start, head southwest.  You will be accosted by Siroccos and Monks.  Continue
+to follow the trail as it winds in several different directions.  Near the end 
+of the passageway, you will be attacked by a Spider Queen and some lesser 
+spiders.  After dealing with them, you will find yourself in an open area with 
+water to the northwest.  Your goal in this area is to find five levers.  These 
+levers will open the five locked gates that bar your passage to the cave exit.  
+For starters, head northwest, and climb the stairs.  There is a chest here 
+with:
+
+      Ice Arrows x25
+
+   This should be a hint that you will soon find and be using a Bow.  But do
+not get TOO excited; you only get to use it for one battle.  Climb back down
+the stairs and head southwest.
+
+
+Lever 1
+-------
+
+   While heading southwest, take the first path that you see heading 
+southeast.  You will see a chest, which contains:
+
+      1,000gp
+
+   From the chest, head southwest.  the path will curve to the northwest.  You 
+are now in a fire and lava area, filled with Sirocco.  On the far wall is the 
+first lever.  In the chest, which is near the lever, is the following:
+
+      Ranger Sword
+      Greater Mana
+
+   Now backtrack to the beginning of this section and head west.
+
+
+Lever 2
+-------
+
+   As you travel west, you will encounter a new enemy - the Zombie.  If you 
+continue heading west, you will eventually come up against a wall, but there 
+should be a path nearby heading southwest.  At the end of this short trail is 
+the second lever.
+
+   Head back to the beginning of the short trail, and continue going 
+northeast.  Along the shore of the lake is a locked chest with:
+
+      Cure Poison
+      1,500gp
+
+
+Lever 3
+-------
+
+   From the chest above, follow the edge of the water to the north.  You will
+have to contend with more Zombies.  Take the first path the the northwest.  It 
+will twist and turn for a bit, then it will deposit you in a swampy area 
+filled with Zombies.  Great...  This area is simpler than it may look.  Just 
+head to the northeast and take the stairs up.  Before you climb the stairs, 
+you should open the chest next to them.  The chest yields:
+
+      1,500gp
+
+   Once you have climbed the stairs, head northwest to the wall.  There is 
+another chest here, this one containing:
+
+      Greater Healing
+      Cure Poison
+
+   From the chest, go southwest.  Before climbing the set of stairs that you 
+find at the end of the path, be sure to open the chest for:
+
+      Greater Restoration
+
+   Finally, once you have climbed the stairs, head all the way to the 
+northeast.  The third lever is here.  Once you have used the lever, make your 
+way back to the underground lake, and head northeast.
+
+
+Lever 4
+-------
+
+   Heading northeast along the underground lake, you will encounter multiple 
+Spider Queens.  They can be quite a challenge at this point.  At the end of 
+the trail, you will see a path heading to the southeast, and two paths heading 
+to the northwest.  Take the left path to the northwest.  You will find a chest 
+that contains:
+
+      Cestus of Slicing
+      2,500gp
+
+   The second trail to the northwest contains the five locked gates.  You will 
+eventually travel down this path in order to reach the exit, but you still 
+have two more switches to find.  So for now, travel southeast.
+
+   You will cross over the lake at one point.  After you cross the bridge, 
+take the first path to the northeast that you find.  This path is pretty much 
+straightforward.  Along the way, you will find a chest which contains:
+
+      2000gp
+      Celtic Chest Plate
+
+   When you come to a fork in the road that heads to the southwest or the 
+northeast, take either path, for they both lead you to the same place.  
+Whichever path you take, you will find a path heading to the northwest.  Take 
+it and you will find the fourth lever at the path's end.  Now backtrack to the
+bridge that spans the underground lake, and head south.
+
+
+Lever 5
+-------
+
+   Head south from the bridge that you used to cross the underground lake.  
+You will eventually find a path heading to the southeast.  There should also 
+be some Siroccos in the area for you to beat on.  Take the southeast path and 
+follow it to its end.  When you are faced with a choice of going southwest or 
+northeast, head northeast.  Follow the trail as it winds to the southeast.  
+Along this path, you will have to contend with a Spider Queen and her babies.  
+There is a chest on this path which contains:
+
+      1,500gp
+
+   From the chest, head southwest, and take the first path to the northwest.  
+Here you will find the fifth and final lever.  After you have used it, head 
+back to the trail with the five locked gates (just to the east of where you 
+got the Cestus of Slicing).  Now would be a good time to head back to 
+Misthaven if you are running low on supplies, especially potions.  You are 
+about to face a challenging boss.  When you are ready, take the path with the 
+five unlocked gates.  Continue going northwest.  There are Spider Queens who 
+will try and slow you down, but they should be fairly easy by now.  When you
+are faced with a choice of two staircases heading to the northwest, choose 
+either one of them.  The path will jog to the northeast.  You will see a large 
+orange-floored room up ahead.  Do not enter this room if you are not yet ready 
+to face the mighty Solifuge!
+
+
+
+O-----------------------O                         O--------------------------O
+| 2f. The Queen's Crypt |                         | Recommended Level: 12-14 |
+O-----------------------O                         O--------------------------O
+
+   Once you have entered the orange-floored room, stay along the southeastern 
+wall.  There is a chest here with:
+
+      Longbow
+      Ice Arrow x25
+      Greater Restoration
+
+   When you are ready, take a deep breath... and head northwest.  Solifuge 
+will drop from the sky.  This beast has 5,000hp!!!  If you haven't figured it 
+out already, the Longbow and the Ice Arrows are not for decoration - use them!  
+First, freeze Solifuge with an Ice Arrow.  Then use your strongest attack 
+combo on him.  You should be able to hit him with two combos before having to 
+freeze him again.  In order to quickly switch from your Longbow to your Sword, 
+do the following:
+
+      1. Press [X] to bring up your Longbow.
+      2. Fire an arrow at him.  When he is frozen:
+      3. Press [C] to draw your sword.  Now pummel him.  After two combos,
+         repeat steps 1 through 3 again.
+
+   When you finally manage to kill it, Solifuge will drop the Copper Key.  
+Head to the northwest corner of the room and drag the Copper Key from your 
+inventory onto the portcullis (gate) in order to unlock it.  Head down the
+short path in order to enter the Queen's Crypt.
+
+   Once you are inside the Queen's Crypt, make your way toward the raised
+platform in the center of the room.  You will see a vision of Andria, Lord 
+Tendrick's daughter.  Climb the stairs.  To the southwest of the center of the  
+platform is a chest containing:
+
+      Level 5 Magic Scroll
+
+   Now go north from the platform.  The chest here contains:
+
+      Greater Mana
+      Greater Healing
+      Spirit Pendant
+
+   From this chest, head southeast, passing the hall heading to the northeast.  
+You will find ANOTHER chest with:
+
+      1,000gp.
+
+   Now take that path to the northeast that you passed up earlier.  You will 
+find the exit to the caves, and... Sardok?!?  It turns out that he could have 
+transported you here all along.  However, you needed to become stronger, which 
+is why he made you travel here on foot.  There is also a Town Teleporter here.  
+He tells you to accompany him to the Keep.  Use the Teleporter and return 
+there.
+
+
+The Keep
+--------
+
+   Head to the throne room and report what you have discovered to Lord 
+Tendrick and Sardok.  They tell you that you should visit the shops in town to 
+purchase items.  However, the new inventories in stores depend on your level, 
+so if it isn't a multiple of 3, forget it.  However, you might want to stop by 
+the Library and talk to Geralt.  He can tell you some things about the Ruins, 
+which is the next major area that you will be visiting.  When you are all 
+supplied and ready to go, use the Teleporter to return to the caves, and pass 
+through the cave exit.  You are now in the ruins of East Ahkuilon.
+
+
+
+
+==============================================================================
+III.   East Ahkuilon
+==============================================================================
+
+
+
+O---------------O                                 O--------------------------O
+| 3a. The Ruins |                                 | Recommended Level: 12-15 |
+O---------------O                                 O--------------------------O
+
+   From the entrance to the caves, head northeast and cross over the bridge 
+that you find.  Continue northeast, where you will find another bridge to 
+cross.  Once on the other side, continue northeast.  You will meet a strange 
+man named Navarro Al Xace.  He is yet another one of the characters you are
+able to play in the Multiplayer game, but can do nothing with here.  Head 
+northeast into the maze arae.
+
+   You will find yourself in a maze.  There are several chests that you need 
+to collect, both on the outside and on the inside of the maze itself.  For 
+starters, before you enter the maze itself, head northwest.  You will be faced 
+with Spider Queens and Druids.  There are two chests on the left side of the 
+maze.  The first one has:
+
+      Root
+
+   While the second chest contains:
+
+      1,500gp
+
+   Now make your way to the maze entrance and head southeast, exploring the 
+right outside edge of the maze.  You will face Zombies in this area.  There 
+are also two chests on this side (hooray for symmetry!).  The first one
+contains:
+
+      Empty Vial
+
+   The second one, which is northeast of here, is guarded by a White Dragon!  
+This chest contains:
+
+      Blue Flower.
+
+
+The Maze
+--------
+
+   The maze itself is small, but quite complex for me to explain in the 
+traditional manner.  Rather, I will tell you what is in every chest.  Many of 
+the chests contain items that you WILL need to pick up, so be sure the get 
+them all.  I have placed a  *  next to any item that you MUST have to 
+continue.  Use this as a guide while traveling the maze.  The exit is on the 
+northeast wall.
+
+
+                      O--------------------------------O
+                      |     List of Maze Treasures     |
+                      O--------------------------------O
+                      | *1. Empty Vial                 |
+                      |  2. Greater Mana, Cure Poison  |
+                      |  3. Valkyrie Sword             |
+                      |  4. 500gp                      |
+                      | *5. Water Vial                 |
+                      O--------------------------------O
+
+
+   Once you are on the other side of the maze, you will find yourself in the 
+graveyard.  There is a new enemy located here - the Wraith.  They are quite 
+powerful, so take care.  In the graveyard, there is a chest in the north 
+corner which contains:
+
+      Bone
+
+   From this chest, go southwest, climb the stairs, and head northwest.  
+Follow the path as it curves to the northeast.  Defeat the Spider Queen and 
+continue to the northeast.  At the end of the path, head southeast to the end.  
+There is a locked chest here with:
+
+      2,000gp
+
+   Now head back to the northwest.  Turn to the southwest, but take the first 
+path that you see to the northwest.  Follow this path to its end, killing the 
+Spider Queen that you find along the way.  There is a chest at the end of the 
+path which will yield:
+
+      5,000gp
+      Ring of the Arcane
+
+   Now return to the graveyard.  Head to the southeast corner of the 
+graveyard and climb the stairs.  Head to the southeast, ignoring the path to 
+the northeast for now.  At the end of the path there is a Druid and a Wraith 
+waiting for you.  Dispatch them and head southwest.  Along the way, you will 
+battle more Zombies and Wraiths.  At the end of the path is a chest with:
+
+      Issathi Claw
+
+   Now backtrack to the northeast, and continue to the northeast, past the 
+place where you encountered the Druid and the Wraith.  At the end of the path, 
+you will find a chest with:
+
+      Acid Vial
+
+   Remember the path that you ignored earlier, the one that headed to the 
+northeast?  Backtrack and take this path now.  You will be in a large room 
+filled with Wraiths.  Yippee!  In the southeast corner of the room is a set of 
+stairs, but for now, walk past the stairs and head northeast between the 
+stairs and the wall.  You will reach a chest that contains:
+
+      Empty Vial
+      1,000gp
+
+   Now head back and climb the stairs.  Follow the path to its end, where you 
+will find a chest containing:
+
+      Greater Restoration
+      Nightshade Boots
+      Nightshade Gauntlets
+      Nightshade Helmet
+      Nightshade Chest Plate
+      Nightshade Leg Plate
+
+   You should now return (once again) to the graveyard, this time taking the 
+wide staircase to the northeast.
+
+   There are tons of undead here. (well, maybe not a ton, but at least 
+1,000lbs worth)  The Zombies should be pretty easy for you by this time, but
+the Wraiths are still a challenge.  Before proceeding up the very wide set of 
+stairs, open the chest to the left of the stairs to find:
+
+      Empty Vial
+
+   There will be two paths heading northeast.  Take the one on the right.  You
+will find a chest with the following items:
+
+      Sausage
+      Greater Restoration
+      Gate Portal Scroll
+
+   You will find yourself in an area with a locked portal and six alters.  By 
+now, you have also amassed quite an odd collection of items.  You should have 
+all of the following:
+
+
+                           O----------------------O
+                           |     Ritual Items     |
+                           O----------------------O
+                           | 1. Four Empty Vials  |
+                           | 2. Root              |
+                           | 3. Blue Flower       |
+                           | 4. Issathi Claw      |
+                           | 5. Bone              |
+                           | 6. Water Vial        |
+                           | 7. Acid Vial         |
+                           O----------------------O
+
+
+   First, go to your inventory and drag each of the items numbered 2 through 5
+in the above list onto an empty vial.  You should now have six vials with
+something in each of them.  Now drag each vial from your inventory onto one of
+the six alters.  After placing them all in the alters, the portal opens.  Now
+pass through the portal.
+
+   Once you have stepped through the portal, you have only a staircase, a 
+Zombie, and a White Dragon to contend with.  At the top of the stairs is the 
+entrance to the next area.
+
+
+
+O-------------O                                   O--------------------------O
+| 3b. The Pit |                                   | Recommended Level: 13-15 |
+O-------------O                                   O--------------------------O
+
+   You are now in the pit of the great ruins of West Ahkuilon.  Head southeast 
+for a bit and you will be treated to a cutscene with Sabu and Jhaga plotting
+great evil.  Once you regain control of your character, continue to the 
+southeast.  The hall will eventually deposit you into a room with a Town 
+Teleporter, in case you need to return to Misthaven.  There is a chest by the 
+teleporter which contains:
+
+      Greater Restoration
+      1,500gp
+
+   Now head down the stairs, but beware of the volleys of arrows which will 
+come streaking from the wall.  They are quite effective at killing you, so be 
+extra careful and slow.  Once you are down the stairs, you will reach a large 
+open area with an island in the center, surrounded by water.  On that mini 
+island is a building, but the door is locked, so you will be unable to enter 
+it - for now.  You will also get a taste of a very evil new enemy - the Dark 
+Revenant.  Essentially, these characters are the same as you with regards to 
+many of their abilities.  They like to cast a fire bolt at you, then close with
+you and attack with their very effective combat skills.  There are three paths 
+(besides the one you entered the area from) that lead out of this room:  One 
+in the northeast, one in the southwest, and one in the southeast, which can be 
+reached by crossing over the water.  For starters, take the southwestern path.
+
+   As you travel along the path, notice the rows of holes in the ground.  
+Spikes will shoot up from these, and they really hurt.  At the end of the path 
+is a room which is occupied by a Druid.  After ridding the world of another 
+annoying monster-summoner, search the chest for:
+
+      Blackened Morningstar
+      1,000gp
+
+   There is also a gate here, which leads to the basement.  However, it is 
+currently locked.  Head back to the room with the island in the center and 
+take the northeastern path.
+
+   This area is similar to the one you were just in.  There is another Druid, 
+eagerly waiting to sharpen your sword on his body... Search the chest in this 
+room for:
+
+      Ward Talisman
+      Level 6 Magic Scroll
+
+   There is another locked gate in this room, similar to the other room.  It 
+also leads to the basement.  Now return again to the room with the island in 
+the center, and take the southeastern path.
+
+   You will pass through a garden-like area, which is occupied by a Wraith.  
+At the end of the path, you can choose to go either to the southwest or to the 
+northeast.  Go to the southwest.  Once you reach the corner, you must contend 
+with a White Dragon.  After killing it, loot the locked treasure chest for the
+following:
+
+      1,500gp
+
+   From here, head southeast.  The path will curve to the east and then to the 
+northeast.  You will come upon a red warp tile which is guarded by a Dark 
+Revenant.  After dispatching of your evil twin, step on the warp tile.
+
+   You will be transported northwest across the water onto a small island.  
+There are three more warp tiles here.  The one on the bottom returns you to 
+where you came from.  Take the farthest left warp tile.  You will be 
+transported to a tiny island with a chest.  Inside is:
+
+      Greater Restoration
+      Meat
+      Temple Key
+
+   Return to the island with three warp tiles, and take the one on the right.  
+You will be transported to another tiny island.  This one has a lever on it.  
+After using the lever, you should make your way back to the room in which you 
+found the Ward Talisman.  You can now open the portcullis and enter the 
+basement.
+
+
+Basement
+--------
+
+   From the stairs, head to the southwest.  You will fight a couple of Dark 
+Revenants along the way.  Eventually, you will reach an open area with a raise
+platform in the center, and six paths branching off in every direction.  The 
+paths that head to the north, south, east, and west all have warp tiles on 
+them that do not function.  The path heading southwest leads to a staircase 
+that will return you to the upper floor.
+
+   First, climb the raised platform in the center of the room and fight the 
+Dark Revenant.  There is a chest here with:
+
+      2,000gp
+
+   Now climb back down and take the path to the northwest.  At the end of the 
+path is a temple, but it is "guarded" by an Earth Golem, which should be 
+nothing more than an amusing joke by this point in the game.  Defeat it, and 
+use your Temple Key to unlock the door and enter the Temple.
+
+
+Temple
+------
+
+   Head northwest and up the stairs.  Note the gate on the northeastern wall 
+right before you climb the stairs.  You will be back here later.  Many of the 
+initial enemies that you face in this area are incredibly weak, but they soon 
+become quite strong, so do not become too overconfident!
+
+   There are three paths, all heading to the northwest.  Start by taking the 
+center path.  The path will take you to a room that is guarded by a White 
+Dragon.  On the right side of the room is a chest with:
+
+      2,000gp
+
+   Next, head all the way to the top northwest corner of the room, and pull 
+the lever.  Remember the building on the island surrounded by water which you 
+could not enter because it was locked?  Well, it is no longer locked.  Before 
+you rush over there, however, step on the warp tile.  This will transport you
+to a chest which contains:
+
+      Ninja Boots
+      Ninja Gloves
+      Ninja Mask
+      Ninja Shirt
+      Ninja Pants
+
+   This armor, besides being quite effective at protecting you, actually gives 
+you a +2 Agility bonus, rather than taking 2 from that stat!  Plus, it looks 
+really cool!  Now you should make your way to that building on the island.
+
+   When you open the gate and enter the room, you should climb the stairs and 
+search the chest for:
+
+      Black Dragon Helmet
+      Black Dragon Gauntlets
+      Black Dragon Chest Plate
+      Black Dragon Leg Plate
+      Black Dragon Boots
+      Temple Key
+
+   Now, do you remember that gate in the Temple that was right at the base of 
+the stairs?  You should now return there and use this new Temple Key on that 
+locked gate.  Once inside, all you have to do is defeat the Druid that is 
+waiting for you.  Open the chest in this room for:
+
+      Holy Boots
+      500gp
+
+   Step on the warp tile to progress to the next area.
+
+
+
+O------------------------------O                  O--------------------------O
+| 3c. The City of the Children |                  | Recommended Level: 15-16 |
+O------------------------------O                  O--------------------------O
+
+   You have no reached the city of the Children of Change!  Now you KNOW that 
+you are getting closer to your goal!  To start, open the portcillis and head
+southwest, defeating the Dark Revenants along the way.  On the northwest wall 
+is a gate.  Enter it.
+
+
+Chamber of Horrors
+------------------
+
+   This is the torture chamber.  As you will soon see, there are a few of 
+these rooms in the city.  Enjoy!  There is an Ogrok Torturer here that you can 
+talk to for a chuckle.  Other than that, there is nothing of note in here.  
+Head back out to the main hall.
+
+
+   Now continue to the southwest, and enter the next door that you see on the 
+northwest wall.  You have stumbled into the kitchen!
+
+
+Kitchen
+-------
+
+   You should talk to the Ogrok Chef.  He will intimate to you that many of 
+the creatures who serve the Children of Change do so against their will.  
+Apparently, someone is using a control spell on them.  Again, return to the 
+main hall.
+
+   From the entrance to the kitchen, head southeast and cross the bridge.  
+There is a Town Teleporter nearby in case you are feeling the urge... the urge 
+to return to Misthaven.  Otherwise, turn and head northeast.  Enter the first 
+door that you come upon.
+
+
+Chamber of Horrors 2
+--------------------
+
+   First, defeat the two Vashars that occupy this room.  Next, search the
+chests for a meager amount of treasure.  The first three chests, which are in 
+front of the jail cell, contain: (from top to bottom)
+
+      #1 - Morning Star
+      #2 - Lesser Restoration, 50gp
+      #3 - Greater Healing, Lesser Mana
+
+   The chest on the other side of the iron bars contains:
+
+      Maul
+
+   Now leave this Chamber of Horrors and return to the mail hallway.  Continue
+to travel to the northeast.  Ignore for now the paths that you come across 
+heading to the southeast and northwest.  You will soon come upon another door.  
+Enter in.
+
+
+Priest's Chamber
+----------------
+
+   Inside this building you will find Wanet the Priest.  He informs you that
+not all the priests serve the Children of Change cult.  He claims to be 
+seeking a way to bring the cult down from the inside.  Whether or not you 
+believe him, you should search the chest in this room for:
+
+      Holy Gauntlets
+      1,500gp
+
+   Now return to the main hallway, and head northeast once again.  This time 
+you will come to a somewhat more ornate door.  Enter the building.
+
+
+Armory
+------
+
+   First of all, you will be greeted by some old friends:  Vashars, and 
+Kanthas and Acolytes (oh, my!).  After you defeat them, search the two chests
+behind the counter.  The left one contains:
+
+      Dark Revenant Scroll
+
+   While the right one hides:
+
+      Law Talisman
+      Cure Poison
+      Bread
+
+   After you are done with your looting spree, return to the main hall.  From 
+here, go southwest until you reach the path to the southeast that you passed 
+up a while ago.  At the end of this path is a room with a raised platform in 
+the center.  Defeat the White Dragon who resides here and climb the platform.  
+Search the chest that is there for:
+
+      Greater Healing
+      Gauntlets of Chaos
+
+   Now make your way back to the Town Teleporter.  From here, go northwest and 
+cross over the water.  After crossing the bridge, head southwest.  Along the 
+path you will find a chest containing:
+
+      2,000gp
+
+   There is also another White Dragon here to... entertain you.  Now follow 
+the path as it jogs to the northwest.  Continue along the path, an you will 
+eventually face a new enemy - the dreaded Shadow Minion.  Not only is this 
+enemy a ninja, meaning that he is fast and deadly, but he can also turn 
+invisible.  If this happens, you can not hurt him.  The same can not be said 
+about the effectiveness of his weapons, however, so don't just stand there - 
+run!  He will eventually become visible again.  Defeat him, and continue to 
+the end of the path, where you will find a warp tile.  Step onto it.
+
+   You will find yourself in another part of the city.  From here, head 
+northwest.  Climb the stairs and follow the path.  You will eventually be 
+heading southeast.  Defeat the Dark Revenant guard, and take the first path to 
+the southwest.  In this area are two more paths, both going southwest.  Take 
+the lower path to its end and step onto the warp tile.
+
+   You will be transported to the lower level of this room.  Nearby is an 
+alter with a sword on it.  The sword is a Flamberge, and it is quite powerful
+and wicked looking (with big, pointy teeth).  Return to the upper level, and 
+head northeast to the hall.  Now turn and go southeast.  Follow the path as it 
+curves to the southeast.  You will run across a ninja convention here - Shadow 
+Minions and Ramages!  After defeating these enemies, take either of the two
+paths to the southeast.  You will end up in a large, rectangular room.  
+   
+   The path is guarded by two White Dragons, as well as Shadow Minions.  Make
+your way to the center portion, which is surrounded by water on three sides.  
+There is a chest here with:
+
+      500gp
+      Greater Mana
+
+   Head southeast from the chest until you reach the end of the room.  Open 
+the gate on the northeast wall to exit the area.
+
+
+
+O-----------------------------O                   O--------------------------O
+| 3d. The Underground Pyramid |                   | Recommended Level: 15-17 |
+O-----------------------------O                   O--------------------------O
+
+   Right at the beginning of this area is a Town Teleporter, in case you need 
+to return to Misthaven.  If you do not, then head down the staircase.  Once 
+you reach the bottom of the stairs, head to the northeast, fighting Dark 
+Minions and Dark Revenants all the while.  Along the way, you will come across 
+two chests.  The first one contains:
+
+      Greater Healing
+
+   And the second one yields:
+
+      Cure Poison
+      1,500gp
+
+   You will eventually come to a gate.  Open it and pass through.  You will 
+find another chest containing:
+
+      Wyrmm Key
+
+   You should immediately head back to the Town Teleporter at the beginning of 
+the area and head back to the Keep.
+
+
+The Keep
+--------
+
+   If you may recall, there was a chest in the Keep that you could not open, 
+even with your lockpicks.  Head to that chest, which is north of the Town 
+Teleporter.  Use the Wyrmm Key on the chest, and you will receive:
+
+      Wyrmm's Tooth Sword
+
+   This is the second most powerful sword in the entire game!  Now, return to 
+the underground by means of the teleporter.
+
+
+The Underground Pyramid
+-----------------------
+
+   Make your way back to the chest which held the Wyrmm Key.  Follow the path 
+to the end and you will find a warp tile.  Step onto it.  From where you 
+appear, head southwest.  Beware of the arrow traps along the way.  No less 
+deadly are the Dark Ogrok's and a new enemy - the Dorogar.  This enemy, in my
+opinion, is probably the single most difficult non-boss enemy in the game.  
+Enjoy!
+
+   Continue to the southwest, and you will arrive in a room with several Dark 
+Ogroks.  Kill them all and head to the alter in the center of the room.  There 
+is a Bastard Sword lying there, just waiting for an owner (of course, with 
+that Wyrmm's Tooth Sword, it's kinda pointless).  When you finally reach the
+end of the path, turn and head southeast.
+
+   You will come to a small room with a White Dragon and two chests.  The left 
+chest is locked, and will give you:
+
+      2,000gp
+
+   You should also search the right chest for:
+
+      Holy Leg Plate
+
+   Now continue to the southeast to reach the pyramid itself.  The pyramid
+itself is simple: it is essentially one long path which winds back and forth.  
+You will note that I said "simple."  I most certainly did not say "easy."  A 
+cast of your favorite enemies are here to greet you in force.  The three most 
+notable (and powerful) are: Dorogars, Shadow Minions, and White Dragon.  Since
+this area is so straightforward, I will mention the chests you will find along 
+the way according to what level they are on.  There is a chest on almost every 
+level, so get your looting gloves ready:
+
+
+                     O-------O--------------------------O
+                     | Level |      Chest Contents      |
+                     O-------O--------------------------O
+                     |   1   | Greater Healing          |
+                     |   2   | 1,500gp, Cure Poison     |
+                     |   3   | 2,000gp, Cure Poison     |
+                     |   4   | 2,000gp, Greater Healing |
+                     |   6   | 5,000gp                  |
+                     |  Top  | Dragon Eye Pendant       |
+                     O----------------------------------O
+
+
+   At the top of the pyramid, you will find a warp tile.  Step onto it in 
+order to progress to the next area.
+
+
+
+O-----------------------O                         O--------------------------O
+| 3e. The Chase of Sabu |                         | Recommended Level: 16-18 |
+O-----------------------O                         O--------------------------O
+
+   First thing to do is to slaughter the two Dark Ogroks who are standing 
+guard.  Then open the chest in the room to find:
+
+      Door Key
+      2,000gp
+
+   Use the Door Key to open the locked gate and continue to the northwest.  
+Continue along the path as it swerves to the northeast.  Go through the first 
+door on the northwest wall.  In this room, you will come face to face with 
+Sabu for the first time.  After a short bantering of words, he will disappear, 
+leaving you alone to loot the chests in this area.  The chest on the left has 
+nothing in it, so go right and flip the switch.  Then search the chest that is 
+next to the switch for:
+
+      Ninja-to
+
+   Return to the hallway and continue to the northeast.  After opening another 
+gate, you will be in a room with long, rectangular pools of water.  You will 
+also encounter a new (and in my opinion, very ANNOYING) enemy - the Arcanist.
+Between two of the pools is a chest, but it is empty, so forget about it.  
+Just continue to head northeast.
+
+   You will eventually come to a four-way intersection.  Sabu is also here.  
+You will watch as he flips a switch and heads off to the northwest.  When you 
+can once again move, search the chest in this room for:
+
+      Golden Morningstar
+
+   Now you should head to the southeast.  Follow the path, fighting Arcanists
+and Dorogars along the way.  Eventually, you will overhear a conversation 
+between three Ogroks.  I found this to be the most amusing part of the entire 
+game.  Besides their conversation, which contains a not-too-subtle reference 
+to a title by another game company, but they also have fun names.  Eventually, 
+though, you will have to storm the room and kill Mort, Urgg, and Slagg.  While
+you are at it, search the chest for:
+
+      1,000gp
+      Greater Healing
+
+   Head northeast from here, and follow the path as it curves to the 
+northwest.  In the corner, you will be assaulted by two Shadow Minions.  In 
+the corner is a chest, which contains:
+
+      Earthen Gauntlets
+
+   From the chest, head southeast and take the next path to the northwest.  In 
+this room, you will be confronted by a ghost who apparently knows you.  He 
+will reveal more bits and pieces of your past.  He instructs you to take what 
+is in the chests in front of you, which you certainly do not need to be told
+twice to do.  The left one yields:
+
+      Hallway Key
+      Exit Door Key
+
+   While the right one gives up:
+
+      Level 7 Magic Scroll
+
+   Now head back to the hallway and continue southwest along the path.  When 
+you reach the end, use the Exit Gate Key to unlock the gate.  You will find 
+yourself back in the four-way intersection room.  Use the Hallway Key on the 
+northwest door and head in that direction.
+
+   Follow the path as it twists.  Along the way, you will find a chest 
+containing:
+
+      2,000gp
+      Meat
+
+   Keep following the path and you will once again stumble upon Sabu.  This 
+time, he will release two War Kanthas to attack you.  They are much tougher 
+than regular Kanthas, but they are still no match for Locke.   Now head to the 
+southwest until you come to a room.  Sabu will try to personally attack you 
+this time, but he will fail.  He then will disappear.  Search the chest in 
+this room for:
+
+      2,000gp
+
+   Head southwest from here.  You will once again be attacked by enemies.  In 
+the next room that you arrive in, search the chest for:
+
+      Holy Chest Plate
+
+   From here, go northwest.  Along the way, you will face a new enemy - the 
+Stone Golem.  He is not too terribly difficult to defeat, and he yields a lot
+of experience.  At the end of the path, step on the warp tile to proceed to 
+the next area, and to continue chasing Sabu.
+
+
+
+O--------------------O                            O--------------------------O
+| 3f. The Slave Camp |                            | Recommended Level: 17-19 |
+O--------------------O                            O--------------------------O
+
+   From the start of this level, head to the northeast.  At the end of the 
+path, turn and head southeast.  Again, turn down the first path to the 
+southwest.  Open the chest that you find here to receive:
+
+      Gothic Key
+
+   This key will open the chest in the Armor Shop, the next time you find 
+yourself in Misthaven.  From this chest, head southeast.  Take the second path 
+you find going northeast.  The path will branch off in two directions.  Each 
+branch has a chest.  The left chest has nothing, while the right chest yields:
+
+      Holy Helmet
+      Enchanted Healing
+
+   You should now have the complete Holy Armor set.  When fully equipped, this 
+armor will give you +15% to your health.  Quite useful, and it looks pretty 
+cool as well!  Backtrack and take the first path (the one that you passed up 
+earlier) to the northeast.  Follow the trail at it curves to the southeast.  
+Along the way, you will find a chest containing:
+
+      2000gp
+      Enchanted Restoration
+
+   Now return to where you received the Holy Helmet, and go southwest.  The 
+first path that heads to the northwest will give you:
+
+      1,000gp
+
+   Continue moving southwest.  When you reach a four-way intersection, turn 
+and go southeast.  At the end of the spiraling path is a chest with:
+
+      Cure Poison
+      Meat
+
+   Now return to the four-way intersection, this time going southwest.  When 
+the path comes to an end, turn and head southeast.  When this path ends, take 
+the stairs up and go northeast.  Follow the path, and take the first path you 
+find going southwest.  There is a chest here with:
+
+      Greater Healing
+      Greater Mana
+
+   Take the path to the end, passing by the stairs.  Now head northeast a few 
+steps, then go northwest up the stairs.  You will encounter a new enemy here:  
+the Burning Praetor.  There is a chest at the end of the path, which contains:
+
+      Greater Mana
+      Greater Restoration
+
+   Now, go back downstairs and head northwest, then northeast.  After a fight
+with the always annoying Arcanist, and a Stone Golem, you will reach a room 
+with two chests.  The upper chest holds:
+
+      Magic Sceptre
+
+   And the right chest yields:
+
+      Enchanted Mana
+      1,000gp
+
+   Head southwest and take the stairs down to the lowest level.  Head 
+southeast and go down the stairs.  Defeat the Stone Golem and War Kanthas.  
+Once you have dispatched your foes, head northeast.  When the path branches 
+off to the northwest and the southeast, head northeast.  At the path's end, 
+turn and head east.  There is a chest here with:
+
+      Greater Mana
+      5,000gp
+
+   Now head northeast to the corner of the room, then head southeast.  Take 
+the next path that you find to the southwest.  There is a chest here with:
+
+      1,500gp
+
+   Return to the southeast path and follow it to its end.  Now turn and go 
+west.  There is a whole collection of enemies here for your slaying pleasure.  
+There is also another chest, yielding:
+
+      2,000gp
+
+   From the chest, head east, then go northwest.  Take the path to the 
+northeast path when you come across it.  You will then encounter Sabu once 
+again, along with his two pet Kanthas.  He will teleport you into the Slave 
+Camp.  Wonderful!!
+
+
+Slave Camp
+----------
+
+   There is a Town Teleporter just southeast of where you enter the camp.  
+Time to head back to the Armor Shop and see what is in that chest.
+
+
+Misthaven
+---------
+
+   Make your way to the Armor Shop.  Inside, head over to the chest, and use 
+the Gothic Key to unlock and open it.  Inside you will find:
+
+      Gothic Leg Plate
+      Gothic Helmet
+      Gothic Chest Plate
+      Gothic Boots
+      Gothic Gauntlets
+
+   When you are done making any other necessary purchases, head back the Slave 
+Camp.
+
+
+Slave Camp
+----------
+
+   Head northeast from the teleporter.  When you reach the room with the green 
+center, head to the northeast side of the room.  Talk to the Slave Druhgs that 
+are working here.  They will tell you that you will have to kill Sabu before 
+they will truly feel that they are able to escape.  From here, head northeast 
+down the corridor.  It will take you to a room with some War Kanthas in it.  
+Defeat them and continue going northeast.  At the end of the path, climb the 
+stairs and go southwest.  Take the path to the southeast.
+
+   You will meet Shegra the Druhg hottie!  She finds you to be QUITE
+attractive.  She is quite the flirtatious little Druhg.  Anyway... she offers 
+to help you kill Sabu, but you must pay her price.  You must give her a kiss 
+first.  Go ahead and do it - it won't _kill_ you, since you are already 
+an undead.
+
+   Now return to the hall and head southwest.  At the end of the trail, use 
+the Entrance Key to unlock the gate and enter in.  You will be treated to a 
+small cutscene where you will be shown sneaking up from behind Sabu, drawing 
+the weapon that Shegra gave you, and plunging it into the evil priest.  He 
+proceeds to die rather unceremoniously.  There are also two chests here, both
+of which you should thoroughly loot.  The left chest holds:
+
+      Bread
+      3,000gp
+
+   While the one on the right will enrich you with:
+
+      Meat
+      2,000gp
+
+   Now step on the warp tile.  You will appear back at the beginning of the 
+Slave Camp.  Head northeast to where the Slave Druhgs are, and tell them about 
+Sabu's death.  They will be free at last, free at last...  Now head back to
+the southwest.  Use the Entrance Key to unlock the gate on the southeast wall.
+Proceed inside and step on the warp tile.
+
+
+
+O------------------------O                        O--------------------------O
+| 3g. The Nahkranoth Lair |                       | Recommended Level: 18-20 |
+O------------------------O                        O--------------------------O
+
+   From the start of the area, head northeast.  Step on the warp tile that you 
+find there, but you had better be ready for a fight.
+
+   You will encounter Sabu's superior, Jhaga, in this area.  Prepare to fight 
+a wizard!  He will teleport to different areas of the room, but he follows a 
+pattern that is easy to learn.  He will also summon Dark Revenants to aid him, 
+but you ought to be able to cut through them easily with your Wyrmm's Tooth 
+Sword.  He will also cast a fire bolt at you each time that he teleports.  A
+good strategy is to stand in the center of the room, dodging fire bolts as 
+they come your way.  When he reaches the center of the room, let him have it!
+
+   Once you defeat him, you will be transported to another area.  Once again, 
+you will see an image of Andria.  Head northeast.  Before climbing the stairs, 
+open the chest for:
+
+      1,000gp
+      Enchanted Healing
+      Level 8 Magic Scroll
+
+   To the northwest of the stairs is another chest, containing:
+
+      Alpha Gem Necklace
+      1,000gp
+
+   Now head northeast up the stairs.  You will come to a skeleton seated upon
+a throne.  You will bend over to pick up a shiny something or other... When 
+you finally wake up, you will find that you are no longer in Nahkranoth land.
+
+
+Olihoot
+-------
+
+   You wake up to somehow find yourself in front of Olihoot's home.  Search 
+your inventory for a surprise: You now have the complete Nahkranoth Armor
+set!!! (note that there is no Helmet)  This is the best armor in the game.  
+Each piece gives you +15% to both your health and your mana.  Even better, you 
+can wear your favorite helmet with it.
+
+   Olihoot will tell you much more about your past.  He also begins to tell 
+you about Sardok, but before he can finish, the devil himself shows up and 
+kills Olihoot!  He then demands that you meet him in the Keep.  What is worse, 
+you don't have a choice!
+
+
+Item Shop
+---------
+
+   Before going to the Keep, you should stop by the Item Store.  Hruthford has 
+received some new items.
+
+
+The Keep
+--------
+
+   Report all that you have learned to Lord Tendrick and Sardok.  An argument
+between Lord Tendrick and Sardok soon begins, with the wizard gaining the
+upper hand and killing Lord Tendrick!!  He will tell you that the only way to
+rescue Andria and defeat Yhagoro is to travel to the demon plane, Anserak.
+Sardok is the only one who can take you there.
+
+
+
+
+==============================================================================
+IV.   Anserak
+==============================================================================
+
+   You will now have to traverse a series of colored labyrinths.  As you will 
+soon learn, there are similar goals in each maze:  You must find the Crystal 
+in the maze, and take it to a special portal. (which I will call an Unlock
+Portal)  You can then head to the exit.  Each Crystal unlocks a door in the 
+Purple Labyrinth.  In this series of labyrinths also lies the ultimate weapon, 
+Angsaar.  It has been broken into pieces, however, so you will need to
+re-construct it.  Let us begin!
+
+
+O-------------------O                             O--------------------------O
+| 4a. Red Labyrinth |                             | Recommended Level: 19-21 |
+O-------------------O                             O--------------------------O
+
+   From the start, head southeast, and go down the stairs.  At the four-way 
+intersection, head northeast.  There is a Town Teleporter here.  Now go 
+northwest, and you will come to a chest which holds:
+
+      Labyrinth Scroll
+
+   Head southwest from the Town Teleporter, then turn and go southeast.  Take 
+the first path to the southwest.  The first path that you pass going northwest 
+heads to the exit.  Take the second path northwest.  You will enter a large 
+room with three chests.  The chest on the far left has:
+
+      Enchanted Healing
+      500gp
+
+   The second chest yields:
+
+      Red Crystal
+
+   And the third chest hides:
+
+      Enchanted Mana
+
+   Now head southeast, then northeast down the hall.  When you reach the large 
+room, continue to the northeast.  You will find two chests.  The left chest 
+will give you:
+
+      Level 9 Magic Scroll
+      Death Talisman
+
+   The right chest will offer to you:
+
+      Berserker Sword
+
+   Continue to follow the path to its end.  This is the location of the Unlock 
+Portal.  You will use the Crystal and unlock the first of seven doors.  Now, 
+backtrack to that path you passed by earlier, which led to the exit.  Step 
+through the portal.
+
+      --- Note that the rest of the labyrinths are not this easy!!! ---
+
+
+
+O---------------------O                           O--------------------------O
+| 4b. White Labyrinth |                           | Recommended Level: 19-22 |
+O---------------------O                           O--------------------------O
+
+   From the start of the area, head southeast.  Take the next turn to the 
+southwest.  Ignore the first path northwest, but take the second one.  Now go 
+to the northeast, where you will find a chest with:
+
+      Hilt
+      2,000gp
+
+   The hilt is one of the three parts that make up the Angsaar sword.  Make 
+your way back to the start of the area, and head northeast from there.  Once 
+you arrive at the four-way intersection, go northeast.  Climb up the stairs 
+and defeat the BLUE Dragon that is waiting for you.  There is a chest here 
+with:
+
+      2,500gp
+      Enchanted Healing
+
+   Now return to the four-way intersection and go southwest.  Head down the 
+stairs and continue southwest.  Another Blue Dragon and another chest are 
+waiting for you.  The chest holds:
+
+      1,500gp
+
+   From here, head southwest then southeast.  When the path branches to the 
+southwest and to the southeast, head southeast.  At the end of the path, turn 
+and go northeast.  There is a chest here with:
+
+      2,500gp
+      Enchanted Mana
+
+   Now return once again to the four-way intersection, this time going 
+southeast.  Soon, you will see the Unlock Portal.  From here, go northeast.  
+At the end of the room are two chests.  The upper chest has:
+
+      Amulet of Power
+      Chaos Talisman
+
+   While the lower chest will yield:
+
+      Sausage
+      2,000gp
+
+   Return to the Unlock Portal and head southeast.  Take the first path that 
+you come to northeast.  Ignore the next northeast path that you find, but note 
+that it leads to the exit.  Continue on the the path's end.  At the end of the 
+path, head northeast.  You will find a chest which contains:
+
+      White Crystal
+
+   Now return to the Unlock Portal and use the Crystal.  Two doors down, five 
+to go.  Return to the path that you passed by earlier, and take it to the exit 
+portal.
+
+
+
+O---------------------O                           O--------------------------O
+| 4c. Green Labyrinth |                           | Recommended Level: 20-23 |
+O---------------------O                           O--------------------------O
+
+   From the start of this area, head southwest.  When you reach a four-way 
+intersection, go northwest.  At the fork, take the right path.  There is a 
+chest here with:
+
+      Handle
+      Level 10 Magic Scroll
+
+   Now return to the four-way intersection and go southwest.  You will come to 
+the Unlock Portal.  From here, turn and go northwest.  You will find a chest 
+with:
+
+      1,500gp
+      Enchanted Mana
+
+   Head southeast to the path's end, then turn and go southwest.  Follow the 
+path as it corves to the southeast.  For now, ignore the stairs to the
+northeast.  You will reach a room that contains a Burning Praetor and an 
+Invoker.  There are paths to the northeast, southeast, and southwest.  First
+take the top northeast path.  You will come upon a chest with:
+
+      Wyrm Tooth Necklace
+
+   Now head back to the room that you wre just in and head southeast.  At the
+end of the path, turn and go southwest, then southeast, to the end.  Now head 
+northeast.  There is a chest here with:
+
+      3,000gp
+
+   Return to the chest which held the Wyrm Tooth Necklace, and take the upper 
+path to the southwest.  At the end of the path is a chest with:
+
+      Cure Poison
+      2,000gp
+
+   Now go northwest, then southwest.  The first set of stairs that you come to 
+heading northwest lead to a Town Teleporter and the exit.  Take the second set 
+of stairs to the northwest.  Along the way, you will come across another chest 
+loaded with:
+
+      Dwarven Axe
+      2,000
+
+   In the room at the end of the path is a chest with:
+
+      Green Crystal
+
+   Now return to the Unlock Portal and use the Crystal.  After this is done, 
+head back to the exit.
+
+
+
+O--------------------O                            O--------------------------O
+| 4d. Blue Labyrinth |                            | Recommended Level: 21-24 |
+O--------------------O                            O--------------------------O
+
+   You are almost halfway done with these silly labyrinths!!!  Anyway, head
+southeast, and take the first path that you find to the southwest.  In the 
+center of the room is a chest with:
+
+      Blue Crystal
+
+   Yay!!  HOWEVER, it is guarded by a RED Dragon, and they take a while to 
+kill.  Once this is done, backtrack to the start of the area and head 
+southeast.  At the fork, head northeast.  Take the first path northwest.  You 
+will run across a chest along the way which contains:
+
+      1,500gp
+
+   Continue along the path and take the first path that you find to the 
+northwest.  there is a chest in this room with:
+
+      Meat
+      Enchanted Mana
+
+   Now go southeast, then turn and head northeast.  You will come to the 
+Unlock Portal for this labyrinth.  From the portal, head northeast, and when 
+the path ends, turn and go northwest.  There is a chest here with:
+
+      Barbarian Sword
+      2,500gp
+
+   Now backtrack to the southeast.  The first path to the northeast leads to 
+the exit, but if you want some more treasure, continue along to the southeast.  
+When the path ends, head southwest and go downstairs.  Take the first 
+staircase that you come to southeast.  At the bottom of the stairs is an 
+Infernal Golem, as well as a chest containing:
+
+      Enchanted Healing
+      1,000gp
+
+   Now head south and southeast to find a chest containing:
+
+      2,500gp
+
+   Finally, make your way back to the passageway leading to the exit. (east of 
+the Barbarian Sword)  Along the way to the exit is a chest with:
+
+      2,000gp
+      Cure Poison
+
+   Enter the portal to finish the area.
+
+
+
+O----------------------O                          O--------------------------O
+| 4e. Orange Labyrinth |                          | Recommended Level: 22-25 |
+O----------------------O                          O--------------------------O
+
+   Only three labyrinths to go until the final showdown!!  Again, head 
+southeast from the start.  Defeat the Infernal Golem and continue to the 
+southeast.  Follow the path to its end.  You will pass through two rooms.  At 
+the end of the path, turn and head northeast.  There is a chest here with:
+
+      Orange Crystal
+
+   Now follow the path to the southwest and then northwest.  Take the first 
+passage that you find heading northeast.  The path will curve and go
+northwest.  You will eventually enter a room with two paths: one to the
+northwest, the other to the southwest.  The southwest path will bring you to a 
+chest containing:
+
+      2,500gp
+      Blade
+
+   You should now enter your inventory and combine the Hilt, Handle, and 
+Blade.  Congratulations - you have the ultimate weapon, Angsaar!!  This sword 
+rocks!!  Now take the northwest path.  There is a chest there with:
+
+      5,000
+      Enchanted Mana
+
+   Make your way back to the room with paths heading in all four directions.  
+Continue on to the northeast until the path ends.  Then head southeast, and
+finally, northeast again.  Kill the Red Dragon who dares to impede your 
+progress, then head southeast.  In the next room that you come to, head 
+northeast.  There is a chest at the end of the path which contains:
+
+      2,500
+      Cure Poison
+
+   Backtrack to the southwest, northwest, southwest, then northwest again.  
+Take the first path that you come to which goes northeast.  Continue down this 
+path until you come to a room with a pool in the center.  There is a chest to 
+the left of where you enter which contains the following:
+
+      2,000gp
+      Enchanted Healing
+
+   Now head northwest, and take the stairs up.  Here is the location of the 
+Unlock Portal.  From here, go southwest until you reach another large room 
+with a pool in the center.  There is a chest in this room which has:
+
+      5,000gp
+      Enchanted Mana
+
+   Head southeast and take the stairs down.  Continue southeast down another 
+set of stairs.  From here, head northeast until you reach the exit.
+
+
+
+O----------------------O                          O--------------------------O
+| 4f. Yellow Labyrinth |                          | Recommended Level: 23-26 |
+O----------------------O                          O--------------------------O
+
+   Only two more labyrinths to go!!!  And, you guessed it - head southeast.  
+You will reach an intersection with paths heading northeast, southeast, and 
+southwest.  Take the path (not the stairs) southeast and then go northeast at 
+the fork to find a Town Teleporter.  Otherwise, go northeast from the 
+intersection.  There is a chest here which contains:
+
+      1,000gp
+      Cure Poison
+
+   Now go northeast up the stairs.  There is a chest here with:
+
+      Enchanted MAna
+
+   Make your way back to the four-way room that you were in earlier, and head 
+southwest.  At the end of the path is a set of stairs northwest, and another 
+set going southeast.  Take the stairs to the northwest.  There is a chest here 
+which will yield:
+
+      Enchanted Restoration
+      2,000gp
+
+   Now head southeast, ignoring the first staircase to the northeast that you 
+come across, but taking the second set.  At the end of this path, turn and 
+head southeast.  Ignore the stairs.  The path will split into three different 
+paths.  Take the center path.  The second room you enter has a chest with:
+
+      Yellow Crystal
+
+   From the chest, head southeast until you reach the end of the path.  Now go 
+southwest and then southeast again.  In this room is a path to the northeast 
+and southwest.  Head southwest, then go northwest once again.  There is a 
+chest located here which is hiding:
+
+      Enchanted Healing
+      5,000gp
+
+   Now head back to the chest in which you found the Yellow Crystal, and go
+northeast from it.  The first room houses the Unlock Portal.  The second room
+has the exit portal.
+
+
+
+O----------------------O                          O--------------------------O
+| 4g. Purple Labyrinth |                          | Recommended Level: 24-27 |
+O----------------------O                          O--------------------------O
+
+   This is the last labyrinth!!  And, why break tradition - head southeast to 
+the Unlock Portal.  From here, go northeast and take the first path that you 
+find to the northwest.  At the end of the path is a chest with:
+
+      Enchanted Restoration
+
+   Return to the Unlock Portal and head northeast, then southwest.  At the end 
+of the path, turn and again go northwest.  There is another chest here, this 
+one housing:
+
+      Enchanted Mana
+
+   Now go southwest and then northwest.  Yet another chest waits for your eager
+hands.  This one will bestow upon you the following:
+
+      Enchanted Healing
+      3,500gp
+
+   Now return to the first chest and head southeast to the end of the path.  
+Now turn and head southwest.  There are two chests in this room.  The upper 
+one will give you:
+
+      2,000gp
+
+   While the lower one will yield:
+
+      Cure Poison
+      3,500gp
+
+   Now go northeast, and then turn and head northwest.  Take the first path 
+that you see heading northeast.  Once you are in the rather large room, go 
+southeast to the end of the trail.  There is a chest here with:
+
+      Purple Crystal
+
+   Now you can return to the Unlock Portal, where you will unlock the final 
+door.  Return to the room that lies just northwest of where you got the Purple 
+Crystal, and head northeast through the 7 now-unlocked portals.  The exit lies 
+ahead!
+
+
+
+O------------------------O                        O--------------------------O
+| 4h. Yhagoro At Last    |                        | Recommended Level: 25-30 |
+O------------------------O                        O--------------------------O
+
+   This is a very simple level.  Just head northeast.  To the southeast is a 
+Town Teleporter; your last chance to chicken out... or to stock up on potions.
+After climbing up the stairs, you will finally come face to face with Yhagoro.  
+Obviously, the two of you are unable to come to a reasonable agreement
+regarding Andria and the world, so it is time to draw steel and fight!
+
+   Yhagoro is a dirty fighter.  He will use magic on you that hurts a lot.  
+The worst of it is, you can not avoid all of his magic attacks!  Later in the 
+fight, he will use a sort of telekinesis to throw huge objects into you.  
+Finally, he will cast Nullifier every once in awhile.  This will cancel out
+all spells.  Add to all of this the fact that he has 15,000hp and 10,000mp!!!
+
+   There are two ways to fight Yhagoro. The hard way is to avoid his green 
+magic attack.  You want to maneuver in close and use your strongest 
+combinations, which should be the Dragon and Spider combinations.  He will not 
+cast much magic if you remain in close.  However, that deformed Nahkranoth
+Claw that he is wielding sure can hurt!
+
+   Now for the easy way:  Cast invisibility.  The dumb demonic oaf will not
+only be unable to hit you, he won't even try to dodge your attacks!
+
+   When you defeat Yhagoro, sit back and enjoy the ending.  You have certainly
+earned it!
+
+
+
+
+==============================================================================
+                          Character Experience Chart
+==============================================================================
+
+
+   Below is a chart with the total amount of experience points Locke needs to
+reach each new level.  It is quite feasible to reach the maximum level of 30 
+throughout the course of normal gameplay.  Do not confuse the experience
+points for Locke's levels with the experience points for his Skills.  That
+information will be presented in the next section.
+
+
+                          Character Experience Chart
+                          ==========================
+
+
+                       O-----------------------------O
+                       | Level |  Experience Points  |
+                       O-----------------------------O
+                       |   1   |        0 -  299     |
+                       |   2   |      300 -  699     |
+                       |   3   |      700 -  1,199   |
+                       |   4   |    1,200 -  1,799   |
+                       |   5   |    1,800 -  2,499   |
+                       |   6   |    2,500 -  3,299   |
+                       |   7   |    3,300 -  4,199   |
+                       |   8   |    4,200 -  5,199   |
+                       |   9   |    5,200 -  6,299   |
+                       |  10   |    6,300 -  7,499   |
+                       |  11   |    7,500 -  8,799   |
+                       |  12   |    8,800 - 10,199   |
+                       |  13   |   10,200 - 11,699   |
+                       |  14   |   11,700 - 13,299   |
+                       |  15   |   13,300 - 14,999   |
+                       |  16   |   15,000 - 16,799   |
+                       |  17   |   16,800 - 18,699   |
+                       |  18   |   18,700 - 20,699   |
+                       |  19   |   20,700 - 22,799   |
+                       |  20   |   22,800 - 24,999   |
+                       |  21   |   25,000 - 27,299   |
+                       |  22   |   27,300 - 29,699   |
+                       |  23   |   29,700 - 32,199   |
+                       |  24   |   32,200 - 34,799   |
+                       |  25   |   34,800 - 37,499   |
+                       |  26   |   37,500 - 40,299   |
+                       |  27   |   40,300 - 43,199   |
+                       |  28   |   43,200 - 46,199   |
+                       |  29   |   46,200 - 49,299   |
+                       |  30   |   49,300 (maximum)  |
+                       O-----------------------------O
+
+
+
+==============================================================================
+                            Skill Experience Chart
+==============================================================================
+
+
+   Skills can have a variety of effects upon your character.  Some skills will
+increase your fighting effectiveness, depending on the type of weapon you are
+using.  Other skills will help you open locked chests, or even cast spells.
+Every time you successfully complete an action, (say, picking a lock or
+casting a spell) that skill will gain experience.
+
+   Weapon skills (Sword, Axe, Bludgeon, Hand, and Bow) increase in a slightly
+different manner.  Every time you kill an enemy with one of the five weapon
+types listed above, you receive experience for using it.  The amount of
+experience that your skill receives is the same as the amount that your
+character receives.  All of the skills have the same skill chart, so refer to
+the chart below to see how your skill level is progressing.
+
+
+                            Skill Experience Chart
+                            ======================
+
+
+                       O-----------------------------O
+                       | Level |  Experience Points  |
+                       O-----------------------------O
+                       |   0   |        0 -  299     |
+                       |   1   |      300 -  699     |
+                       |   2   |      700 -  1,199   |
+                       |   3   |    1,200 -  1,799   |
+                       |   4   |    1,800 -  2,499   |
+                       |   5   |    2,500 -  3,299   |
+                       |   6   |    3,300 -  4,199   |
+                       |   7   |    4,200 -  5,199   |
+                       |   8   |    5,200 -  6,299   |
+                       |   9   |    6,300 -  7,499   |
+                       |  10   |    7,500 -  8,799   |
+                       |  11   |    8,800 - 10,199   |
+                       |  12   |   10,200 - 11,699   |
+                       |  13   |   11,700 - 13,299   |
+                       |  14   |   13,300 - 14,999   |
+                       |  15   |   15,000 - 16,799   |
+                       |  16   |   16,800 - 18,699   |
+                       |  17   |   18,700 - 20,699   |
+                       |  18   |   20,700 - 22,799   |
+                       |  19   |   22,800 - 24,999   |
+                       |  20   |   25,000 - 27,299   |
+                       |  21   |   27,300 - 29,699   |
+                       |  22   |   29,700 - 32,199   |
+                       |  23   |   32,200 - 34,799   |
+                       |  24   |   34,800 - 37,499   |
+                       |  25   |   37,500 - 40,299   |
+                       |  26   |   40,300 - 43,199   |
+                       |  27   |   43,200 - 46,199   |
+                       |  28   |   46,200 - 49,299   |
+                       |  29   |   49,300 - 52,499   |
+                       |  30   |   52,500 (maximum)  |
+                       O-----------------------------O
+
+
+   The maximum level for skills is 30.  However, reaching level 30 in just ONE
+skill, let alone all of them, is quite unfeasible.
+
+     HINT:  Here is a hint to save you a lot of time.  There are many more 
+            swords in the game than there are Axes and Bludgeoning weapons.  
+            Furthermore, the swords are more powerful, in general.  The most 
+	    powerful weapons are also swords.  So build up your Sword Skill as
+            your main weapon skill - but don't forget your Hand fighting!
+
+
+
+
+==============================================================================
+                           Jong's Combination Moves
+==============================================================================
+
+   One of the aspects of the game that make it stand out is that, throughout 
+the course of adventuring, you can return to the Weapons Master, and he will
+teach you new combat maneuvers.  Your character will not be able to use these 
+maneuvers until Jong has "taught" them to you, so knowing the button commands 
+ahead of time won't help you.
+
+   Every time your character reaches a certain level of experience, Jong will 
+offer to teach you a new attack combination.  These combinations are extremely 
+powerful; it is in your best interest to return to Jong AS SOON AS you gain 
+the appropriate level.  Below is a chart which will tell you the name of each 
+attack combination, the button command required to perform it, (according to
+the yellow text that appears in the bottom left corner of the screen) and, 
+finally, the level at which he will teach the combination to you.
+
+
+                          Jong's Attack Combinations
+                          ==========================
+
+
+     O----------------------O--------------------------O----------------O
+     | Name of Combination  |      Button Command      | Level Learned  |
+     O----------------------O--------------------------O----------------O
+     |  Charging Thrust     | [Thrust] from a distance |    Level 1     |
+     |  Spinning Slash      | [Swing]  from a distance |    Level 3     |
+     |  Jumping Chop        | [Chop] from a distance   |    Level 6     |
+     |  Tiger Combination   | [Ctrl] + [Swing] x2      |    Level 9     |
+     |  Puma Chain          | [Thrust]x3 while walking |    Level 12    |
+     |  Cobra Chain         | [Swing]x3 while walking  |    Level 15    |
+     |  Scorpion Chain      | [Chop]x3 while walking   |    Level 18    |
+     |  Spider Combination  | Press [W] x3             |    Level 21    |
+     |  Dragon Combination  | Press [E] x5             |    Level 24    |
+     O----------------------O--------------------------O----------------O
+
+
+
+==============================================================================
+                        Weapon & Item Shop Inventories
+==============================================================================
+
+   The Weapon Shop, which is run by Gina, will sell a variety of weapons
+throughout the course of the game.  However, at the beginning of the game, you
+will only be able to purchase a few of her wares.  As you reach certain
+levels, her inventory will expand.  This means that you can theoretically stay
+in one area and build your level so that it is very high, and then buy awesome
+weapons, all while you are still in the beginning stages of the game. (this is
+what I did.  My weapons were always one step better than the ones I found in
+the dungeons)
+
+   Below is a chart which shows the weapons that Gina will sell to you, the
+cost of each weapon, and at what character level the weapon will appear in her
+shop.  To see the original list of Level 1 weapons, please refer to the
+walkthrough.  Enjoy!
+
+
+                              Gina's Weapon Shop
+                              ==================
+
+
+      O---------------------O--------------O--------O-----------------O
+      |     Weapon Name     |  Weapon Type |  Cost  | Level Available |
+      O---------------------O--------------O--------O-----------------O
+      |  Spiked Bat         |   Bludgeon   |    630 |    Level 3      |
+      |  Studded Club       |   Bludgeon   |    570 |    Level 3      |
+      |  Maul               |   Bludgeon   |  1,500 |    Level 6      |
+      |  Morning Star       |   Bludgeon   |  1,800 |    Level 6      |
+      |  Sickle             |   Axe        |  1,800 |    Level 6      |
+      |  Flanged Mace       |   Bludgeon   |  2,400 |    Level 6      |
+      |  Pointed Maul       |   Bludgeon   |  2,520 |    Level 6      |
+      |  Long Sword         |   Sword      |  4,950 |    Level 9      |
+      |  Broadsword         |   Sword      |  5,400 |    Level 9      |
+      |  Bastard Sword      |   Sword      | 10,500 |    Level 12     |
+      |  Claymore           |   Sword      | 10,950 |    Level 12     |
+      |  Katana             |   Sword      | 19,500 |    Level 15     |
+      |  Flamberge          |   Sword      | 20,700 |    Level 15     |
+      |  Charred Claymore   |   Sword      | 34,500 |    Level 18     |
+      |  Spiked Maul        |   Bludgeon   | 36,000 |    Level 18     |
+      |  Shining Razor Mace |   Bludgeon   | 58,500 |    Level 21     |
+      O---------------------O--------------O--------O-----------------O
+
+
+   Hruthford's Item Shop also gets new items as the game progresses.  However,
+his new items are based on completed events, rather than your level.  Here is
+a list of the additional items that Hruthford will sell throughout the game.
+To see the original list of Level 1 items, please refer to the walkthrough.
+
+
+                              Hruthford's Items
+                              =================
+
+
+              O-----------------------O--------O----------------------O
+              |       Item Name       |  Cost  |    When Available    |
+              O-----------------------O--------O----------------------O
+              |  Sigil Ring           |  4,000 |  After Arakna Island |
+              |  Emerald Collar       |  3,200 |  After Arakna Island |
+              |  Amulet of Channeling |  2,000 |  After Arakna Island |
+              |  Fire Ruby Ring       |  2,500 |  After Arakna Island |
+              |  Band of Fury         | 10,000 |  After Jhaga         |
+              |  Emerald Bracelet     | 10,000 |  After Jhaga         |
+              |  Gloves of Striking   |  4,000 |  After Jhaga         |
+              |  Necklace of Courage  |  6,000 |  After Jhaga         |
+              |  Earthen Gauntlets    |  2,000 |  After Jhaga         |
+              O-----------------------O--------O----------------------O
+
+
+
+==============================================================================
+                            Armor Shop Inventories
+==============================================================================
+
+
+   The Armor Shop, which is run by Cronos, will sell a variety of armor
+throughout the course of the game.  However, at the beginning of the game, you
+will only be able to purchase a few of his wares.  As you reach certain
+levels, his inventory will expand.  This means that you can theoretically stay
+in one area and build your level so that it is very high, and then buy awesome
+armor, all while you are still in the beginning stages of the game.
+
+   Below is a chart which shows the armor that Cronos will sell to you, the
+cost of each armor set, (the cost of the WHOLE set, not each piece!) and at 
+what character level the armor will appear in his shop.  To see the original 
+list of Level 1 weapons, please refer to the walkthrough.  Enjoy!
+
+
+            O----------------------O----------O-----------------O
+            |      Armor Name      |   Cost   | Level Available |
+            O----------------------O----------O-----------------O
+            |  Chainmail Armor Set |  14,000  |    Level 6      |
+            | *Bone Armor Set      |   5,000  |    Level 9      |
+            |  Barbarian Armor Set |  48,000  |    Level 9      |
+            |  Plate Armor Set     | 108,800  |    Level 15     |
+            |  Spiked Armor Set    | 132,800  |    Level 15     |
+            |  Samurai Armor Set   | 166,200  |    Level 21     |
+            O----------------------O----------O-----------------O
+
+               * This set only has Boots, Chest Plate, and Leg Plate.
+
+
+
+==============================================================================
+                                 Spell Chart
+==============================================================================
+
+
+   Throughout the course of the game, you will come across a total of 12 
+Talismans that can be combined to create spells.  There are many spells in the 
+game!  Normally, you would have to wait until you found a scroll during your
+travels in order to know what spell uses what Talisman combination.  However,
+you can create any spell once you have the appropriate Talismans, even if you
+have not yet found the appropriate Magic Scroll.  Furthermore, even if your
+Invoke Skill Level is not high enough to cast the spell, it will still be
+added to your list of known spells.  Below is a chart showing ALL the spells
+that you can create once you find a Talisman, even if you can not yet cast
+them.  Also included is the cost in Mana, as well as the spell's Skill Level.
+The values for Mana Cost and Spell Skill Level come directly from the game 
+manual.
+
+     NOTE:  Here is a rundown on Spell Skill Levels.  If the difference
+            between your Invoke Level and a spell's Skill Level is more than
+            2, (meaning that your Skill Level is LOWER than the Spell Skill
+            Level) then you will not be able to cast it.
+
+            If your Invoke Level is 1 or 2 less than the spell's Skill Level,
+            you can cast it, but you will fail sometimes.
+
+            If your Invoke Skill Level is greater than the spell's Skill
+            Level, you should have few, if any, problems.  The spell still
+            might fail, however.  Just not very often.
+
+
+                           Spell and Talisman Chart
+                           ========================
+
+
+ O--------------------------------------------------------------------------O
+ |     Spell Name     |      Talisman Needed      | Skill Level | Mana Cost |
+ O--------------------O---------------------------O-------------O-----------O
+ | Advanced Healing   | Law, Life, Soul           |      23     |    274    |
+ | Anti-Magic         | Sky, Stars                |       6     |     56    |
+ | Armageddon         | Earth, Sky, Stars         |      22     |    274    |
+ | Aura               | Life, Soul, Stars, Ward   |      26     |    268    |
+ | Blood Drain        | Life, Soul, Sun           |      13     |    165    |
+ | Cataclysm          | Earth, Life, Law, Sky     |       6     |    146    |
+ | Charm              | Stars, Sun                |      12     |    101    |
+ | Crystalism         | Chaos, Death, Sky, Stars  |      25     |    307    |
+ | Cure Poison        | Life, Sky                 |       2     |     21    |
+ | Dexterity          | Soul, Stars               |       6     |     56    |
+ | Essence Drain      | Chaos, Soul               |      26     |    230    |
+ | Fire Ball          | Stars, Sun                |      13     |    124    |
+ | Fire Flash         | Moon, Sky                 |       1     |     26    |
+ | Full Paralysis     | Life, Moon, Soul, Ward    |      24     |    206    |
+ | Fire Wind          | Soul, Stars, Sun          |      10     |    135    |
+ | Fist Mastery       | Life, Soul                |       3     |     41    |
+ | Heal               | Life, Soul, Sun           |      11     |    135    |
+ | Ice Bolt           | Ocean, Life, Sky          |      22     |    206    |
+ | Ice Storm          | Ocean, Law, Life          |      19     |    242    |
+ | Immortal Might     | Chaos, Earth, Moon, Soul  |      27     |    255    |
+ | Invisibility       | Sky, Soul                 |      15     |     99    |
+ | Iron Skin          | Earth, Moon, Ward         |      17     |    234    |
+ | Lightning Bolt     | Sky, Sun                  |      10     |    101    |
+ | Maelstrom          | Chaos, Death              |      27     |  1,018    |
+ | Mana Drain         | Moon, Soul, Stars         |      14     |    124    |
+ | Meteor Storm       | Earth, Sky                |       4     |     56    |
+ | Might              | Soul                      |       3     |     26    |
+ | Nourish            | Life                      |       2     |     34    |
+ | Nullifier          | Soul, Ward                |      21     |    181    |
+ | Napalm             | Law, Sky, Sun             |      19     |    181    |
+ | Neural Paralysis   | Life, Soul, Stars, Ward   |      18     |    146    |
+ | Ogre Strength      | Earth, Law, Moon, Ward    |      20     |    181    |
+ | Poison             | Moon                      |       1     |     34    |
+ | Physical Paralysis | Life, Moon, Soul          |       9     |     79    |
+ | Quicksilver        | Earth, Ocean, Sky         |      23     |    206    |
+ | Regeneration       | Earth, Life               |       5     |    113    |
+ | Rock Storm         | Earth, Law, Sky           |      16     |    146    |
+ | Restore Life       | Law, Life, Soul           |      27     |    509    |
+ | Swift Strike       | Moon, Ocean               |       5     |     64    |
+ | Shadow Fist        | Moon, Stars               |       9     |    126    |
+ | Speed              | Life, Soul, Stars         |       8     |     79    |
+ | Stone Skin         | Earth, Moon               |       8     |    126    |
+ | Swamp Pit          | Earth, Life, Ocean        |       7     |    105    |
+ | Teleport           | Ocean, Sky, Stars         |      12     |     81    |
+ | Troll Blood        | Law, Life                 |      17     |    293    |
+ | Tornado            | Earth, Sky, Stars         |       7     |     79    |
+ | Vampiric Drain     | Death, Life, Soul         |      25     |    307    |
+ | Weapon Mastery     | Moon, Sky, Soul, Sun      |      20     |    290    |
+ O--------------------O---------------------------O-------------O-----------O
+
+
+
+==============================================================================
+                                 Cheat Codes
+==============================================================================
+
+   I currently have no cheat codes for the game Icewind Dale: Heart of Winter,
+or Trials of the Luremaster.  If you have cheat codes that you would like to
+share, e-mail them to me.  I will put them in this section, and you will be
+fully credited for having provided them.
+
+
+
+
+
+==============================================================================
+                                 Other Works
+==============================================================================
+
+   This is a list of FAQ's written by me.  The latest versions of all of
+these FAQ's can be found at:
+
+              http://gamefaqs.com/features/recognition/8633.html
+
+   Unless otherwise noted, other sites might also carry this FAQ, but I will
+always send new updates to gamefaqs.com first.
+
+
+         O----------------------------------------------------------O
+         |                      Works to Date                       |
+         O----------------------------------------------------------O
+         |                                                          |
+         |  Icewind Dale - Store Items                              |
+         |                                                          |
+         |  Icewind Dale: Heart of Winter - Store Items             |
+         |  Icewind Dale: Heart of Winter - Walkthrough             |
+         |                                                          |
+         |  Icewind Dale: Trials of the Luremaster - Walkthrough    |
+         |               (included in Heart of Winter Walkthrough)  |
+         |                                                          |
+         |  Invictus: In the Shadow of Olympus - Walkthrough        |
+         |                                                          |
+         |  Revenant - Walkthrough                                  |
+         |                                                          |
+         | *Sea Dogs - Walkthrough                                  |
+         |                                                          |
+         O----------------------------------------------------------O
+
+           * Available ONLY at - http://www.gamefaqs.com
+
+
+
+==============================================================================
+                               Version Updates
+==============================================================================
+
+Version 1.1                  Corrected several grammar and spelling errors in
+July 10, 2001                the document.  Added Cheat Codes section (but no
+138k                         codes yet)  Updated Other Works section.
+
+Version 1.0                  This FAQ is first published.  Added complete
+July 2, 2001                 walkthrough of game.  Added expreience and item
+137k                         charts.  Updated Other Works section.
+
+
+==============================================================================
+                              Legal Information
+==============================================================================
+
+I am in no way, shape, or form affiliated with Eidos Interactive or Cinematrix 
+Studios, Inc.  I had nothing to do with the creation of this game, nor did I 
+have anything to do with the people who made it.
+
+This FAQ may be posted on any site provided an email is sent to me FIRST
+stating where the FAQ is to be posted, and an existing URL is provided within
+the same email.  NOTHING MAY BE CHANGED WITHIN THIS DOCUMENT.  This document
+may not be translated into any other language or dialect.  Nothing may be
+added, removed, or rearranged in any way, shape or form and then republished.
+This FAQ MUST remain in its original form. (revenant.txt)  The author of this
+FAQ reserves the right to recall this FAQ from any site, at any time, and for
+any reason as he sees fit.  This document may NOT be sold for profit, nor may
+it be included in any package or promotion receiving a profit.  By possessing
+this document, you accept all the terms and conditions which accompany it,
+both expressed and implied.  Violation of the United States Copyright Laws is
+a crime.  Plagiarism is also a crime.
+
+This document is Copyright 2001 by Michael Walsh.
+Revenant is (C) 1999 Eidos Interactive.
+Revenant Patch 1.22 is Copyright (C) 1999 Cinematix Studios, Inc.
+
+==============================================================================

@@ -1,0 +1,654 @@
+         _____                  _           _   _____        _
+        |_   _|                (_)         | | |  __ \      | |
+          | |  ___ _____      ___ _ __   __| | | |  | | __ _| | ___
+          | | / __/ _ \ \ /\ / / | '_ \ / _` | | |  | |/ _` | |/ _ \
+         _| || (_|  __/\ V  V /| | | | | (_| | | |__| | (_| | |  __/
+        |_____\___\___| \_/\_/ |_|_| |_|\__,_| |_____/ \__,_|_|\___|
+                  ___ _                 ___ _
+                 / __| |_ ___ _ _ ___  |_ _| |_ ___ _ __  ___
+                 \__ \  _/ _ \ '_/ -_)  | ||  _/ -_) '  \(_-<
+                 |___/\__\___/_| \___| |___|\__\___|_|_|_/__/
+
+
+                               by Michael Walsh
+                                   Ver 1.4
+                                July 11, 2001
+
+                            Questions?  Additions?
+                       E-mail me at: cumw7@pen.eiu.edu
+                    Put "Icewind Dale" in the Subject Line
+
+
+
+                        -------------------------------
+                              TABLE OF CONTENTS:
+                        -------------------------------
+                          i. Why a Store Inventory?
+                         ii. Thanks To...
+                        -------------------------------
+                           1. Pomab's Emporium
+                           2. Gerth's Equipment Store
+                           3. Conlan's Smithy
+                           4. Oswald's Laboratory
+                           5. Orrick's Study
+                               5a. Before Dragon's Eye
+                               5b. Chapter 2 and 3
+                               5c. Chapter 4 and Later
+                           6. Geelo the Librarian
+                           7. Lehland
+                           8. Bandoth
+                           9. Nym's Exotic Goods
+                          10. Dirty Llew's
+                        -------------------------------
+                          x. Other Works
+                          y. Previous Updates List
+                          z. Legal Information
+                        -------------------------------
+
+
+==============================================================================
+                          Why a Store Inventory FAQ?
+==============================================================================
+
+   The answer to this can be traced to a personal frustration.  It is one that
+many gamers probably share with me, or have shared with me at one time.  Here
+it is:  You have been playing Game X for 13 hours straight.  You are getting
+tired.  Your mind is not as sharp as it was 10 hours ago.  You are trying
+desperately to remember where you had seen that Vorpal Sword +83 before.
+Then you remember - it was in one of those stores I passed in the last 6 or 7
+hours.  So you head toward what you *think* is the right town.  You send your
+party to the counter, peruse the store's inventory, and realize that you spent
+20 minutes going to the wrong store.
+
+   If this has never happened to you in a Baldur's Gate/Icewind Dale game, you
+must be a wonder gamer.  If that is you, thank you for needlessly downloading
+this FAQ.  It makes me feel better.
+
+   Now for those who, like me, never seem to be able to keep store inventories
+straight.  Below I have compiled the items that are carried by all the
+merchants in Icewind Dale.  This FAQ _ONLY_ contains the shop lists for the
+main game with the expansion pack installed.  For the shop lists of the
+expansion pack, see my Icewind Dale: Heart of Winter Store Items FAQ, also
+available at gamefaqs.com In addition to the items, I have listed their price
+and, on occasion, a bit of other information about them.
+
+     NOTE:  The prices of items in the shops of Icewind Dale are at least
+            partially dependant on the Charisma score of the FIRST character 
+            in your party.  So your prices may vary to some extent from mine, 
+            but not greatly.  When I recorded these prices, I was using a 
+            character with a Charisma of 18.  Leaders with less Charisma may 
+            find higher prices, while the reverse is true for characters with 
+            Charisma scores above 18.
+
+   Now for the other question which you may be asking.  Why didn't I just
+attach these Shop Item charts to the end of the larger FAQ that I wrote for
+Icewind Dale: Heart of Winter?  Again, it stems from a personal frustration,
+or preference, if you will.  Here are four good reasons:
+
+   1. I hate scrolling through endless pages of a FAQ in order to get to the
+      Shop List at the end...or near the end...or somewhere.
+   2. I also dislike downloading huge FAQ's.  I like having all the
+      information, but there are some FAQ's that weigh in at over 600k!  Now,
+      many people won't find this a problem, but let's say that you live in
+      the middle of nowhere (like I do) and the fastest connection you can get
+      to the Internet is 33.6...see where I am going with this?
+   3. I like options!  I like being able to download my Shop Items FAQ,
+      without a side of Walkthrough.
+   4. Which is more printer-friendly:  This FAQ, or the 600k file I mentioned
+      earlier?
+
+   If people ask for it and/or wish to contribute to this list, I might be
+willing to expand the information on here to include partial/full item
+descriptions, and/or Shopping Strategy, if indeed such a thing exists.
+
+Or I might do the above if I get bored...
+
+
+
+==============================================================================
+                                 Thanks To...
+==============================================================================
+
+
+   Thanks to CJayC at gamefaqs.com  for posting my FAQs.  Yours is a
+truly excellent website, CJayC, and I am grateful that you continue to accept
+my work.
+
+   Also thanks to the Figlet Server at  http://www.surfplaza.com/figlet/  for
+providing their free online Text to ASCII converter, which I used to create 
+the Title image.
+
+   Thanks to Scott Glanden and Francesco Valvo for informing me of the change 
+to Orrick's inventory in Chapter 4.
+
+   Finally, I want to thank the various producers of caffeine products, which
+have kept me going LONG into the night...
+
+   And now, without further ado...the shopping lists!!!
+
+
+==============================================================================
+                               Shop Inventories
+==============================================================================
+
+   There are a total of ten merchants with whom you can buy and sell items,
+weapons, spells, etc.  I will list the name of the merchant, the location of
+the merchant, (using coordinates, which you can find by pressing  x  during a
+game) all of the items that they carry, the price listed (based on my party
+leader with 18 Charisma) and any other relevant information about the item in
+question. (mainly weapon mastery types)
+
+     NOTE: If you do not have the Heart of Winter expansion pack installed, a
+           few of the items in the lists will not appear in your game.  This
+           is because the expansion pack adds some new items to the
+           inventories of merchants in the main game.  I have NOT denoted
+           which of the items are new to the lists; I just assume that you
+           have installed the expansion pack and are enjoying it thoroughly.
+
+
+
+==============================================================================
+1.   Pomab's Emporium - Easthaven:  (x 790 y 504  AR 1007)
+==============================================================================
+
+ Weapons                         Type            Other
+ ----------------------------    --------        ---------------------------
+ Long Sword                19    L. Sword        Bottle of Wine            2
+ Bastard Sword             31    G. Sword        Gem Bag                   6
+ Short Sword               12    S. Sword        Scroll Case              12
+ 2-Handed Sword            63    G. Sword        Potion Bag               12
+ Battle Axe                 6    Axe
+ Throwing Axe               6    Axe
+ 2-Handed Axe              12    Axe
+ Scimitar                  19    L. Sword
+ Halberd                   12    Halberd
+ Dagger                     2    Dagger
+ Throwing Dagger            6    Dagger
+ Dart                       1    Missile
+ Heavy Crossbow            63    Crossbow
+ Light Crossbow            44    Crossbow
+ Composite Long Bow       127    Bow
+ Long Bow                  95    Bow
+ Short Bow                 38    Bow
+ Sling                      1    Missile
+ Arrow                      1    Ammo
+ Bolt                       1    Ammo
+ Bullet                     1    Ammo
+ War Hammer                 2    Hammer
+ Spear                      1    Spear
+ Club                       1    Club
+ Mace                      10    Mace
+ Morning Star              12    M. Star
+ Flail                     19    Flail
+ Quarterstaff               1    Staff
+
+
+ Armor                                  Type
+ -----------------------------------    --------
+ Chainmail Armor                  95    Armor
+ Splint Mail                     101    Armor
+ Studded Leather                  25    Armor
+ Leather                           6    Armor
+ Helmet                            1    Helmet
+ Helmet                            6    Helmet
+ Helmet                            6    Helmet
+ Small Shield                      3    Shield
+ Medium Shield                     8    Shield
+ Buckler                           1    Shield
+ Buckler                           1    Shield
+ Large Shield                     12    Shield
+
+
+
+==============================================================================
+2.   Gerth's Equipment Store - Kuldahar:  (x 1010 y 1825  AR 2100)
+==============================================================================
+
+ Weapons                         Type       Other
+ ----------------------------    --------   --------------------------------
+ Battle Axe                 6    Axe        Bottle of Wine                 2
+ Throwing Axe               6    Axe        Girdle                         3
+ Dagger                     2    Dagger     Bracers                        2
+ Arrow                      1    Ammo       History of the North I        63
+ Bolt                       1    Ammo       History of the North II       63
+ Bullet                     1    Ammo       History of the North III      63
+ Club                       1    Club       Lyre of Progression       11,684
+ Quarterstaff               1    Staff      Bardic Horn of Valhala    10,106
+                                            Gem Bag                        6
+
+
+ Jewelry
+ ----------------------------
+ Necklace                   2
+ Silver Necklace           12
+ Lynx Eye Gem              19
+ Skydrop Gem               50
+ Moonstone Gem             63
+ Ring                      12
+ Silver Ring                6
+
+
+
+==============================================================================
+3.   Conlan's Smithy - Kuldahar:  (x 1485 y 385  AR 2100)
+==============================================================================
+
+ Weapons                         Type        Other
+ ----------------------------    --------    -------------------------------
+ Long Sword                19    L. Sword    Gem Bag                       6
+ The Sword of
+ Murloch Vale          40,640    L. Sword
+ The Blade of Bael     35,560    L. Sword
+ Bastard Sword             31    G. Sword
+ Bastard Sword +1       3,175    G. Sword
+ Trollslayer           32,385    G. Sword
+ Short Sword               12    S. Sword
+ Short Sword +1         1,016    S. Sword
+ Pig's Eye             28,067    S. Sword
+ 2-Handed Sword            63    G. Sword
+ Pikeman's End         34,290    G. Sword
+ Battle Axe                 6    Axe
+ Faith Killer          14,605    Axe
+ Lonesome Road         44,450    Axe
+ Throwing Axe               6    Axe
+ 2-Handed Axe              12    Axe
+ Scimitar                  19    L. Sword
+ The Lucky Scimitar     4,953    L. Sword
+ Halberd                   12    Halberd
+ Fayr's Halberd        32,776    Halberd
+ Dagger                     2    Dagger
+ Reliance              30,480    Dagger
+ Throwing Dagger            6    Dagger
+ Dart                       1    Missile
+ Heavy Crossbow            63    Crossbow
+ Daisy                 46,863    Crossbow
+ Light Crossbow            44    Crossbow
+ Composite Long Bow       127    Bow
+ Composite Long Bow       127    Bow
+ The Black Bow         39,928    Bow
+ Long Bow                  95    Bow
+ Short Bow                 38    Bow
+ Short Bow +1           1,905    Bow
+ Sling                      1    Missile
+ Giant Killer           9,207    Missile
+ Arrow                      1    Ammo
+ Bolt                       1    Ammo
+ Bullet                     1    Ammo
+ War Hammer                 2    Hammer
+ Hellpick              30,162    Hammer
+ Spear                      1    Spear
+ Spear of White Ash    12,382    Spear
+ Club                       1    Club
+ Evil Spider Crusher
+ of Doom               11,176    Club
+ Mace                      10    Mace
+ The Giving Star       18,034    Mace
+ Love of Black Bess     6,447    Mace
+ Morning Star              12    M. Star
+ Flail                     19    Flail
+ Tombsweeper           33,655    Flail
+ Quarterstaff               1    Staff
+ The Staff of Eron     28,194    Staff
+
+
+ Armor                                  Type
+ -----------------------------------    --------
+ Plate Mail                      762    Armor
+ Plate Mail +1                 6,350    Armor
+ Chainmail                        95    Armor
+ Splint Mail                     101    Armor
+ Studded Leather                  25    Armor
+ Leather                           6    Armor
+ Helmet                            1    Helmet
+ Helmet                            6    Helmet
+ Helm of the Trusted
+ Defender                      9,931    Helmet
+ Small Shield                      3    Shield
+ Medium Shield                     8    Shield
+ Buckler                           1    Shield
+ Buckler                           1    Shield
+ Large Shield                     12    Shield
+ Bracers of Defense A.C. 8     3,810    Gauntlet
+
+
+
+==============================================================================
+4.   Oswald's Laboratory - Kuldahar:  (x 3080 y 450  AR 2100)
+==============================================================================
+
+ Potions                                     Other
+ ---------------------------------------     -------------------------------
+ Potion of Healing                    76     Potion Bag                   10
+ Elixir of Health                    255
+ Antidote                            102
+ Potion of Fire Resistance           408
+ Potion of Frost Giant Strength      765
+ Potion of Heroism                   816
+ Potion of Invisibility              255
+ Potion of Invulnerability         1,224
+ Oil of Fiery Burning                510
+ Oil of Speed                        510
+ Potion of Agility                   306
+ Potion of Infravision               102
+ Potion of Mind Focusing             510
+ Potion of Mirrored Eyes             408
+ Potion of Freedom                   255
+ Mummy's Tea                         561
+ Flaming Oil                         306
+
+
+
+==============================================================================
+5a.   Orrick's Study - Kuldahar: Before Dragon's Eye  (x 355 y 802  AR 2100)
+==============================================================================
+
+ Scrolls                                   Other
+ --------------------------------          ---------------------------------
+ Cat's Grace                  204          Clasp of Bron's Cloak       3,590
+ Charm Person                 102          Girdle of Gond              4,202
+ Agannazar's Scorcher         204          Robe of Enfusing            9,180
+ Web                          204          Scarab of Goodwill          6,018
+ Mirror Image                 204          Scroll Case                    10
+ Melf's Acid Arrow            204
+ Detect Invisibility          204
+ Chromatic Orb                102
+ Sleep                        102
+ Shield                       102
+ Magic Missile                102
+ Friends                      102
+ Color Spray                  102
+ Identity                     102
+
+
+
+==============================================================================
+5b.   Orrick's Study - Kuldahar:  Chapter 2  (x 355 y 802  AR 2100)
+==============================================================================
+
+ Scrolls                                   Other
+ --------------------------------          ---------------------------------
+ Lance of Disruption          612          Wand of Freezing Death     27,174
+ Mordenkainen's                            Pemby's Wand of
+ Force Missiles               408          Many Missiles              14,325
+ Shout                      1,224          Jasper's Ring of
+ Vitriolic Sphere           1,632          Shocking Grasp             19,890
+ Contact Other Plane          510          Rogue's Cowl               12,393
+ Emotion: Fear                408          Shimmering Sash            14,382
+ Spirit Armor                 408          Scroll Case                    10
+ Monster Summoning II       1,224
+ Dire Charm                   306
+ Slow                         306
+ Lightning Bolt               918
+ Hold Person                  306
+ Decastave                    306
+ Snilloc's Snowball Swarm     918
+ Charm Person                 102
+ Agannazar's Scorcher         204
+ Web                          204
+ Mirror Image                 204
+ Melf's Acid Arrow            204
+ Detect Invisibility          204
+ Chromatic Orb                102
+ Sleep                        102
+ Shield                       102
+ Magic Missile                102
+ Friends                      102
+ Color Spray                  102
+ Dispel Magic                 306
+
+
+
+==============================================================================
+5c.   Orrick's Study - Kuldahar:  Chapter 4 and Later (x 355 y 802  AR 2100)
+==============================================================================
+
+ Scrolls                                   Other
+ --------------------------------          ---------------------------------
+ Ice Storm                  1,224          Mantle of Hell's Furnace   11,526
+ Emotion: Fear                408          Scroll Case                    10
+ Spirit Armor                 408
+ Monster Summoning II       1,224
+ Dire Charm                   306
+ Slow                         306
+ Lightning Bolt               918
+ Hold Person                  306
+ Decastave                    306
+ Snilloc's Snowball Swarm     918
+ Charm Person                 102
+ Agannazar's Scorcher         204
+ Web                          204
+ Mirror Image                 204
+ Melf's Acid Arrow            204
+ Detect Invisibility          204
+ Chromatic Orb                102
+ Sleep                        102
+ Shield                       102
+ Magic Missile                102
+ Friends                      102
+ Color Spray                  102
+
+
+
+O----------------------------------------------------------------------------O
+|  - Thanks to the following people for informing me of the inventory change |
+|    in Chapter 4:                                                           |
+|                                                                            |
+|      Scott Glanden                                                         |
+|      Francesco Valvo                                                       |
+O----------------------------------------------------------------------------O
+
+
+
+==============================================================================
+6.   Geelo the Librarian - Dragon's Eye:  (x 897 y 1177  AR 4004)
+==============================================================================
+
+ Scrolls
+ --------------------------------
+ Blur                         204
+ Flame Arrow                  306
+ Monster Summoning I          306
+ Lightning Bolt               918
+ Ice Storm                  1,224
+
+
+
+==============================================================================
+7.   Lehland - Severed Hand Tower:  (x 633 y 778  AR 5004)
+==============================================================================
+
+ Weapons                         Type        Other
+ ----------------------------    --------    ------------------------------
+ Arrows                     1    Ammo        Elven Healing Wine         576
+ Arrows of Fire           360    Ammo        Rotted Honey Leather         7
+ Acid Arrows            1,440    Ammo        Moth Ridden Thistledown      7
+ Bolt                       1    Ammo        Gem Bag                      7
+ Bolt of Lightning        432    Ammo        Scroll Case                 14
+ Bolt +2                  432    Ammo        Potion Bag                  14
+ Bullet                     1    Ammo
+ Bullet +2                432    Ammo
+ Bullet of Fire +2        720    Ammo
+ Dart                       1    Ammo
+ Hammer Dart              288    Ammo
+ Blinding Darts +2        720    Ammo
+
+
+
+==============================================================================
+8.   Bandoth - Dorn's Deep:  (x 495 y 500  AR 6014)
+==============================================================================
+
+ Scrolls                            Potions
+ --------------------------------   ---------------------------------------
+ Feeblemind                  510    Potion of Healing                    76
+ Conjure Fire Elemental    1,530    Elixir of Health                    255
+ Conjure Earth Elemental   1,530    Oil of Fiery Burning                510
+ Conjure Water Elemental   1,530    Oil of Speed                        510
+ Summon Shadow             1,530    Potion of Hill
+                                    Giant Strength                      306
+                                    Potion of Stone
+                                    Giant Strength                      510
+                                    Potion of Absorption                612
+                                    Potion of Agility                   306
+                                    Potion of Clarity                   714
+                                    Potion of Cold Resistance           255
+                                    Potion of Defense                   714
+                                    Potion of Infravision               102
+                                    Potion of Mind Focusing             510
+                                    Potion of Mirrored Eyes             408
+                                    Potion of Explosions                459
+                                    Potion of Genius                    306
+                                    Potion of Insulation                173
+                                    Potion of Magic Shielding           408
+                                    Potion of Magic Shielding         1,275
+                                    Potion of Master Thievery           408
+                                    Potion of Regeneration              510
+                                    Potion of Stone Form                510
+                                    Potion of Strength                  357
+
+
+
+==============================================================================
+9.   Nym's Exotic Goods - Hidden City of Gnomes:  (x 377 y 1240  AR 8004)
+==============================================================================
+
+ Weapons                         Type        Scrolls
+ ----------------------------    --------    -------------------------------
+ Staff of              61,659    Staff       Invisible Stalker         2,754
+ Moradin's Breath                            Lich Touch                2,754
+ Arrows +2              1,101    Ammo        Stone to Flesh              918
+ Acid Arrows            3,060    Ammo        Prismatic Spray           1,071
+ Bolt +2                  918    Ammo        Monster Summoning VI      3,672
+ Bolt of Biting         2,295    Ammo        Mind Blank                1,224
+ Bullet +2                459    Ammo        Acid Storm                3,213
+ Dart +1                  244    Ammo        Monster Summoning IV      2,754
+ Dart of Wounding         765    Ammo
+
+
+ Armor                           Type        Potions
+ ----------------------------    --------    -------------------------------
+ Mystery of the Dead   15,300    Shield      Potion of Agility           459
+                                             Oil of Speed                765
+                                             Potion of Fire
+                                             Giant Strength            1,530
+
+
+                                             Other
+                                             -------------------------------
+                                             Viol of the Hollow Men   20,119
+                                             A Cage of Exotic Birds      153
+                                             A Cage of Squirrels          15
+                                             Gem Bag                       7
+                                             Scroll Case                  15
+                                             Potion Bag                   15
+
+
+
+==============================================================================
+10.   Dirty Llew's - Hidden City of Gnomes:  (x 1630 y 1339  AR 8004)
+==============================================================================
+
+ Armor                           Type        Potions
+ ----------------------------    --------    -------------------------------
+ Umber Hulk Plate      13,363    Armor       Potion of Fortitude         805
+                                             Elixir of Health            402
+                                             Spirit Essence            8,050
+                                             Potion of Fire
+					     Giant Strength            1,610
+                                             Potion of Magic
+					     Blocking                  2,415
+                                             Potion of Fire
+					     Resistance                  644
+
+
+
+==============================================================================
+                                 Other Works
+==============================================================================
+
+   This is a list of FAQ's written by me.  The latest versions of all of
+these FAQ's can be found at:
+
+              http://gamefaqs.com/features/recognition/8633.html
+
+   Unless otherwise noted, other sites might also carry this FAQ, but I will
+always send new updates to gamefaqs.com first.
+
+
+         O----------------------------------------------------------O
+         |                      Works to Date                       |
+         O----------------------------------------------------------O
+         |                                                          |
+         |  Icewind Dale - Store Items                              |
+         |                                                          |
+         |  Icewind Dale: Heart of Winter - Store Items             |
+         |  Icewind Dale: Heart of Winter - Walkthrough             |
+         |                                                          |
+         |  Icewind Dale: Trials of the Luremaster - Walkthrough    |
+         |               (included in Heart of Winter Walkthrough)  |
+         |                                                          |
+         |  Invictus: In the Shadow of Olympus - Walkthrough        |
+         |                                                          |
+         |  Revenant - Walkthrough                                  |
+         |                                                          |
+         | *Sea Dogs - Walkthrough                                  |
+         |                                                          |
+         O----------------------------------------------------------O
+
+           * Available ONLY at - http://www.gamefaqs.com
+
+
+
+==============================================================================
+                               Version Updates
+==============================================================================
+
+Version 1.4                  Updated the Other Works section.  Corrected some
+July 11, 2001                minor grammatical and spelling errors.  Added new
+30.9k                        inventory list for Orrick's Laboratory in
+                             Chapter 4 (thanks again to Scott Glanden and
+                             Francesco Valvo).
+
+Version 1.3                  Updated the Other Works section.  Corrected some
+July 2, 2001                 minor grammatical and spelling errors.
+27.7k
+
+Version 1.2                  Added ASCII text to the top of the document.
+June 4, 2001                 Corrected minor grammar and spelling errors.
+26.7k
+
+Version 1.1                  Added the Elven Merchant Lehland in the Severed
+April 30, 2001               Hand Tower.  (Thanks to Urban Fleischman for
+26.0k                        informing me that it was missing)
+
+Version 1.0                  This FAQ is first published.  Created complete
+April 17, 2001               item inventories with prices and item types for
+24.7k                        all merchants in the main game with the expansion
+                             pack installed.
+
+
+==============================================================================
+                              Legal Information
+==============================================================================
+
+I am in no way, shape, or form affiliated with Black Isle and/or Interplay
+Entertainment Corp.  I had nothing to do with the creation of this game, nor
+did I have anything to do with the people who made it.
+
+This FAQ may be posted on any site provided an email is sent to me FIRST
+stating where the FAQ is to be posted, and an existing URL is provided within
+the same email.  NOTHING MAY BE CHANGED WITHIN THIS DOCUMENT.  This document
+may not be translated into any other language or dialect.  Nothing may be
+added, removed, or rearranged in any way, shape or form and then republished.
+This FAQ MUST remain in its original form. (iwd_shop.txt)  The author of this
+FAQ reserves the right to recall this FAQ from any site, at any time, and for
+any reason as he sees fit.  This document may NOT be sold for profit, nor may
+it be included in any package or promotion receiving a profit.  By possessing
+this document, you accept all the terms and conditions which accompany it,
+both expressed and implied.  Violation of the United States Copyright Laws is
+a crime.  Plagiarism is also a crime.
+
+This document is Copyright 2001 by Michael Walsh.
+Icewind Dale: Heart of Winter  (c) 2000-2001 Interplay Entertainment Corp.
+
+==============================================================================

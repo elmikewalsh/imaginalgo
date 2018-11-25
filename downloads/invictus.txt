@@ -1,0 +1,2775 @@
+            _____ _   ___      _______ _____ _______ _    _  _____
+           |_   _| \ | \ \    / /_   _/ ____|__   __| |  | |/ ____|
+             | | |  \| |\ \  / /  | || |       | |  | |  | | (___
+             | | | . ` | \ \/ /   | || |       | |  | |  | |\___ \
+            _| |_| |\  |  \  /   _| || |____   | |  | |__| |____) |
+           |_____|_| \_|   \/   |_____\_____|  |_|   \____/|_____/
+
+              +-+-+ +-+-+-+ +-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+-+
+               I N   T H E   S H A D O W   O F   O L Y M P U S
+              +-+-+ +-+-+-+ +-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+-+
+
+
+                               by Michael Walsh
+                                   Ver 1.2
+                                July 10, 2001
+
+                            Questions? Additions?
+                       E-mail me at: cumw7@pen.eiu.edu
+                      Put "Invictus" in the Subject Line
+
+
+
+                    --------------------------------------
+                              TABLE OF CONTENTS:
+                    --------------------------------------
+                       i. Intro: About Invictus
+                      ii. Heroes of Invictus
+                     iii. Army Units
+                      iv. Inventory of Items
+                       v. Store and Service Prices
+                      vi. Things You Should Know
+                    --------------------------------------
+                        1. The Raider's Woods
+                        2. The Seacliffe Plains
+                        3. Temple of the Gorgon
+                        4. ===First Hero Quest===
+                        5. Rescue the Gorgon Queen
+                        6. Minotaur's Maze
+                        7. ===Second Hero Quest===
+                        8. The Fountain of Truth
+                        9. Trial I
+                       10. Return to Raider's Woods
+                       11. Treasure of Antaeus
+                       12. Mountain Bandits
+                       13. Ravine of the Undead
+                       14. Lystis and the Marauders
+                       15. Cyclops Lair
+                       16. Feast of Titans
+                       17. Hydra's Bog
+                       18. Trial II
+                       19. Poseidon's Greatest Creation
+                       20. Lava World
+                       21. Hades Realm
+                       22. Hammer and Forge
+                       23. River Styx
+                       24. Styx II
+                       25. Trial III
+                       26. The Dragon's Revenge
+                    --------------------------------------
+                     vii. Unit Statistics
+                    viii. Hero Statistics (partial)
+                      ix. Thanks To...
+                       x. Cheat Codes
+                    --------------------------------------
+                       x. Other Works
+                       y. Previous Updates List
+                       z. Legal Information
+                    --------------------------------------
+
+
+
+==============================================================================
+                         Introduction: About Invictus
+==============================================================================
+
+
+   Welcome to Invictus: In the Shadow of Olympus.  You are about to enter the
+world of Greek mythology.  Prepare yourself for an adventure unlike any other!
+
+   The main character in the game is you.  According to the introduction
+provided in the manual, you are enticed by some curious sounds that are
+emanating from a computer store.  When you enter, you are whisked away to a
+far away land.  Soon you stumble upon a headed conversation.  It turns out
+that two of the Greek gods, Athena and Poseidon, are at odds...again.
+Poseidon wants to rid the world of all mortals, while Athena wants to see them
+live.  Athena furthermore suggests that any mortal, with her proper guidance
+and wisdom, can become a Hero.  Poseidon does not see the need for mortals, as
+he is the ruler of a vast kingdom.  The two propose a wager.  Athena will
+choose a mortal who is foreign to the land of the Greeks.  This mortal will
+face three of Poseidon's trials.  If the mortal succeeds, Poseidon will be
+forced to admit defeat.  But if the mortal fails, Poseidon is free to destroy
+mankind.  And Poseidon has never lost.
+
+   Athena accepts the wager.  She then turns and chooses YOU as her champion.
+For this daunting task, you have at your disposal the greatest heroes in all
+of mythology.  You may choose two to begin with, and more may join you - if
+you are proven worthy.  Let the contest begin!
+
+
+
+==============================================================================
+                              Heroes of Invictus
+==============================================================================
+
+
+   Heroes are the captains of your War Party.  They are also the strongest
+units.  Furthermore, they are the only units that will upgrade as a result of
+experience.  All other units must purchase their upgrades.  There are a total
+of 10 different heroes to choose from in Invictus.  You are allowed to select
+two of them at the start of the game.  You will have two more opportunities to 
+add new heroes.  You will receive two special scenarios when you receive 751
+and 1501 experience points.  If you manage to successfully complete these
+scenarios, you will be able to add up to two more heroes, for a grand total of 
+4 possible heroes.
+
+   Each Hero has its own strengths and weaknesses.  In addition, each Hero has
+a unique Appeal - a sort of super attack.  You will only be able to use these
+attacks sparingly, however, as you must have sufficient God Points in order to
+use them.  Some of the Heroes are long range fighters, while others like to
+get up close and personal with the enemy.  Below are the 10 Heroes you will
+have at your disposal.  All of the statistics and background information for 
+each Hero come from the game manual.  Choose wisely!
+
+     NOTE:  Command Point indicates the number of Command Points a Hero will
+            receive upon increasing in level.
+
+
+                            The Heroes of Invictus
+                            ======================
+
+ Achilles:     Achilles was the King of Thessaly.  He received near
+ ---------     invulnerability shortly after his birth, in part due to his
+               mother's actions.  He will grant a bonus to the defense of all
+               units grouped with him.  His beginning stats are as follows:
+
+                  Attack %: 70         Evade %:  30                 Damage: 90
+                     Armor: 40          Health: 625         Command Points:  8
+
+                  Attack Type: Melee         Armor:  Increases Achilles Armor
+                  Appeal Name: Armor                 by 20%, and the Armor of
+                   Point Cost: 3                     four units with him by
+                                                     10%.  Lasts 15 seconds.
+
+
+  Arachne:     Arachne is the Queen of the Spiders.  She is mostly known for
+  --------     being an excellent weaver.  She once challenged Athena to a
+               contest, and Arachne won!  However, she was a poor winner, and
+               so Athena punished her by changing Arachne's body into that of
+               a spider - forever!  Arachne has been give a chance to prove
+               herself to Athena, however.  That is why she is helping you.
+               Her Appeal will transform her body into that of a Spider.  This
+               will allow her to more effectively fight in melee battles.  Her
+               beginning stats are as follows:
+
+                  Attack %: 70         Evade %:  30                 Damage: 60
+                     Armor: 30          Health: 375         Command Points: 10
+
+                  Attack Type: Melee          Transform:  Turns Arachne into a
+                  Appeal Name: Transform                  Spider. See stats
+                   Point Cost: 2                          below. Lasts for the
+                                                          whole scenario.
+
+               Here are the beginning stats for her Spider form:
+
+                  Attack %: 70         Evade %:  45                 Damage: 70
+                     Armor: 30          Health: 625         Command Points:  8
+
+                  Attack Type: Melee
+
+
+ Atalanta:     The typical tomboy.  Atalanta is the equal to any man.  One of
+ ---------     her claims to fame was being an Argonaut, joining Jason on the
+               quest for the Golden Fleece.  She is a very well-balanced Hero,
+               perfect for beginners.  She will grant a bonus to the offense
+               of all swordsmen grouped with her.  Her beginning stats are as
+               follows:
+
+                  Attack %: 70         Evade %:  40                 Damage: 80
+                     Armor: 30          Health: 375         Command Points: 10
+
+                  Attack Type: Melee         Speed:  Doubles the speed of
+                  Appeal Name: Speed                 Atalanta and 5 nearby
+                   Point Cost: 2                     units.  Lasts 15 +1
+                                                     seconds per level.
+
+
+   Cadmus:     Cadmus was the first King of Thebes.  Many of his sons are
+   -------     Heroes, and even demi-gods!  He is not bothered very much by
+               the loss of what he considers expendable.  He will grant an
+               offensive bonus to units grouped with him.  His beginning stats
+               are as follows:
+
+                  Attack %: 70         Evade %:  30                 Damage: 80
+                     Armor: 30          Health: 500         Command Points: 10
+
+                  Attack Type: Melee        Skeleton:  Summons Skeletons to
+                  Appeal Name: Skeleton                fight for Cadmus.  They
+                   Point Cost: 6                       can be called even if
+                                                       you already have the
+                                                       maximum # of troops.
+                                                       Lasts until the
+                                                       scenario ends.
+
+
+  Electra:     Electra is the do-gooder Hero.  Her father was the famous
+  --------     Agamemnon, who was killed by his wife.  Electra then roamed the
+               world, seeking to help those in need of justice.  She will give
+               a bonus to the perception of any unit that is grouped with her.
+               Her stats are as follows:
+
+                  Attack %: 80         Evade %:  30                 Damage: 70
+                     Armor: 30          Health: 375         Command Points: 10
+
+                  Attack Type: Ranged        Lightning:  Does damage of 150 to
+                  Appeal Name: Lightning                 5 targets. The damage
+                   Point Cost: 5                         becomes 200 vs.
+                                                         monsters, and 300 vs.
+                                                         Heroes.
+
+
+ Hercules:     Without a doubt, Hercules is the most easily recognized Hero in
+ ---------     all of Greek mythology.  He is the son of Zeus and a mortal. He
+               has traveled far and wide, seeking adventure, and fleeing from
+               the wrath of Zeus's wife, Hera.  He is known for his superhuman
+               strength, as well as his ability to kill Hydras and other
+               beasts.  He will grant a bonus to the toughness of all units
+               grouped with him.  His beginning stats are as follows:
+
+                  Attack %: 70         Evade %:  20                Damage: 100
+                     Armor: 40          Health: 625        Command Points:   8
+
+                  Attack Type: Melee          Earthquake:  Deals damage of 100
+                  Appeal Name: Earthquake                  to all within its
+                   Point Cost: 2                           range, except for
+                                                           Hercules. This does
+                                                           include your units.
+
+
+Hippolyta:     She is the Queen of the Amazons.  She is a follower of the
+----------     goddess Artemis.  She is also in love with Hercules.  Since she
+               is the Queen of the Amazons, it is only fitting that she is
+               able to grant a bonus to any Amazons that are grouped with her.
+               Her stats are as follows:
+
+                  Attack %: 70         Evade %:  40                 Damage: 80
+                     Armor: 40          Health: 500         Command Points: 11
+
+                  Attack Type: Melee        Fireball:  Does damage of 150 to
+                  Appeal Name: Fireball                5 targets. The damage
+                   Point Cost: 4                       becomes 200 vs.
+                                                       monsters, and 300 vs.
+                                                       Heroes.
+
+
+   Icarus:     Icarus is another very well-known Greek Hero.  He is most noted
+   -------     for forming wings out of wax, and also for flying too close to
+               the sun.  He is an especially mobile Hero, since he can fly.
+               As a result of his ability to spot things from LONG distance,
+               any Archers who are grouped with him will receive a range
+               bonus.  His beginning stats are as follows:
+
+                  Attack %: 70         Evade %:  50                 Damage: 80
+                     Armor: 30          Health: 375         Command Points:  9
+
+                  Attack Type: Ranged      Tornado:  Does damage of 100 and
+                  Appeal Name: Tornado               will fling enemies in a
+                   Point Cost: 4                     random direction. This
+                                                     Appeal can hurt friend
+                                                     and foe alike.
+
+
+    Orion:     Orion is a son of Poseidon.  He is also a master hunter.  The
+    ------     world's greatest huntsman, to be exact.  He fell in love with
+               Artemis, who normally does not show much interest in men.  
+               However, she appears to love Orion as well.  He will grant a 
+               bonus to Archers who are grouped with him.  His beginning stats
+               are as follows:
+
+                  Attack %: 80         Evade %:  30                 Damage: 90
+                     Armor: 30          Health: 375         Command Points: 10
+
+                  Attack Type: Ranged       Arrows:  Causes damage of 90 to
+                  Appeal Name: Arrows                units in its range. Lasts
+                   Point Cost: 3                     for 20 seconds.
+
+
+  Perseus:     Perseus is another of Zeus' sons.  His human father abandoned 
+  --------     him as a result of having heard a dark prophesy.  Perseus is 
+               known for his many heroic deeds, most notably the slaying of 
+               Medusa.  He can use her head to turn enemies into stone.  His
+               beginning stats are as follows:
+
+                  Attack %: 80         Evade %:  30                 Damage: 80
+                     Armor: 30          Health: 375         Command Points: 11
+
+                  Attack Type: Melee         Stone:  Turns 8 units to stone
+                  Appeal Name: Stone                 for 21 - 30 seconds. This
+                   Point Cost: 3                     can affect friend and foe
+                                                     alike.  Units turned to
+                                                     stone can not be hurt,
+                                                     but can not attack.
+
+
+
+==============================================================================
+                                  Army Units
+==============================================================================
+
+
+   Heroes are the most powerful units you can command, and they are the 
+backbone of your war party.  However, the other units are what will make up
+the bulk of your party.  There are basically two different types of units: 
+melee units and ranged units.  there are several different types of units that
+fall under each of these two categories.  There are units both human and
+monster who await your command.  Some units will be available to you from the
+start of the game.  For other units, you must either defeat them in a given
+scenario or find an item related to them in order to be able to recruit them.
+At the end of this document is a chart that shows the statistics for each unit
+at levels 1 through 4.  Below are all the possible units at your disposal.
+
+
+      Amazons                          Elementals
+      Archers                          Gorgons
+      Axemen                           Harpies
+      Black Bears                      Huns
+      Brown Bears                      Large Spiders
+      Cavalry                          Minotaurs
+      Centaurs                         Sabertooths
+      Cyclops                          Skeletons
+      Doppelgangers                    Spearmen
+      Eagles                           Swordsmen
+
+
+   You will be limited in the number of units that you can bring with you into
+battle by a couple of different means.  First, you must be able to afford the
+cost in gold needed to recruit them.  Second, you must have the Command Points
+necessary to command them.  Each unit has a Command Cost; each Hero receives
+Command Points.  The number of Command Points determines the number and type
+of unit the Hero can command.  Obviously, units that are more powerful have a
+higher Command Cost.  Below are the Command Costs and Gold Costs for the 
+units.  This information comes from the game manual.
+
+
+      Unit Type              Command Cost     Gold Cost
+      ---------              ------------     ---------
+      Amazons                     20             100
+      Archers                     17              85
+      Axemen                      15              75
+      Black Bears                 12              60
+      Brown Bears                 17              85
+      Cavalry                     17              85
+      Centaurs                    20             100
+      Cyclops                     39             195
+      Doppelgangers               42             210
+      Eagles                      12              60
+      Elementals                  42             210
+      Gorgons                     35             175
+      Harpies                     21             105
+      Huns                        16              80
+      Large Spiders               20             100
+      Minotaurs                   33             165
+      Sabertooths                 16              80
+      Skeletons                   15              75
+      Spearmen                    15              75
+      Swordsmen                   13              65
+
+
+==============================================================================
+                              Inventory of Items
+==============================================================================
+
+
+   There are a variety of items to collect and use in Invictus: In the Shadow
+of Olympus.  Some you can buy at your neighborhood Vendor, while for others, 
+you must search high and low.  Below are the items found in the game.  I have
+divided them into two categories: Normal Items and Objects of Power.  The
+difference between them is that Objects of Power can not be bought in any
+store; you must find them through adventuring.
+
+
+                                 Normal Items
+                                 ============
+
+      Item Name                 Cost      Use
+      --------------------     ------     -----------------------------------
+       Golden Apples             *200      Heals one unit or Hero for 150 HP.
+       Ambrosia                   500      Completely cures one unit or Hero.
+       Dragon's Teeth           5,000      Will summon Skeletons for you.
+       Horn of Plenty           5,000      Heals a unit or Hero for 150 HP;
+                                           Can be used 3 times per scenario.
+       Gold Bars                 --        The currency of Invictus.
+       Icon of Power           10,000      Increases maximum God Points by 1.
+       Icon of Restoration      3,500      Restores up to 10 lost God Points.
+       Panacea                     50      Cures units or Heroes of poison.
+
+          * Eurymakhos, the traveling salesman, will sell you Golden Apples
+            for 50 gold, but you can only buy two from him per scenario.
+
+
+   There are also Objects of Power in the game.  These items can not be 
+bought; you must find them.  They are quite powerful, indeed.  This is a list 
+of many of the Objects of Power in the game.  There may be others in the game 
+not listed here.  Some of the descriptions I have provided have been taken from
+the game manual; others, from the game itself.
+
+
+                               Objects of Power
+                               ================
+
+      Item Name                 Use
+      --------------------      ---------------------------------------------
+       Axe of the Minotaur       Reveals unexplored areas of the map.
+       Banner of Andromache      Increases the efficiency of an Amazon unit.
+       Bow of Artemis            Very accurate and powerful.  Orion is blessed
+                                 if he uses this bow.
+       Crystal Skull             Can raise a Hero from the dead.  Reduces the 
+                                 cost of an Appeal by 1 point.
+       Pandora's Box             An ornate wooden box.  There is no clue to
+                                 what is inside...
+       Scroll of Valor           Dropped when a Hero dies.  Other Heroes 
+                                 carrying this item will receive 50% more 
+                                 experience points.
+       Shield of Athena          Gives protection to the weakest unit in your
+                                 party.
+       Talisman of Steropes      When carried, gives that unit moderate
+                                 protection from lightning.  When used, it
+                                 will eliminate damage from lightning for 30
+                                 seconds.
+       The Hand of Endymion      Able to heal madness with a touch.
+       Vial of Naptha            Gives all Archers Fire Arrows, but reduces
+                                 their range.
+
+
+   Be on the lookout for Objects of Power not listed here.  You may only be 
+able to obtain some of them if you are using a particular Hero.
+
+
+==============================================================================
+                           Store and Service Prices
+==============================================================================
+
+
+   Compared with other games, there are not a large variety of stores and 
+items for sale in Invictus.  However, there are certainly more than a couple 
+of places at which you can spend your hard won gold.  Below are the lists of 
+different merchants in Invictus, and the prices they charge for their items 
+and services.
+
+
+                                 Item Prices
+                                 ===========
+
+   Vendor:   Panacea                   50      Eurymakhos:   Golden Apple   50
+             Golden Apple             200
+             Ambrosia                 500
+             Horn of Plenty         5,000
+             Dragon's Teeth         5,000
+             Icon of Restoration    3,500
+             Icon of Power         10,000
+
+
+                                Service Prices
+                                ==============
+
+           Weaponsmith               Armorer               Trainer
+           -----------               -------               -------
+Level 2:        1,125                 1,049                   974
+Level 3:        1,687                 1,574                 1,462
+Level 4:        2,250                 2,099                 1,949
+
+
+   The price listed is how much you must pay to upgrade a unit to that level.  
+All characters begin at level 1.
+
+   You can also upgrade your units before each scenario.  The prices for this 
+are:
+
+      Level 2:   1,500
+      Level 3:   2,250
+      Level 4:   3,000
+
+   The prices are the same for upgrading armor, weapons or health.  The 
+Weaponsmith, Armorer, and Trainer can perform these same services for less 
+gold, but they are not available in every scenario.
+
+
+==============================================================================
+                            Things You Should Know
+==============================================================================
+
+
+   There are certain terms and concepts that will appear throughout the game,
+as well as this walkthrough.  It would be a good idea to know these commonly
+used terms and important concepts before continuing.
+
+
+Countdown Timer:   The countdown timer appears when you have completed either
+----------------   all of the objectives for a given scenario, or the main 
+                   one.  The countdown timer is usually 20 seconds.  During 
+                   this time you may pick up any items dropped by enemies, or 
+                   continue to explore.  However, once the timer expires, the
+                   scenario ends.
+
+        Compass:   There is no compass in the game.  Instead, you will have a 
+        --------   mini-map of the current scenario on the panel near the 
+                   bottom of the screen. You will notice that there is a 
+                   golden dot on the outside of the map.  It will move if you
+                   rotate the screen.  The golden dot indicates north.  This
+                   is a vital concept to understand in order to benefit from
+                   this walkthrough, as all of the directions are given in
+                   north, south, east, and west.
+
+
+
+==============================================================================
+                                 WALKTHROUGH
+==============================================================================
+
+
+   Throughout the course of this walkthrough, I will refer to various compass
+directions.  In order to determine which way is north, look at the area map on
+the bottom of the screen.  There should be a gold dot on the outside of the
+map.  That is north.  So MAKE SURE that when you are following the directions
+in the walkthrough that north is at the TOP of the map.
+
+   Also, the game does not always make it clear what the objectives are for 
+some of the scenarios.  It will give you a more detailed list once you 
+complete the area, however.  For your convenience, I have placed the
+objectives at the BEGINNING of each section.
+
+   And now, on with the adventure!
+
+
+==============================================================================
+1.   The Raider's Woods
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Defeat the Raiders that are threatening the town.
+            2.) Free the Neried.
+            3.) Defeat the Raiders at the encampment.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: Harpies, Eagles
+          ---------------------------------------------------------
+
+
+   You will start at the town fountain.  Explore the town and talk to people.
+To the south of where you start is the Trainer, who can level-up the health of
+your party members (non-heroes).  Be sure to also note that the Vendor is just
+south of the fountain as well.
+
+   Two buildings west of the fountain is the Armorer, who will upgrade the
+defensive abilities on non-hero units.  Southwest of the fountain is the
+Weaponsmith, who will improve your attack abilities.
+
+   Be sure to smash open everything you can, whether it is in town or not.
+You can tell is something is breakable by putting the cursor over it; if it
+turns into a sword, you can break it.
+
+   Homah is the woman who greets you.  She is Athena's representative in this
+world.  She tells you that you need to destroy the Raiders that are in the
+area.  The Raiders will continue to be a bother throughout the game, but take
+it one step at a time, for now.
+
+   Eurymakhos is located to the east of the fountain.  This jolly little
+salesman will sell you Golden Apples.  The price is always 50 gold, and you
+can buy two from him during any one scenario.  He will appear in many of the
+scenarios, but not all of them.
+
+   When you are ready, send your party to the east of Eurymakhos.  This will
+cause some Axemen to attack.  Be warned - they will attack your party as well
+as civilians.  If they kill an innocent, you will lose 150 of the possible 300
+experience points at the end of the level!  When you have defeated them,
+continue to the east and you will find a Golden Apple.
+
+   Head north out of town along the road.  You will encounter a larger group
+of Raiders.  Take them out!  You might want to consider using an Appeal if you
+have the points for it.  Killing the Raider group will complete one of your
+objectives for this scenario.
+
+   Continue north for a while longer.  You will meet Clio, the Muse of
+History, and she will gift you a Golden Apple.  You probably need that really
+bad about now!
+
+   Backtrack a bit south, then follow the stream to the west.  You will soon
+be assaulted by an Eagle.  A little farther past the Eagle is an Icon of
+Power!  Continue to follow the stream and you will be attacked by more
+Raiders!  When you defeat them, you will be rewarded with Ambrosia!  Save
+these for WAY later in the game.  You will also rescue a Neried, who will gift
+you with a Crystal Skull!  (This is the only one I have found in the game so
+far)
+
+   Now follow the road east from the Neried and you will come to a bridge.
+Cross over it.  Southeast of the bridge is your final objective:  The Raider's
+Camp.  First, head northeast of the bridge to find the first of several Books
+of Poseidon.  Each of the books that are scattered throughout the game have 5
+pages each.  You must re-click on the book to access each page.  I have
+included the full text of these books at the end of each section that contains
+a Book  (see the end of this scenario walkthrough for the info in this Book).
+So you can read it if you want, or you can just pass it by to save time.
+However, the actor voice for Poseidon is sometimes amusing.  The choice is
+yours.
+
+   Head east from the Book of Poseidon and you will find an Icon of
+Restoration, which will restore some of your spent God Points.
+
+   You are now at the edge of the beach (and the screen).  Head south.  You
+will find a Golden Apple along the way.  Continue south to find the Raider's
+Camp and another Golden Apple!
+
+   This final battle is the toughest in Scenario 1.  You may want to consider
+using one or more Appeal in order to even the odds a bit.  When you defeat the
+Raiders, a countdown timer will appear.  You will have approximately 20
+seconds or so to collect loot or whatever else you want to do.  Then the level
+ends!
+
+   You will receive an experience award based on the amount of objectives you
+completed.  Note that you will not always be required to finish every
+objective.
+
+   Also, keep your eyes open for various other items that are dropped during
+battles.  Some items, once collected, will allow you to recruit new units!
+For example, picking up an Eagle Egg will allow you to recruit Eagles, while
+picking up a nest in this level will allow you to recruit some Harpies.
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "Why am I always the villain? My     "Then my brother, Zeus, said we must
+ spoiled niece Athena vexes me yet    'share' the city of Troezan.  Share?
+ again.  First she took the land      With a girl?  What's next, worshipping
+ of Attica from me.  A land that I    mortals?  I don't think so!"
+ had proclaimed as my own!"
+
+
+Page 3                               Page 4
+------                               ------
+ "But the greatest insult was when    "And now!  Now she says that she can
+ she helped that weasel Odysseus      turn any mortal into a Hero!  That she
+ return to Ithaca, after he           can force me to bow and proclaim the
+ blinded my beloved little boy        worthiness of any fool she guides!  That
+ Polyphemus. And yet I'm cast as      owl-faced hag!  Doesn't she realize
+ the villain. By all rights,          that, with a sweep of my hand, Greece
+ Athena's little trickster should     would be a drowned ruin to rival
+ be a feast for fishes, and my        Atlantis?  Why should I care about
+ son should be sitting on his         mortals?"
+ throne!"
+
+
+Page 5
+------
+ "I have accepted her challenge.
+ And I have given her sufficient
+ rope to hang her pretty neck.
+ Let her mortal gather heroes to
+ face my tests!  When her champion
+ fails, all the gods will know
+ what a fool she is and all my
+ injuries shall be avenged.  Oh,
+ that makes me laugh.  That really
+ makes me laugh!"
+
+
+
+==============================================================================
+2.   The Seacliffe Plains
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Rescue the Temple of Athena.
+            2.) Save Villages.
+          ---------------------------------------------------------
+
+
+   Homah will once again greet you and explain your mission in this scenario.
+Talk with the various townspeople.  (One of them has apparently been
+influenced by Monty Python...)  The Vendor is in the western part of the town,
+if you need him.
+
+   Make any preparations quickly!  Several Axemen will attack from the north.
+Just north of the town is a large group of Axemen, as well as a Golden Apple.
+Now head east.  In the corner of the map is an Icon of Restoration.
+
+   Head north along the edge of the screen.  You will encounter Pollux, one of
+the twins.  He tells you of a nest of Harpies by the cliffs.  Just to the
+north of Pollux is another Book of Poseidon.
+
+   Now head west along the river.  Eurymakhos is about, selling his Golden
+Apples.  Buy them if you need them.  He will also mention Athena's Temple to
+you.  Continue to follow the river to the west.  You will soon come across a
+bridge.  West of the bridge is the other twin who will ask you if you are
+going to Plainstown, which is northeast of the bridge.  Now you are ready to
+cross over the bridge.
+
+   A Villager will tell you that Raiders are preparing to attack the towns in
+th northeast and the northwest.  Once you have crossed the bridge, head east
+along the river for an Icon of Restoration, but be warned - Skeletons will 
+rise up to attack you if you take it!  (Note: Skeletons are Immune to
+Arrows)
+
+   From the bridge, head northeast.  You will eventually reach Athena's
+Temple - and a group of Axemen.  Take out the Raiders and you will be greeted
+by Athena herself.  She will give you the Shield of Athena.  Be sure to also
+check out the area behind (to the east) of the Temple.  You will find some
+Gold and an Icon of Power.
+
+   Now head west in order to save the other town.  Be prepared, for this group 
+of Raiders is significantly stronger than the previous groups.  You will also 
+face a new enemy - the Hun.  Once you have rescued this village, the scenario
+will end.
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "Poor Athena, she has sunk to an     "I have seen times when her champion's
+ all time low.  Her fear of           aura is tinged shall we say, sometimes
+ failure shines brighter than a       red, sometimes blue, and its strength
+ full moon on a clear night.  She     increases.  And the gods, who should be
+ is cheating!  I don't know how,      ignoring this mortal, respect this
+ but she is definitely cheating.      newfound strength and are actually
+ My spies have brought me reports     answering its Appeals."
+ this upstart mortal's progress
+ and the fact that her champion
+ still breathes is proof of her
+ intervention."
+
+
+Page 3                               Page 4
+------                               ------
+ "I know mortals well and only        "Oh, poor Athena must be quite
+ magic could achieve this.            embarrassed to cheat so early in our
+ Perhaps Athena is brewing magic      little contest.  But I will say nothing.
+ potions and feeding it to the        For now, it amuses me to watch her
+ mortal, who would surely be dead     scramble around this 'hero' and nurse it
+ right now without them."             like a helpless babe.  The truth will be
+                                      revealed in time."
+
+
+Page 5
+------
+ "I will show all that I am the
+ stronger immortal, that I can
+ rise above her petty intrigues
+ and emerge victorious.  My
+ triumph will be even sweeter
+ because I choose to do nothing
+ to stop her escapades."
+
+
+
+==============================================================================
+3.   Temple of the Gorgon
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Defeat the Treasure Hunters attacking the Temple.
+            2.) Protect the Gorgons from the Treasure Hunters.
+            3.) Defeat the Raiders guarding the base camp.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: Gorgons
+          ---------------------------------------------------------
+
+
+   This time you will be addressed by Athena herself, instead of her
+representative.  She will send you east to prevent the Raiders from killing
+the Gorgons.
+
+   IMMEDIATELY head northeast from the town.  You will soon hear the hideous
+cries of Gorgons.  They are being attacked, and if too many of them die, your
+game will end.  Pay close attention to the battle.  If there are no Raiders on
+the screen, your party will start attacking the Gorgons by mistake!
+
+   To the south of the Gorgons, you will encounter Pollux, who is hunting
+Menelaos.  Menelaos apparently killed Pollux's brother, Castor.  East of
+Pollux is an Icon of Restoration.
+
+   Head north from the Gorgons.  You will come upon a mountainous peninsula
+with some gold.  If you take it, a group of Swordsmen and Archers will attack
+from the south.
+
+   From the starting town, head north along the edge of the screen.  You will
+come upon an Icon of Power.  Continue north and you will find yet another of
+the Books of Poseidon and a Golden Apple..  From here, continue north even
+farther and you will find the Treasure Hunter's Camp.  Located within the Camp
+is a Horn of Plenty.  This is a very valuable healing item, so be SURE to get
+it.
+
+   Once you have cleared the Treasure Hunter's Camp, the scenario is over.
+Congrats!  You most likely have at least 751 experience points at this point,
+which means that the next scenario will most likely be the first Hero Quest.
+In this quest, you will have the potential of recruiting a third hero for your
+party.  You may choose which one you would like to recruit.
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "The pressure must be really         "It's no secret that I enjoy the company
+ to the self-proclaimed goddess        of beautiful women.  Now what is the
+ of Virtue.  She has taken the         harm in bringing my latest love to a
+ most innocent of situations and       special place for a little rendezvous?
+ enlarged it completely out of         How was I to know that my self-
+ proportion.  My admiration of         righteous niece would take such offense?
+ female beauty s well known.           She obviously cannot abide seeing
+ Athena boasts that her temples        anyone else enjoying themselves and I
+ are a sight to behold, well...        do enjoy myself."
+ then why would it be a problem
+ for me to visit one of them?"
+
+
+Page 3                               Page 4
+------                               ------
+ "Why is the brow of my war-like      "My niece is the one who interrupted a
+ niece so creased in anger?  Well,    very private moment.  And before I knew
+ perhaps Medusa was a trifle          it that helmeted fury turned my
+ foolhardy to compare her raven       beautiful lover into a scale-covered
+ tresses to those of Athena's, but    monster with hissing serpents for hair.
+ I must confess the comparison was    Oh, all that gorgeous long hair!  And to
+ well founded.  Is it my fault        change Medusa's sisters into serpent-
+ that the girl was a little vain?     haired Gorgons was simply unnecessary."
+ Although I suppose Athena's
+ temple was perhaps not the wisest
+ place for a tryst with that
+ particular beauty."
+
+
+Page 5
+------
+ "Did I ever poison her bed with
+ eels?  How Dare She Do This To
+ Me!  Medusa was a most enticing
+ mistress!  If my brother's child
+ spent less time pretending she
+ was a warrior and more time being
+ a woman, she would understand.
+ But I do believe she is beginning
+ to show signs of defeat..."
+
+
+
+==============================================================================
+4.   ===First Hero Quest===
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Objectives are random according to chosen Hero.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: New Hero (of your choice)
+          ---------------------------------------------------------
+
+
+   Once you have acquired more than 750 experience points, you will qualify
+for your First Hero Quest.  After the mission in which you gain the experience
+necessary to pass 750xp, the Hero Selection screen will appear.  Choose the
+Hero that you want to add to your party.  I chose Achilles.
+
+   After you have selected a Hero, you will be given a Scenario to complete,
+which may or may not include defeating the chosen Hero in combat.  If you
+succeed, the new Hero is added to your War Party.  If you fail, they will
+refuse to join.  Do not fail!
+
+   Once you have finished the Hero Quest, the game will return to the main
+storyline.  I have placed the information on the two Hero Quests in the
+earliest possible locations in which you will obtain them.  (that is, assuming
+you gain the FULL experience reward for each scenario)
+
+   And now, back to the main game!
+
+
+==============================================================================
+5.   Rescue the Gorgon Queen
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Free the Medusa from the Raiders.
+          ---------------------------------------------------------
+
+
+   This is a relatively simple task.  Note, however, that I just said simple, 
+and not easy.  What you must do is make sure that the Gorgon Queen safely 
+escapes from the Raiders.
+
+   The best strategy I found was to head east from the start IMMEDIATELY, and 
+continue heading east, ignoring ALL obstacles, including enemies.  This will 
+certainly cost you some health and maybe even a couple of units, but you are 
+under a strict time limit.  You do not have much time to explore the map.
+
+   When you reach the Gorgon, she will start to flee toward the northwest.  
+Follow behind her, making sure that she is on the screen with you.  This will 
+hopefully draw some of the enemies from her to you.  Your first priority is to 
+make sure she does not die; if she does, you will lose.  Once she reaches the 
+northwest edge of the map, she will disappear.  The countdown timer begins.  
+Now all you must do is avoid dying for about 20 seconds.  I found that it
+helps to run.
+
+
+==============================================================================
+6.   Minotaur's Maze
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Solve the statue puzzle.
+            2.) Kill the Minotaur.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: Minotaur
+          ---------------------------------------------------------
+
+
+   You have entered the Minotaur's Maze!  Athena's representative, Homah, has 
+returned to advise you.  Your goal is simple:  find and destroy the Minotaur.
+
+   The maze is rather large and complex.  My suggestion is to arrange the
+camera angles so that you are looking straight down on the map.  There will be
+more levels that are also better to complete from this top-down viewpoint.  It
+may also be helpful to zoom out in order to get as much of the maze as
+possible on one screen.  I have created a map of the maze and its major
+features below.  Hopefully this helps!
+
+
+  #################################################     --------------------
+  #      #                                        #     |      LEGEND      |
+  #      #                                        #     --------------------
+  #   #  #                                        #     |                  |
+  #   #  #   ############################         #     | M   Minotaur     |
+  #   #  #C  #                #        T          #     | C   Cornucopia   |
+  #   #  #####                #                   #     | S   Statue       |
+  #   #     M   ##         #  #  ########         #     | R   Red Barrel   |
+  #   #         ##  #####  #  #         #         #     | G   Green Barrel |
+  #   #####  #####      ####  #         #         #     | B   Blue Barrel  |
+  #       #  #          ####  #####  #  #         #     |                  |
+  #       #  #          #            #  #         #     | T   Traps        |
+  ######  #  ########   #            #  #         #     | W   Warp to W1   |
+  #    #  #  #      #   #   ##########  #         #     |                  |
+  #    #  #  #      #                #  #         #     --------------------
+  #    #  #  #      #                #  #         #
+  #       #    W        #######      #  #         #           _   _
+  #       #             #######      #  #         #          | \ | |
+  #   ########   #      #######      #  #         #          |  \| |
+  #   #          #      #######      #            #          | . ` |
+  #   #          #      T  #S     #  #            #          | |\  |
+  #   #####      #  #      #   S S#  #            #          |_| \_|
+  #   #####      #  #####  #  #####  #            #
+  #   #          #  #####  #     S#  #            #             _
+  #   #          #  #  #   #S S   #  #            #            / \
+  #   #    #######  #  #  ######  #  #            #           /   \
+  #   #    #######     #  ##      ####            #          /_____\
+  #   #    #######     #  ##     S####            #             |
+  #   #    #############  ##   ####               #             |
+  #   #    #######        ##   ####               #             |
+  #                       ##BRG####               #             |
+  #   T             ####  #########               #             |
+  #   ############  #                             #             |
+  #                 #                             #             |
+  #                 #  ###                        #             |
+  #          #####  #  ###                      G #             |
+  #########  #####  #                           G #
+  #W1#    #  #####  #       #                  GG #
+  #  #    #         ###     #                  GG #
+  #  #    #         ###     #                     #
+  #  #  ##########  ###    ##                     #
+  #  #                      #                     #
+  #  #                   #                        #
+  #  ######################                       #
+  #                                         START #
+  #################################################
+
+
+   This is a rather large maze.  Begin by immediately going north.  You will
+soon find a small cluster of 6 Golden Apples.  While this is a welcome find,
+it is also indicative of the trouble ahead.
+
+   Continue going north until you reach the northeast corner of the map.  Take
+the upper most path to the west, where you will find a Cornucopia (Horn of
+Plenty).  Return to the northeast corner of the map, and take the next passage
+to the west.  Follow the map above to the area with the statues and the three
+colored barrels (labeled R, G, and B on the map.  As you make your way past
+the statues, they will give you various hints about the puzzle.  Break the
+barrels in the proper, according to their order, which is: Red, Green, and hen 
+Blue.
+
+   Now you will want to hunt down the Minotaur!  From the area with the three 
+colored barrels, head north, then west.  When you reach a split to the north
+and south, head north.  At the end of the path, go west.  The path will curve
+north, west, south, and finally west again.  Ignore the next path to the
+south.  To the north, on the other side of the wall, you should see the
+Cornucopia (if you didn't grab it already).  The Minotaur is also in this
+area.  When he dies, the scenario will end.
+
+   You may want to consider upgrading your units to at least Level 2 if you
+can afford it and have not done so already.  The battles only get more
+difficult from here!
+
+
+==============================================================================
+7.   ===Second Hero Quest===
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Objectives are random according to chosen Hero.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: New Hero (of your choice)
+          ---------------------------------------------------------
+
+
+   Once you have acquired more than 1500 experience points, you will qualify
+for your First Hero Quest.  After the mission in which you gain the experience
+necessary to pass 1500xp, the Hero Selection screen will appear.  Choose the
+Hero that you want to add to your party.  I chose Orion.
+
+   After you have selected a Hero, you will be given a Scenario to complete,
+which may or may not include defeating the chosen Hero in combat.  If you
+succeed, the new Hero is added to your War Party.  If you fail, they will
+refuse to join.  Do not fail!
+
+   Once you have finished the Hero Quest, the game will return to the main
+storyline.  I have placed the information on the two Hero Quests in the
+earliest possible locations in which you can obtain them.  (this assumes that
+you gain the FULL experience reward for each scenario)
+
+   And now, back to the main game!
+
+
+==============================================================================
+8.   The Fountain of Truth
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Find the Fountain of Truth.
+            2.) Defeat Prince Cassius.
+            3.) Defeat the Huns.
+          ---------------------------------------------------------
+
+
+   The Vendor is here with his wares, in case you are in need of anything.
+According to Homah, the Minotaur hid the Fountain of Truth deep in the
+labyrinth.  Your mission is to find it.
+
+   You will almost immediately be attacked by Raiders from the west.  Defeat
+them and head west yourself.  When you reach the end, you have a choice of
+going north or south.  Head north.  The path will swerve east, then north
+again.  Ignore the first path to the east.  Continuing north will lead to a
+large open area.  In the southeast corner is a fountain.  If you click on it,
+the area around it turns green.  If you happen to be in that area, you will be
+poisoned!
+
+   To the north of the fountain, in front of a house, you will find Clio, the
+Muse of History.  She will give you a rather detailed history of the Fountain
+of Truth.
+
+   You will notice three paths heading north from near Clio.  One of the paths
+is to the east of Clio, while the other two are to the west of her.  Take the
+westernmost path.  When you reach the wall, head east.  The Armorer is here,
+and will upgrade your characters if you want.
+
+   From the Armorer, head west until you reach the wall, the head south.  Take
+the first available path to the east.  The Trainer can be found here.
+
+   When you are done upgrading, return to the poison fountain and head west.
+You will soon come across another fountain.  Unlike the previous fountain, you
+will want to click on this one, for it yields Ambrosia!  From this fountain,
+head south.  You will encounter another fountain; this one contains an Icon of
+Restoration.
+
+   Now return to the fountain that gave you the Ambrosia, and head west.
+After the path takes a brief detour south, it will head west again.  You can
+either go north from here or continue to the west.  First head north.  When
+the path branches west and north, continue to the north.  It will quickly turn
+west and then north again, this time into an open area.  At the entrance are
+two fountains; the one on the left holds a Panacea, while the one on the right
+has a Golden Apple for you.  Now head back to the south.
+
+   When the path splits to the south and west, head west.  Now take the first
+path to the north, and follow it when it curves to the west.  Here is the
+Weaponsmith.
+
+   From the Weaponsmith, head south.  When the path splits east and west, head
+east.  Immediately take the first path south, then turn east.  You will be in
+an enclosed area with the Fountain of Truth - and a Minotaur.  This particular
+creature is significantly stronger than the previous one.  His statistics are
+as follows:
+
+                          -------------------------
+                          |       Minotaur        |
+                          -------------------------
+                          | Lvl 3:    91%| 63 Dmg |
+                          | Lvl 3: Ev 39%| DR 46  |
+                          | Lvl 3: 63 Mv | HP 624 |
+                          -------------------------
+
+   After you defeat the Minotaur, click on the fountain to end the scenario!
+
+
+==============================================================================
+9.   Trial I
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 450
+          ---------------------------------------------------------
+            1.) Defeat Poseidon's Army.
+            2.) Reach the area of Poseidon's stronghold.
+          ---------------------------------------------------------
+
+
+   This is the first of three trials in which you will attempt to prove your 
+worth.  They will all take place in the city of Calaphon.
+
+   You will be attacked by a force of soldiers from the north.  After you
+defeat them, head north.  The path will soon widen.  When you reach the
+northernmost edge of the building on the left side of the path, you will be
+ambushed by a large force of soldiers from both the north and the west.  The
+Archers are particularly dangerous, so be sure to take them out quickly!
+After you defeat the enemy forces, head north, where you will find another
+Book of Poseidon.  Now backtrack and take the path to the west.  Follow the
+path to the south for some Ambrosia!
+
+   Now head north and take the next path to the west.  There is another group
+of Poseidon's troops waiting for you.  After disposing of them, you can either
+head to the northwest or to the southwest.  Take the southwest path.  It will
+lead you to an open area with... you guessed it - more Poseidon lackeys!
+
+   In this area, there are two buildings with a path between them heading west
+and south.  Strike the tree at the entrance to this pathway for an Icon of 
+Power.  
+
+   The path will lead your party to another open area with a blue-roofed 
+temple.  Head east from here.  A group of enemies will drop an Icon of Power 
+when defeated.  From this point, head south to face another force, which will
+ALSO drop an Icon of Power!  Now backtrack until you are back at the
+blue-roofed temple.
+
+   From this point, there are two paths heading south, one on either side of
+the temple.  Take the left path all the way south.  You will face a HUGE
+contingent of soldiers.  If you manage to defeat them, the countdown timer
+will begin.
+
+   Congratulations on completing the first Trial!!!  But you still have a long
+journey ahead.  You will be treated to a short movie.  Enjoy!
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "I cannot believe this pitiful       "This mortal's days are numbered.  No,
+ excuse for a mortal still lives!     no, no... not his days his minutes are
+ It actually overcame my first        numbered.  Yes, yes!  I obviously have
+ challenge!  How could this have      not given this problem my full
+ happened?  This is intolerable!"     attention.  But all that changes now!
+                                      Yes...how would I like to kill this
+                                      pathetic flea?"
+
+
+Page 3                               Page 4
+------                               ------
+ "Decisions, decisions...I could      "Perhaps I shall slowly crush its limbs
+ clog its little throat with          until it begs for death.  Imagine a
+ poisonous mists.  That's always      limbless torso stumbling through the
+ fun.  I could open the earth and     forest.  Splinters everywhere!  OUCH!
+ swallow it.  I could dry every       That would be amusing!"
+ ounce of water in its little body
+ with salt.  No, no, no...perhaps
+ I'll weaken its arms and legs as
+ if it was walking underwater."
+
+
+Page 5
+------
+ "I think I'm beginning to enjoy
+ myself.  Oh yes, I am."
+
+
+
+==============================================================================
+10.   Return to Raider's Woods
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Defeat the Raiders in the camp.
+            2.) Defeat the Raiders at the village.
+            3.) Defeat the Raiders at the bridge.
+          ---------------------------------------------------------
+
+
+   You will find that you have returned to the Raider's Woods.  Apparently, in
+your absence, the Raiders have attacked the village and captured the 
+villagers.  First things first, head west from the starting point and you will 
+find a Book of Poseidon.
+
+   Now head south.  Cross over the stone road.  There is a dirt path winding 
+its way south.  Follow it.  Cross over the stream to reach the old Raider's 
+camp.  There is still a fair number of Raiders still in the area, so be ready 
+for a fight!  There is also a Golden Apple within the camp itself.
+
+   Now head to the far south end of the camp.  When you reach the southern 
+edge of the screen, turn and head west.  You will run across a hill after a 
+short time.  Turn and head north over the hill to find an Icon of Restoration.  
+From the Icon, head west until you reach the river.
+
+   Once at the river, follow it north until you reach the stone road.  There 
+is a bridge which leads east.  Cross over it and take out the group of Raiders 
+that is guarding it.
+
+   Once you have defeated them, follow the stone road until you reach a 
+stream.  Follow the stream as it flows to the southeast.  Remember this area 
+from your first visit?  Well, there is another Icon of Power just sitting 
+there waiting for you to take it.
+
+   Follow the stream until it intersects the stone road.  Now take the road to
+the south.  You will eventually reach the village.  Simply defeat the Raiders
+that have occupied the town to finish this scenario!
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "I've lost all patience.  I tried    "This creature is beginning to believe
+ to make a contest out of it, but     that it is a hero.  Instead of doing the
+ I can stand it no longer!  If        intelligent thing - proclaiming my
+ Athena is not going to play by       superiority and begging for a quick
+ the rules, then why should I?"       death - it Dares To Challenge Me!"
+
+
+Page 3                               Page 4
+------                               ------
+ "Its luck runs out now.  Its         "It is my niece, all dressed up in her
+ friends shall abandon its cause.     play armor, who shall suffer the most.
+ I shall see to it.  Athena has       If it were not for Zeus, I'd have done
+ really pushed her luck too far.      away with her aeons ago.  I suppose I
+ I shall show no more mercy."         shall have to content myself with making
+                                      her look like a fool.  I'll humiliate
+                                      them both so badly that even Athena's 
+                                      beloved owls will not be able to stand 
+                                      the sight of her!"
+
+
+Page 5
+------
+ "Now I shall make her champion
+ look so inept, so stupid that my
+ brother's petulant child will be
+ forced to hide her face in shame
+ and embarrassment.  The game is 
+ over.  Failure is not an option."
+
+
+
+==============================================================================
+11.   Treasure of Antaeus
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Obtain the Scroll of Antaeus for Athena.
+          ---------------------------------------------------------
+
+
+   This act begins near the Raider's main camp.  Your party starts in the 
+bottom southwest corner of the map.  Along the outside perimeter of the base 
+are some fountains.  A couple of them will warp your party back to the 
+starting point (good for escaping from pursuing enemies).
+
+   First things first.  Continue north until you reach the shore.  Click on 
+the fountain, and a group of skeletons will appear.  They will proceed to 
+march straight into the camp and do battle with the enemy.  Cool!
+
+   What you will want to do now is to follow the coast to the east.  Try and 
+walk as close to the shore as possible, to avoid revealing any of the enemies 
+to the south.  If this happens, you may have to stop and fight.
+
+   Make your way to the northeastern corner of the base, and enter there.  
+Once you have entered into the camp, you will be set upon by a group of 
+Harpies.  They are Level 3, so beware!  Also with them is a Spearman who is
+Level 5!!  This is the enemy who is carrying the Scroll of Antaeus that you
+are looking for.  Once you defeat him, take the scroll and run back the way 
+you came.  Avoid revealing any more of the uncovered area of the map.  The 
+enemies will keep regenerating in this level, so stopping to fight them all is 
+practically useless.  Once you pick up the scroll, the countdown timer will 
+begin.  Just stay ahead of the Raiders, and you will survive.
+
+
+==============================================================================
+12.   Mountain Bandits
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Save the world from the terrors of Pandora's Box.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: Doppelgangers
+          ---------------------------------------------------------
+
+
+   When you begin this scenario, Homah will warn you to beware of deceptions.  
+Just to the west of Homah, you can find Eurymakhos peddling his Golden Apples,
+if you are in need of any.
+
+   To the east, you will encounter an Amazon named Evadne, who's jewelry box
+has been stolen.  Hmmm...I did not know that Amazons were fond of jewelry.  No
+matter.  Talk to her and she will join your party.  A little farther to the 
+east is another one of the infamous Books of Poseidon.
+
+   Head north from the Book of Poseidon.  There you will find Dryope and
+Pollux.  Dryope tells you to go east, while Pollux tells you to go northwest.  
+You should head northwest, as per the advice of the sane one of the two.
+
+   The road will come to an end, and some Raiders will attack you.  A short
+ways north from here is a Golden Apple.
+
+   From the apple and the ambush, head east.  The road will reappear.  You 
+will also encounter Urania.
+
+   Continue along the road as it heads east.  When the road curves, head south 
+a bit until you reach the stream.  Then follow it east and south.  Along the 
+way you will find an Icon of Power.
+
+   Continue along the stream until you find a road running east and west.  
+Follow it east to its end where you will find a Golden Apple - and some 
+Raiders.
+
+   Now head north from the Raider attack.  The road will reappear.  It will 
+join with another road and fork to the southwest and the north.  Take the road 
+to the southwest until you find Thetis.
+
+   From Thetis, head northeast until the road ends.  There is a large group of 
+Raiders here waiting for you.  I hope that you are ready!  
+
+   After disposing of the enemies, head east.  You will run across another 
+party of Raiders.  Send them to meet their brothers in Hades.  From here, head
+south and you will find...Hercules?  He has Pandora's Box with him.  The 
+Amazon claims that it is her jewelry box.  Hmmm...  Hercules won;t give it to 
+her, so she attacks him.  You can do one of two things here.  You can either 
+pick up the Box where it lays, in which case the countdown timer will begin,
+all while Evadne and Hercules fight.  Another option is to join Hercules in 
+fighting the peculiarly strong Amazon.  This yields nothing worthwhile.  The
+choice is yours.  If you choose to fight her, though, be aware of her 
+statistics, which are as follows:
+
+                          --------------------------
+                          |    Evadne (Amazon)     |
+                          --------------------------
+                          | Lvl 5:   128%| Dmg 112 |
+                          | Lvl 5: Ev 72%| DR   40 |
+                          | Lvl 5: 63 Mv | HP 2000 |
+                          --------------------------
+
+   Congrats on saving the world from unparalleled evil!  Now, I'll bet
+you're wondering...what is inside Pandora's Box?  Well, you can open it if you 
+want.  If you decide to do this, you will be faced with several Doppelgangers
+- all of them extremely unfriendly.  So...do not open it.  You will not need
+it for any future scenarios, so put it in your reserve inventory between
+scenarios, in order to free up some space in your characters' inventories.
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "Why are my troops so                "It is time to summon the Doppelgangers.
+ incompetent?  These buffoons say     Oh, I love that word - Doppelgangers,
+ they are soldiers, but I've seen     Doppelgangers, Doppelgangers. Duplicates
+ trout fight with more ferocity!      of evil.  Oh, I like that word too. That
+ How dare they fail me when my        will confuse the stupid little mortal!
+ reputation is at stake?"             And confusion leads to fatal errors."
+
+
+Page 3                               Page 4
+------                               ------
+ "Doppel-ganger! Doppelganger!        "It is almost a pity that it must end
+ Doppelganger!  Say it fast or        now.  I've actually had a few moments of
+ slow, softly or loudly.  It means    entertainment.  But enough time has been
+ the same thing - certain death       wasted on this play toy already."
+ for that mortal pest."
+
+
+Page 5
+------
+ "Death is too good for Athena's
+ annoying little pet.  This mortal
+ will suffer as no other before
+ him.  And I will make certain of
+ that."
+
+
+
+==============================================================================
+13.   Ravine of the Undead
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 400
+          ---------------------------------------------------------
+            1.) Destroy the Swordsmen attacking the town.
+            2.) Defeat the Raiders invasion force.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: Cyclops
+          ---------------------------------------------------------
+
+
+   You will start within the walls of a town.  The exit is in the northwest
+corner.  Shortly after the scenario begins, Raiders will begin flooding into
+the town.
+
+   After you have eliminated the threat, take the time to search around the
+city.  This town has everything:  A Weaponsmith, Armorer, Trainer, and a
+Vendor.  Even Eurymakhos can be found strolling around.  In the south end of
+town, you will find Clio roaming around.
+
+   At this point, you will be ready to leave the town.  What you should do is
+keep a portion of your forces within the town in order to protect it from any
+marauders, Raiders, or Skeletons.  With your main force, head out through the
+northwestern exit.  Soon after leaving, you will encounter Dryope, who will
+provide you with more information about the undead in the region.
+
+
+                       ================================
+                       One thing that you should NOT
+                       do is to head north from the
+                       town.  Doing this will cause
+                       the Skeletons there to attack
+                       the town and your party in huge
+                       numbers.  You should also strive
+                       to finish this scenario as
+                       quickly as possible, as the
+                       Skeletons will eventually come
+                       and attack the town anyway.
+                       ================================
+
+
+   Follow the road to the west.  Walk over the river and continue along the
+road, until you meet Menelaos.  He will tell you that the Raiders are at the
+gold mine, which is located in the northwest.
+
+   Follow the stone road.  It will eventually turn into a dirt road.  At the
+point where the stone road and dirt road meet, head west to the edge of the
+screen.  From there, follow the stream south and you will find an Icon of
+Restoration.
+
+   Now return to the dirt road and follow it to the northwest and then to the
+north.  After crossing over a stream, you will meet the appropriately named
+Wussley.  Continue north along the trail in order to reach the mine.  When you
+arrive, you will be attacked by the Raiders, as well as by a new enemy - the
+Cyclops!  Furthermore, this is a particularly strong Cyclops, as can be seen
+in the following:
+
+                          --------------------------
+                          |        Cyclops         |
+                          --------------------------
+                          | Lvl 4:   101%| Dmg  60 |
+                          | Lvl 4: Ev 43%| DR   50 |
+                          | Lvl 4: 54 Mv | HP  696 |
+                          --------------------------
+
+   When you successfully defeat the force of Raiders here, the countdown timer
+begins.  If the Cyclops drops an Eye after it is defeated, be sure to pick it
+up, as it will allow you to recruit Cyclopses!
+
+
+==============================================================================
+14.   Lystis and the Marauders
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Defeat Lystis.
+          ---------------------------------------------------------
+
+
+   Your mission in this scenario is to kill Lystis and his men.  You will begin
+in the southeast corner of the map.  From here, head west.  You will 
+eventually be attacked by Skeletons from the west and Archers from the north.  
+They are all Level 3, and the Archers have a LONG reach, so be careful!
+
+   Continue west.  After a short time, you will find an Icon of Restoration
+next to the water.  Continue west along the river to find ANOTHER Icon of 
+Restoration.  Be aware that if you take this Icon, you will be attacked by a 
+flock of Eagles.  They are not a great danger, though.  Finally, continue even 
+farther west to score an Icon of Power!
+
+   Now head north until you come across a white pillar.  There are more of 
+them nearby.  There is also a group of Skeletons here, which you should kill.
+You will find two very valuable treasures here: Ambrosia, and The Talisman of
+Steropes.  This will let you pass by Poseidon's thunder later in this
+scenario.
+
+   When you reach the far northwest corner of the map, head east.  When the 
+ground starts to turn green, you will see a stone.  DO NOT CONTINUE EAST!  If
+you do... well, let us just say that lightning will not need to strike 
+twice...
+
+   If you want, you can follow the line of stones south and east.  It will
+lead to a fountain.  Clicking on the statue will cause it to talk.  It offers 
+to give you hints for the low cost of 100 gold per hint.
+
+   When you are ready, use the and The Talisman of Steropes and proceed past 
+the stone barrier.  The amulet will protect you from lightning damage for 30 
+seconds (protect does not mean immunity).  Lightning will strike from the sky
+five times.
+
+   Head to the east once you are within the stone barrier.  You will find
+Lystis the Cyclops, as well as some pirates.  Kill them to end the scenario.
+
+
+==============================================================================
+15.   Cyclops Lair
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Survive.
+            2.) Recover your ships.
+            3.) Retrieve an object of power.
+          ---------------------------------------------------------
+
+
+   Treasure hunting on Cyclops Island?  What a marvelous idea! (not!!).  You 
+have been stranded on an island inhabited by Cyclops, and you must escape 
+before they kill your party.
+
+   The treasure is on the far side of the island, but guess what?  Every time 
+you kill a group of Cyclopses, another group will appear.  There is an 
+infinite number of Cyclopses on the island, so my advice is this - don't 
+fight.  Run!
+
+   From the starting point, run north.  When you see the remains of a ship, 
+turn and head northwest.  On the beach in the northwest you will find the Vial 
+of Naptha.  This will also activate the countdown timer.  This level is very 
+straightforward and simple, but it may take a few times until you are able to 
+successfully grab the Vial and survive the countdown.  Good luck!
+
+
+==============================================================================
+16.   Feast of Titans
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Free the prisoners.
+            2.) Destroy the Cyclops sentinels.
+            3.) Defeat the Cyclops Retribution Party.
+          ---------------------------------------------------------
+
+
+   Now you must save a village from the voraciously hungry Cyclopses.  You
+begin in the northeast corner of the map.  Head south along the road.  When
+you reach the southeast corner of the map, head wet.  After a short jaunt you
+will discover a Book of Poseidon.  Yippee - more Poseidon musings!
+
+   Head northeast from the Book of Poseidon and walk north along the other
+side of the river you just crossed.  You will find a fountain on your way
+north which will yield a Golden Apple if it is clicked on.  There is another
+Golden Apple a bit farther to the north as well.  Now return to the Book of
+Poseidon and travel northwest.
+
+   Along the way, you will see the remains of a stone wall.  Soon you will
+reach the village.  The villagers are nowhere to be seen.  However, you will
+be warmly welcomed by some Cyclopses and Bears.
+
+   When you reach the northern exit out of town, turn and head northwest.
+Follow the mountains until you reach the western edge of the map.  Now head
+south.  You will fight with some Cyclopses along the way.  You will also find
+an Icon of Restoration.
+
+   Now return to the northern town entrance and travel north.  You will soon
+reach the enclosure that houses the villagers.  The Cyclopses are readying
+them for dinner, and the villagers are NOT guests.  Before opening the gate
+and freeing them, you should head northwest until you reach the corner of the
+map.  Here you will find some Ambrosia.  Have you been hoarding this stuff
+yet.  You should be!
+
+   Now return and free the villagers.  The gate is somewhat tricky to open,
+but if you keep hitting it from every angle, it should open.  Be prepared -
+when you open the gate, a group of Cyclopses and Bears will come from the
+southwest (originating from near the location of the Icon of Restoration).
+It is best to leave the villagers in the enclosure, and send your party
+southwest to deal with the menace.  But be sure that none of the enemies
+sneaks by you and begins attacking the villagers - they will die quickly.
+
+   To finish this scenario, you must gather the villagers together, (notice
+that you can control them) and return with them to Homah.  This will activate
+the countdown timer.  Good job!
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "The mortal's end draws near.  It    "I laugh when I think about what it will
+ has done better than I had           face.  Its legions will die of fright
+ expected, but it is, after all,      at the very sight of it.  Before their
+ only a mortal.  So... farewell.      little mouths can open, they shall
+ It will vanish without a trace."     become ashes, and a typhoon shall blow
+                                      them from the face of the earth.  Ah,
+                                      sweet sea breeze..."
+
+
+Page 3                               Page 4
+------                               ------
+ "Soon, the mortal's name will be     "Athena will not make a fool of me.  I
+ forgotten.  Its own family will      know what my fellow Olympians are
+ deny that it was ever born.  And     saying.  But I still have the power to
+ all the gods shall pay tribute to    destroy mankind and I will not lose the
+ me, the mighty Poseidon, while I     respect I desire and deserve.  I must
+ drown the earth."                    prove my power or take my revenge."
+
+
+Page 5
+------
+ "Let this mortal prove worthy of
+ the admiration that grows.  But
+ if I lose... I will not."
+
+
+
+==============================================================================
+17.   Hydra's Bog
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Break the curse on the tree.
+            2.) Kill the Hydra.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: Elemental
+          ---------------------------------------------------------
+
+
+   Homah will be here to once again give you your mission.  This time, you are 
+to lift the curse that has befallen the area.  You will immediately be
+attacked by a new and powerful enemy - the Elemental.
+
+   From Homah, head south.  There will be several splits in the path, but you
+should ignore them.  When you can not go south any longer, head southeast.
+The path will soon curve to the east.  Then the path will become an open area,
+and the ground will change to a brown color.  You will also notice a formation 
+of red trees and a rock.  Furthermore, you can hear the sounds of a far off 
+battle.  Head north.
+
+   Continue north along the eastern edge of the map.  You will run into 
+Dryope, who will entertain (or annoy) you with her unhealthy obsession with 
+sticks.  A bit north of Dryope is a Golden Apple.
+
+   Now head west along the swamp, following its edge at it curves to the 
+north.  You will meet up with Clio.  She tells you that there is a Wood Nymph
+named Gaean somewhere in the swamp.  Continue west along the swamp edge.
+
+   You will eventually return to the starting point, and to Homah.  It is here 
+that my party was beset upon by the dreaded Hydra!  When you defeat it, it 
+will drop both an Icon of Restoration and an Icon of Power.  The stats of the
+Hydra are as follows:
+
+                      ----------------------------------
+                      |             Hydra              |
+                      ----------------------------------
+                      | Lvl 1: 70% + 75 |  Dmg 65 + 3s |
+                      | Lvl 1:   Ev 65% |        DR 55 |
+                      | Lvl 1:    63 Mv |      HP 2000 |
+                      ----------------------------------
+
+   From Homah, head northwest until you reach the mountains.  Follow the line 
+of mountains until you see a path that cuts between them.  Take this path and 
+you will find yourself in the northwest corner of the map.  There are two 
+objects of power here:  The Charm of Artemis, and Artemis' Bow.
+
+   Now head south along the western edge of the map.  When the path ends, turn 
+to the east.  Here you will find a very *cheerful* Swamp Person.  Continue 
+east from the Swamp person to find Urania.  She is somewhat more encouraging 
+than the Swamp Person.
+
+   Now return to Dryope.  Remember the wonderful stick she was talking about?  
+It is actually the Cursed Tree.  Use the Charm of Artemis on the Cursed Tree.  
+This will initiate the countdown timer.
+
+
+==============================================================================
+18.   Trial II
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Defeat the enemy.
+          ---------------------------------------------------------
+
+
+   You have returned to Calaphon to face the second trial.  Once again, you 
+must defeat Poseidon's forces.  They have gotten stronger since his first
+defeat.  The layout of this level is almost exactly as it was the first time
+you visited here.  For starters, head north.  When the path branches off to
+the north and west, you will be ambushed (similar to the first ambush, but the
+enemies are stronger and more numerous).
+
+   When you have defeated the enemies, you can head north to read the Book of
+Poseidon.  After you peruse the book, you should head west.  There is another
+force of enemies waiting for your party, and they have set up barricades in
+front of them.  The barricades prevent many melee units from attacking them
+all at once, and that makes this group of enemies particularly difficult to
+defeat.  Bring the full strength of your long range fighters and your Appeals
+to bear.  Pass through the barriers once the enemy is defeated.  You will
+enter an open area with a path to the northwest and southwest.  The northwest
+path leads to a Panacea.  Follow the southwest path.
+
+   This path turns into another open area.  You will notice the narrow path
+that runs between two buildings.  This time it has a single guard blocking it.
+Be careful - this is no ordinary guard.  It is Talos, the super-guard!  It is
+NOT necessary to kill him in order to proceed.  If you try to pass him, he
+will attack your party, but once you have passed a certain point along the
+narrow path heading south, he will give up the chase.  If you do decide to
+fight him, here are his stats:
+
+                         ---------------------------
+                         |          Talos          |
+                         ---------------------------
+                         | Lvl 1:    90% |  Dmg 70 |
+                         | Lvl 1: Ev 10% |   DR 70 |
+                         | Lvl 1:  63 Mv | HP 3000 |
+                         ---------------------------
+
+   Talos has the most hit points of any single enemy in the game, including
+the final enemy!  However, he is not nearly as difficult to kill.  Whatever
+you decide to do with Talos, you should head south using the narrow path
+between the two buildings.  This will deposit you in front of the blue-roofed
+temple.
+
+   Head east from the temple, and take out the enemy force waiting for you,
+and you will receive an Icon of Power.  Continue all the way to the east, then
+head south.  Take out the soldiers located here and you will receive an Icon
+of Restoration.  Now return to the blue-roofed temple.
+
+   Head south from the temple.  Much like last time, there is a large group of
+Poseidon's troops here.  As you are about to finish off the last of the
+enemies, you will suddenly hear Poseidon's voice.
+
+                    --------------------------------------
+                    "You will pay for this, mortal!  See
+                    how you like Tartarus! Mwa, ha, ha..."
+                    --------------------------------------
+
+   When the soldiers are all defeated, the countdown timer will begin.
+Congratulations on defeating Poseidon's forces for a second time.  However, do
+not get too comfortable - he still has ONE more enemy for you to fight...
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "This mortal is blessed with the     "But what if it defeats me?  Athena's
+ luck of the gods, but even that      boasting invades my sleep.  The gods
+ is not infinite.  I can't believe    whisper behind my back, praising this
+ it has reached my second             mortal.  What if I cannot end this now?"
+ challenge."
+
+
+Page 3                               Page 4
+------                               ------
+ "No, no, no, no.  I shall do what    "I know, I shall call upon my brother
+ must be done.  Victory alone         Hades.  Oh, Hades, my favorite brother.
+ shall be remembered.  Victory        He must come to my aid.  For he is,
+ alone can silence them.  My          after all, my brother.  That has to
+ victory."                            count for something.  Doesn't it?"
+
+
+Page 5
+------
+ "I mean, he's a god, I'm a god.
+ Gods help one another, right?  
+ Correct?  Yes.  It's a rhetorical
+ question, don't answer.  He will
+ not abandon me."
+
+
+
+==============================================================================
+19.   Poseidon's Greatest Creation
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 150
+          ---------------------------------------------------------
+            1.) Defeat the Dragon.
+          ---------------------------------------------------------
+
+
+   This time, there is no Homah.  No Athena.  Just your party and a powerful 
+Red Dragon!!  The Dragon's stats are as follows:
+
+                      ----------------------------------
+                      |             Dragon             |
+                      ----------------------------------
+                      | Lvl 1: 75% + 25 |  Dmg 70 + 5s |
+                      | Lvl 1:   Ev 60% |        DR 60 |
+                      | Lvl 1:    63 Mv |      HP 2500 |
+                      ----------------------------------
+
+   This battle will take you awhile.  Wear him down with everything you've
+got.  Use your strongest units, and also use your Appeals liberally!  If you
+manage to defeat the Red Dragon, you will be treated to another short movie.
+On to the third and final leg of your epic journey!
+
+
+==============================================================================
+20.   Lava World
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Obtain the ring.
+          ---------------------------------------------------------
+
+
+   Okay, here is the deal.  Poseidon is becoming quite desperate to defeat
+you, and he has cast your party into Hades!!  Your primary goal will be to
+escape the land of the dead.  But it will be neither easy nor quick.  Your 
+first task is to seek out the Ring of Ourbouros, that it might help your
+escape.
+
+   This scenario is primarily an open field filled with a slow and steady 
+stream of Skeletons.  There are usually only a few to deal with at any one 
+time, but more will always follow.  From Homah, head west.
+
+   As you travel west, either along the northern or southern edge of the map, 
+you will notice some pillars.  If you find one along the northern edge, there 
+will also be on south of it; think symmetry.  What you want to do is to 
+destroy these pillars (or arches, as the game calls them).  There are 4 in
+total.
+
+   Continue heading west.  When you reach the far western end of the map, you 
+will see the image of a skull on the floor.  If you have destroyed all the 
+pillars, you will see a ring at the mouth of the skull.  This is the Ring of 
+Ourbouros.
+
+   When you pick up the ring, lava will begin to spill out of the mouth of the 
+skull.  This lava is DEADLY - do not touch it!  As soon as you grab the ring, 
+IMMEDIATELY race back to Homah as quickly as possible.  The lava will continue 
+to follow.  Once you reach Homah, you will need to use the ring on her.  This 
+will activate the countdown timer.  Continue to avoid the lava until time is 
+up.  Phew!
+
+
+==============================================================================
+21.   Hades Realm
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Escape from the Underworld.
+          ---------------------------------------------------------
+
+
+   You will start this scenario in the southeast corner of the map.  Clio is
+also nearby.  It appears that Hades wants you to retrieve the Amber Amulet.
+The trouble is that it is around the neck of Cerberus, the three-headed dog!
+
+   Northwest of Clio is Eurymakhos.  Got Golden Apples?   Better buy some -
+just in case.
+
+   Head west from Homah.  You'll see a Cyclops on the other side of a bridge.
+DO NOT kill him!  You will see why soon enough.  Cross over the bridge.  Hades
+is there, and will basically restate what Clio has already told you.  Now
+backtrack and head north from Homah, crossing over the bridge.  Do not kill
+the Cyclops stationed here, either.
+
+   Head north for awhile, and you will meet Agammemon.  He tells you that the
+Cyclopses and the bridges are linked - killing the Cyclopses also destroys the
+bridges.
+
+   From Agammemon, head west until you reach the coast.  Then turn and follow
+the coast north until you reach a bridge.  Cross over it.  Now follow the
+coast north again.  It will curve to the northwest.  Cross over the bridge
+heading north.  Take the next bridge going west.
+
+   Now head straight to the west.  In the northwest corner of the map you will
+find Cerberus.  Its stats are as follows:
+
+                         ---------------------------
+                         |        Cerberus         |
+                         ---------------------------
+                         | Lvl 3:   110% |  Dmg 78 |
+                         | Lvl 3: Ev 78% |   DR 55 |
+                         | Lvl 3:  72 Mv | HP  780 |
+                         ---------------------------
+
+   When you kill it, you will find the Amber Amulet on its corpse.  Head east
+from here and cross over the bridge.  Now head south, crossing over that
+bridge as well.  Follow the coast to the west.  It will curve to the south.
+
+   When you reach a bridge heading west, cross over it.  Continue following
+the coast to the south.  You will reach another bridge; cross over this one as
+well.  Continue east, crossing over another bridge.  Now walk on over to Hades
+and use the Amulet on him.  This will end the scenario.
+
+
+==============================================================================
+22.    Hammer and Forge
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Defeat Atephemus (Hesterus).
+            2.) Keep the enemies away from the Forge.
+            3.) Use the Hammer on the Forge.
+          ---------------------------------------------------------
+
+
+   You will start this scenario in the lower southwest corner of the map.  
+Some Cyclopses will immediately attack you.  There is also a Forge nearby.  DO 
+NOT let the enemy reach the Forge, otherwise your game will end.  You should 
+consider leaving a portion of your forces behind in order to guard it.
+
+   Head northeast from Homah.  You will cross over a land bridge.  At the same
+time, you will also be attacked by Doppelgangers.  Oh, joy!
+
+   After crossing the land bridge, follow the coast to the southeast.  When
+you reach the bottom of the map, head east.  Just to the north of the 
+southeastern corner of the map is Hesterus, the insecure Cyclops.  There is 
+also some gold and Ambrosia nearby.  If you take either of these two treasures,
+Hesterus will attack you.  It is for the best, since you will get experience 
+for killing him, anyway.
+
+   From Hesterus, head north.  Upon reaching the riverside, you should turn 
+and head west.  Continue to follow the river as it curves to the north.  When 
+you cross a land bridge, follow the coast to the north to find a group of 
+Cyclopses.  When you kill all of them, you will find some treasure, including
+Hephaestus' Hammer.
+
+   If you want, you can walk east along the coast.  At the far eastern side of 
+the map, you will find an Icon of Power.  Now retrace your steps and cross
+over the land bridge near where you got the Hammer.
+
+   After crossing the land bridge, head west until you reach the western edge
+of the map.  Now follow the coast to the north and you will find an Icon of
+Restoration.
+
+   Now all that is left to do is to make your way back to Homah.  Then use the
+Hammer on the Forge.  The countdown timer will begin.  Excellent work!
+
+
+==============================================================================
+23.   River Styx
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Defeat the Harpy who is impersonating Homah.
+          ---------------------------------------------------------
+           NEW RECRUITABLE UNITS: Large Spider
+          ---------------------------------------------------------
+
+
+   You will start this scenario in the northeast corner of the map.  Head west
+and defeat the group of Spearmen.  Now follow the river south to the bridge.
+Next to the bridge is Urania.  She will warn you about the area, and
+particularly about the Fury Tisiphone.  Now cross over the bridge.
+
+   Continue south.  You will encounter the Neried, who will tell you more
+about the underworld.  Continue south and cross over either one of the two
+bridges that are there (they both lead to the same place).  Now head south
+until you are in the lower southwest corner of the map.  Do not break open the
+crate that is there - unless you LIKE fighting Skeletons.
+
+   Now head east, crossing over the bridge.  After crossing the bridge, you
+will have to make the choice of continuing east or heading north.  First, head
+to the east.  You will encounter Homah, but it is actually a Harpy impostor.
+Be ready to fight!  Now backtrack to the bridge and head north this time.
+
+   As you travel north, you will meet Hippias.  When you are done with him,
+continue going north.  Once again, you will find two bridges, and once again
+it does not matter which one you cross over.  After crossing over to the
+north, you can cross a bridge heading west onto a small island.  Here you can
+talk with Wussley.  Now backtrack to the dual bridges, this time following the
+coast to the east.
+
+   As the coast curves to the southeast, you will be attacked by Harpies,
+Skeletons, and Archers.  Be very careful, as they are all very strong!  After
+the battle, continue to the southeast until you reach the eastern edge of the
+screen.  You will encounter some Minotaurs now.  Destroy them and head north
+along the eastern edge of the screen.
+
+   You will come to a bridge heading east.  Take out the Minotaurs first, and
+do so quickly. Lurking on the other side of the bridge are some Level 5
+Archers.  They will have no problem hitting you from VERY long distance.  Once
+they are defeated, cross over the bridge and head north.
+
+   You will come to a small structure that is being guarded by Archers.
+Simply defeat the guards and enter the structure.  This will bring the
+scenario to a close!
+
+
+==============================================================================
+24.   Styx II
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Return Castor's sword.
+            2.) Get out alive.
+          ---------------------------------------------------------
+
+
+   You have almost escaped the clutches of Tartarus!  Only one more stage to 
+go.  From Homah, head east over the bridge.  Click on the fountain and you 
+will receive 2 Waters of Lethe.  Now return to Homah and head north.
+
+   As you travel north, you will encounter Hades and a troop of Skeletons.  DO 
+NOT attack the Skeletons.  Talk to Hades, and he will give you some advice.  
+Head northeast from Hades and you will meet up with Castor, who has lost his 
+sword.  Cross over the bridge that is next to Castor and head north.
+
+   You will reach a stronghold after crossing the bridge.  Enter the 
+stronghold.  You will be set upon by a variety of soldiers, as well as a 
+Harpy.  When you defeat the Harpy, it will drop some Mistletoe.  You will need 
+to collect 4 Boughs of Mistletoe in order to escape from Tartarus, so be on 
+the lookout.
+
+   Continue north, exiting the stronghold.  When you reach the northern edge 
+of the screen, turn and head east.  Defeat the Skeletons that attack you.  
+Next, break open the crates.  You will receive some gold, Ambrosia, another 
+Bough of Mistletoe, and the Heroes Brand (Castor's Sword).  Return to Castor 
+and use the sword on him in order to return it to him.  Next, retrace your 
+steps so that you are standing in front of the Stronghold.  From here, head 
+east - SLOWLY!
+
+   When you see the stream flowing north and south, STOP!  If you send any 
+unit over the stream - The River Lethe - they will lose their memory.  More 
+importantly, you will lose control of them.  You will also notice that there 
+is a statue along the right wall of the Stronghold.  Take one of your two 
+Waters of Lethe and use it on the statue.  You can now safely cross the river!  
+
+   Once on the other side of the river, you will find a fountain that yields 
+an Icon of Restoration.  Head east and you will encounter a Harpy, a Gorgon,
+and some Archers.  Kill them to receive a third Bough of Mistletoe.
+
+   Finally, head to the north, where you will encounter a group of Gorgons.
+Defeat them, then break open the nearby crate to obtain the last Bough of 
+Mistletoe.
+
+   Now head south and cross over the bridge.  Next to the bridge is a 
+fountain.  Clicking on it yields an Icon of Restoration.  Continue south and 
+cross over the next bridge.  To the south is Charon, the ferryman.  Use the
+Boughs of Mistletoe in Charon (you must use each individual Bough on him).  
+Once the fourth one is used, the countdown timer will begin.
+
+   Congratulations! You have escaped Tartarus.  Your journey is almost over!!
+
+
+==============================================================================
+25.   Trial III
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 300
+          ---------------------------------------------------------
+            1.) Defeat Nestor.
+          ---------------------------------------------------------
+
+
+   You did it!  You have escaped the Underworld, but you must now endure the 
+third of Poseidon's trials.  Just like the other two times you have visited 
+Calaphon, start by heading north.  When the path splits to the north and the 
+west, you can certainly expect an ambush.  This was one of the most difficult 
+battles when I played.  You can continue north after the ambush to read the 
+last of the Books of Poseidon.
+
+   After reading the Book, head west.  The path will open into an area full of 
+Harpies!  Dispatch the, then head northwest if you need a Panacea.  Otherwise 
+head southeast.
+
+   The path will head northwest.  Once again, Talos is guarding the path.  His 
+stats are the same as before.  This time, though, you should seriously 
+consider defeating him.
+
+   Defeat Talos and take the narrow path between the buildings.  This will 
+once again lead you to the blue-roofed temple.  You can take the traditional 
+detour east and then south in order to pick up a couple of last-minute items.  
+Otherwise, head south from the temple to face a HUGE group of Swordsmen,
+Spearmen, and deadly Archers.  Good luck defeating them.
+
+   Well, now that you have bested all three of Poseidon's trials, you have 
+successfully defeated the god of storms, right?  Almost.  Poseidon has *one* 
+more trick up his sleeve...
+
+
+                   ***************************************
+                               Book of Poseidon
+                   ***************************************
+
+Page 1                               Page 2
+------                               ------
+ "The final battle draws near.        "These mortals would traverse my seas
+ Well, I confess that I have          without paying homage to me.  I shall
+ actually come to admire the          become the laughingstock of Olympus.
+ mortal's courage and fortitude.      And my wretched niece!  She will goad me
+ But well no mortal can beat a        for the rest of time.  O, her arrogance
+ god. This cannot be allowed.         would become unbearable!"
+ For if I am defeated, what is to
+ prevent Mankind from defeating us
+ all?  Well, what?"
+
+
+Page 3                               Page 4
+------                               ------
+ "But this shall not happen. No       "Why do I doubt myself?  There is no
+ mortal can beat the mighty           need for fear.  I shall triumph. I must.
+ Poseidon.  I hope."                  For if I were to lose... NO! No, no, no,
+                                      I cannot!  The humiliation, the 
+                                      misery...it would be too much to bear."
+
+
+Page 5
+------
+ "Come, rains!  Come floods, 
+ storms, hurricanes!  My children, 
+ my wrathful, tempestous children!
+ Rise now and do my biding!  Wrack 
+ and ruin shall cover the earth 
+ and together we shall do what 
+ must be done!"
+
+
+
+==============================================================================
+26.   The Dragon's Revenge
+==============================================================================
+
+
+          ---------------------------------------------------------
+           OBJECTIVES:                              Total Exp: 150
+          ---------------------------------------------------------
+            1.) Defeat the Dragon.
+          ---------------------------------------------------------
+
+
+   You must once again face the Dragon.  He has returned, and he is more 
+powerful than ever!  He will also fully utilize his fire breath attack which 
+is very, VERY powerful!  His new stats are as follows:
+
+                      -----------------------------------
+                      |             Dragon              |
+                      -----------------------------------
+                      | Lvl 4: 108% + 25 | Dmg 101 + 5s |
+                      | Lvl 1:    Ev 60% |        DR 60 |
+                      | Lvl 2:     63 Mv |      HP 2750 |
+                      -----------------------------------
+
+   Hopefully you have amassed a large supply of Ambrosia throughout the course 
+of the game.  I would recommend three for each hero.  If you manage to defeat 
+the Dragon this time, the countdown timer will begin, while Poseidon rages in 
+the background.
+
+
+   Congratulations!!  You have finished Invictus: In the Shadow of Olympus.
+
+
+
+
+==============================================================================
+                               Unit Statistics
+==============================================================================
+
+
+   Below I have created a long chart which contains the statistics for all the 
+units in the game.  This chart will cover their statistics from level 1 
+through level 4.  You will be able to see the final result of investing 
+precious time and gold into a unit type without going through all the trouble.
+The chart is in alphabetical order by the unit's name.  I hope this chart 
+helps!
+
+
+                               Unit Statistics
+                               ===============
+
+                    --------------------------------------
+                    |               Amazon               |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  55 |  45 | 30 | 30 |  180 |
+                    --------------------------------------
+                    | Lvl 2 |  60 |  49 | 33 | 31 |  198 |
+                    --------------------------------------
+                    | Lvl 3 |  71 |  58 | 39 | 34 |  234 |
+                    --------------------------------------
+                    | Lvl 4 |  79 |  65 | 43 | 37 |  261 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |               Archer               |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  65 |  45 | 20 | 20 |  150 |
+                    --------------------------------------
+                    | Lvl 2 |  71 |  49 | 22 | 21 |  165 |
+                    --------------------------------------
+                    | Lvl 3 |  84 |  58 | 26 | 23 |  195 |
+                    --------------------------------------
+                    | Lvl 4 |  94 |  65 | 29 | 25 |  217 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |               Axeman               |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  55 |  49 | 20 | 35 |  225 |
+                    --------------------------------------
+                    | Lvl 2 |  60 |  53 | 22 | 36 |  247 |
+                    --------------------------------------
+                    | Lvl 3 |  71 |  63 | 26 | 40 |  292 |
+                    --------------------------------------
+                    | Lvl 4 |  79 |  71 | 29 | 43 |  326 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |             Black Bear             |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  60 |  42 | 20 | 30 |  180 |
+                    --------------------------------------
+                    | Lvl 2 |  66 |  46 | 22 | 31 |  198 |
+                    --------------------------------------
+                    | Lvl 3 |  78 |  54 | 26 | 34 |  234 |
+                    --------------------------------------
+                    | Lvl 4 |  87 |  60 | 29 | 37 |  261 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |             Brown Bear             |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  60 |  56 | 20 | 40 |  240 |
+                    --------------------------------------
+                    | Lvl 2 |  66 |  61 | 22 | 42 |  264 |
+                    --------------------------------------
+                    | Lvl 3 |  78 |  72 | 26 | 46 |  312 |
+                    --------------------------------------
+                    | Lvl 4 |  87 |  81 | 29 | 50 |  348 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |              Cavalry               |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  60 |  49 | 40 | 40 |  240 |
+                    --------------------------------------
+                    | Lvl 2 |  66 |  53 | 44 | 42 |  264 |
+                    --------------------------------------
+                    | Lvl 3 |  78 |  63 | 52 | 46 |  312 |
+                    --------------------------------------
+                    | Lvl 4 |  87 |  71 | 58 | 50 |  348 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |              Centaur               |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  55 |  45 | 30 | 20 |  240 |
+                    --------------------------------------
+                    | Lvl 2 |  60 |  49 | 33 | 21 |  264 |
+                    --------------------------------------
+                    | Lvl 3 |  71 |  58 | 39 | 23 |  312 |
+                    --------------------------------------
+                    | Lvl 4 |  79 |  65 | 43 | 25 |  348 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |              Cyclops               |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  70 |  42 | 30 | 40 |  480 |
+                    --------------------------------------
+                    | Lvl 2 |  77 |  46 | 33 | 42 |  528 |
+                    --------------------------------------
+                    | Lvl 3 |  91 |  54 | 39 | 46 |  624 |
+                    --------------------------------------
+                    | Lvl 4 | 101 |  60 | 43 | 50 |  696 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |            Doppelganger            |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  70 |  42 | 30 | 40 |  480 |
+                    --------------------------------------
+                    | Lvl 2 |  77 |  46 | 33 | 42 |  528 |
+                    --------------------------------------
+                    | Lvl 3 |  91 |  54 | 39 | 46 |  624 |
+                    --------------------------------------
+                    | Lvl 4 | 101 |  60 | 43 | 50 |  696 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |               Eagle                |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  60 |  35 | 45 | 20 |  120 |
+                    --------------------------------------
+                    | Lvl 2 |  66 |  38 | 49 | 21 |  132 |
+                    --------------------------------------
+                    | Lvl 3 |  78 |  45 | 58 | 23 |  156 |
+                    --------------------------------------
+                    | Lvl 4 |  87 |  50 | 65 | 25 |  174 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |             Elemental              |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  50 |  49 | 20 | 45 |  600 |
+                    --------------------------------------
+                    | Lvl 2 |  55 |  53 | 22 | 47 |  660 |
+                    --------------------------------------
+                    | Lvl 3 |  65 |  63 | 26 | 51 |  780 |
+                    --------------------------------------
+                    | Lvl 4 |  72 |  71 | 29 | 56 |  870 |
+                    --------------------------------------
+
+
+               ------------------------------------------------
+               |                    Gorgon                    |
+               ------------------------------------------------
+               | Level |    Atk     |  Dmg   | Ev | DR |  HP  |
+               ------------------------------------------------
+               | Lvl 1 |  70 + 100  | 0 + 0s | 30 | 30 |  360 |
+               ------------------------------------------------
+               | Lvl 2 |  77 + 100  | 0 + 0s | 33 | 31 |  396 |
+               ------------------------------------------------
+               | Lvl 3 |  91 + 100  | 0 + 0s | 39 | 34 |  468 |
+               ------------------------------------------------
+               | Lvl 4 | 101 + 100  | 0 + 0s | 43 | 37 |  522 |
+               ------------------------------------------------
+
+
+               ------------------------------------------------
+               |                    Harpy                     |
+               ------------------------------------------------
+               | Level |    Atk    |   Dmg   | Ev | DR |  HP  |
+               ------------------------------------------------
+               | Lvl 1 |  70 + 50  | 38 + 1s | 40 | 20 |  240 |
+               ------------------------------------------------
+               | Lvl 2 |  77 + 50  | 41 + 1s | 44 | 21 |  264 |
+               ------------------------------------------------
+               | Lvl 3 |  91 + 50  | 49 + 1s | 52 | 23 |  312 |
+               ------------------------------------------------
+               | Lvl 4 | 101 + 50  | 55 + 1s | 58 | 25 |  348 |
+               ------------------------------------------------
+
+
+                    --------------------------------------
+                    |                Hun                 |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  60 |  45 | 40 | 30 |  240 |
+                    --------------------------------------
+                    | Lvl 2 |  66 |  49 | 44 | 31 |  264 |
+                    --------------------------------------
+                    | Lvl 3 |  78 |  58 | 52 | 34 |  312 |
+                    --------------------------------------
+                    | Lvl 4 |  87 |  65 | 58 | 37 |  348 |
+                    --------------------------------------
+
+
+                ----------------------------------------------
+                |                Large Spider                |
+                ----------------------------------------------
+                | Level |   Atk   |   Dmg   | Ev | DR |  HP  |
+                ----------------------------------------------
+                | Lvl 1 | 60 + 65 | 42 + 2s | 40 | 20 |  300 |
+                ----------------------------------------------
+                | Lvl 2 | 66 + 65 | 46 + 2s | 44 | 21 |  330 |
+                ----------------------------------------------
+                | Lvl 3 | 78 + 65 | 54 + 2s | 52 | 23 |  390 |
+                ----------------------------------------------
+                | Lvl 4 | 87 + 65 | 60 + 2s | 58 | 25 |  435 |
+                ----------------------------------------------
+
+
+                    --------------------------------------
+                    |              Minotaur              |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  70 |  49 | 30 | 40 |  480 |
+                    --------------------------------------
+                    | Lvl 2 |  77 |  53 | 33 | 42 |  528 |
+                    --------------------------------------
+                    | Lvl 3 |  91 |  63 | 39 | 46 |  624 |
+                    --------------------------------------
+                    | Lvl 4 | 101 |  71 | 43 | 50 |  696 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |             Sabertooth             |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  60 |  49 | 30 | 30 |  180 |
+                    --------------------------------------
+                    | Lvl 2 |  66 |  53 | 33 | 31 |  198 |
+                    --------------------------------------
+                    | Lvl 3 |  78 |  63 | 39 | 34 |  234 |
+                    --------------------------------------
+                    | Lvl 4 |  87 |  71 | 43 | 37 |  261 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |              Skeleton              |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  70 |  38 | 40 | 30 |  240 |
+                    --------------------------------------
+                    | Lvl 2 |  77 |  41 | 44 | 31 |  264 |
+                    --------------------------------------
+                    | Lvl 3 |  91 |  49 | 52 | 34 |  312 |
+                    --------------------------------------
+                    | Lvl 4 | 101 |  55 | 58 | 37 |  348 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |              Spearman              |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  60 |  45 | 30 | 30 |  198 |
+                    --------------------------------------
+                    | Lvl 2 |  66 |  49 | 33 | 31 |  217 |
+                    --------------------------------------
+                    | Lvl 3 |  78 |  58 | 39 | 34 |  257 |
+                    --------------------------------------
+                    | Lvl 4 |  87 |  65 | 43 | 37 |  287 |
+                    --------------------------------------
+
+
+                    --------------------------------------
+                    |             Swordsman              |
+                    --------------------------------------
+                    | Level | Atk | Dmg | Ev | DR |  HP  |
+                    --------------------------------------
+                    | Lvl 1 |  70 |  38 | 40 | 20 |  180 |
+                    --------------------------------------
+                    | Lvl 2 |  77 |  45 | 44 | 21 |  198 |
+                    --------------------------------------
+                    | Lvl 3 |  91 |  49 | 52 | 23 |  234 |
+                    --------------------------------------
+                    | Lvl 4 | 101 |  55 | 58 | 25 |  261 |
+                    --------------------------------------
+
+
+==============================================================================
+                               Hero Statistics
+==============================================================================
+
+
+   I have listed here the statistics for the Heroes in the game, according to 
+experience level.  I currently only have statistics for Electra and Cadmus,
+and they only go up through Level 11.  If anyone has the statistics for other 
+Heroes, and would like to send them in to me, you will be given full credit 
+within this document.  I currently need the following:
+
+
+   Hero:               Still Needed:
+   -----------         ---------------------------
+    Achilles             Any Stats
+    Arachne              Any Stats
+    Atalanta             Any Stats
+    Cadmus               Stats for Levels 12 - 20
+    Electra              Stats for Levels 12 - 20
+    Hercules             Any Stats
+    Hippolyta            Any Stats
+    Icarus               Any Stats
+    Orion                Any Stats
+    Perseus              Any Stats
+
+
+   I have included below the Experience Point chart for the Heroes.  This
+chart comes directly from the game manual.
+
+
+                              Experience Points
+                              =================
+
+                Level 1:        0          Level 11:    2,750
+                Level 2:       50          Level 12:    3,300
+                Level 3:      150          Level 13:    3,900
+                Level 4:      300          Level 14:    4,550
+                Level 5:      500          Level 15:    5,250
+                Level 6:      750          Level 16:    6,500
+                Level 7:    1,050          Level 17:    7,300
+                Level 8:    1,400          Level 18:    8,150
+                Level 9:    1,800          Level 19:    9,050
+                Level 10:   2,250          Level 20:   10,000
+
+
+
+                               Hero Statistics
+                               ===============
+
+                    ---------------------------------------
+                    |               Cadmus                |
+                    ---------------------------------------
+                    | Level  | Atk | Dmg | Ev | DR |  HP  |
+                    ---------------------------------------
+                    | Lvl 01 |  70 |  56 | 30 | 30 |  600 |
+                    ---------------------------------------
+                    | Lvl 02 |  73 |  58 | 31 | 30 |  630 |
+                    ---------------------------------------
+                    | Lvl 03 |  77 |  61 | 33 | 31 |  660 |
+                    ---------------------------------------
+                    | Lvl 04 |  80 |  64 | 34 | 31 |  690 |
+                    ---------------------------------------
+                    | Lvl 05 |  84 |  67 | 36 | 33 |  720 |
+                    ---------------------------------------
+                    | Lvl 06 |  87 |  70 | 38 | 33 |  750 |
+                    ---------------------------------------
+                    | Lvl 07 |  91 |  72 | 39 | 34 |  780 |
+                    ---------------------------------------
+                    | Lvl 08 |  94 |  75 | 40 | 34 |  810 |
+                    ---------------------------------------
+                    | Lvl 09 |  98 |  78 | 41 | 36 |  924 |
+                    ---------------------------------------
+                    | Lvl 10 | 101 |  81 | 41 | 36 |  957 |
+                    ---------------------------------------
+                    | Lvl 11 | 105 |  84 | 45 | 37 | 1000 |
+                    ---------------------------------------
+
+
+                ----------------------------------------------
+                |                  Electra                   |
+                ----------------------------------------------
+                | Level  |   Atk   |  Dmg   | Ev | DR |  HP  |
+                ----------------------------------------------
+                | Lvl 01 |  70 + 0 | 45 +0s | 30 | 30 |  450 |
+                ----------------------------------------------
+                | Lvl 02 |  73 + 0 | 47 +0s | 31 | 30 |  472 |
+                ----------------------------------------------
+                | Lvl 03 |  77 + 0 | 49 +0s | 33 | 31 |  495 |
+                ----------------------------------------------
+                | Lvl 04 |  80 + 0 | 51 +0s | 34 | 31 |  512 |
+                ----------------------------------------------
+                | Lvl 05 |  84 + 0 | 54 +0s | 36 | 33 |  540 |
+                ----------------------------------------------
+                | Lvl 06 |  87 + 0 | 56 +0s | 38 | 33 |  562 |
+                ----------------------------------------------
+                | Lvl 07 |  91 + 0 | 58 +0s | 39 | 34 |  585 |
+                ----------------------------------------------
+                | Lvl 08 |  94 + 0 | 60 +0s | 40 | 34 |  607 |
+                ----------------------------------------------
+                | Lvl 09 |  98 + 0 | 63 +0s | 41 | 36 |  630 |
+                ----------------------------------------------
+                | Lvl 10 | 101 + 0 | 65 +0s | 41 | 36 |  652 |
+                ----------------------------------------------
+                | Lvl 11 | 105 + 0 | 67 +0s | 45 | 37 |  675 |
+                ----------------------------------------------
+
+
+
+==============================================================================
+                                 Thanks To...
+==============================================================================
+
+
+   First, I would like to thank Interplay for making a solid and enjoyable
+game.  While it has been overlooked by many, it is nevertheless a good game
+with a unique storyline and characters.
+
+   Second, thanks to CJayC at gamefaqs.com  for posting my FAQ's.  Yours is a
+truly excellent website, CJayC, and I am grateful that you continue to accept
+my work.
+
+   Thanks to the Figlet Server at  http://www.surfplaza.com/figlet/  for
+providing their free online Text to ASCII converter.
+
+   Finally, I want to thank anyone who downloads and uses this FAQ.  If even
+one person uses it, then it was worth the effort of writing.  There is next to
+nothing on the Internet when it comes to hints and walkthroughs for this
+particular game.  Also, a thank you in advance for anyone who e-mails me with 
+suggestions, questions, or information that I missed.
+
+   Happy gaming!
+
+
+
+==============================================================================
+                                 Cheat Codes
+==============================================================================
+
+   I currently have no cheat codes for the game Icewind Dale: Heart of Winter,
+or Trials of the Luremaster.  If you have cheat codes that you would like to
+share, e-mail them to me.  I will put them in this section, and you will be
+fully credited for having provided them.
+
+
+
+
+
+==============================================================================
+                                 Other Works
+==============================================================================
+
+   This is a list of FAQ's written by me.  The latest versions of all of
+these FAQ's can be found at:
+
+              http://gamefaqs.com/features/recognition/8633.html
+
+   Unless otherwise noted, other sites might also carry this FAQ, but I will
+always send new updates to gamefaqs.com first.
+
+
+         O----------------------------------------------------------O
+         |                      Works to Date                       |
+         O----------------------------------------------------------O
+         |                                                          |
+         |  Icewind Dale - Store Items                              |
+         |                                                          |
+         |  Icewind Dale: Heart of Winter - Store Items             |
+         |  Icewind Dale: Heart of Winter - Walkthrough             |
+         |                                                          |
+         |  Icewind Dale: Trials of the Luremaster - Walkthrough    |
+         |               (included in Heart of Winter Walkthrough)  |
+         |                                                          |
+         |  Invictus: In the Shadow of Olympus - Walkthrough        |
+         |                                                          |
+         |  Revenant - Walkthrough                                  |
+         |                                                          |
+         | *Sea Dogs - Walkthrough                                  |
+         |                                                          |
+         O----------------------------------------------------------O
+
+           * Available ONLY at - http://www.gamefaqs.com
+
+
+
+==============================================================================
+                               Version Updates
+==============================================================================
+
+Version 1.2                  Corrected several grammar and spelling errors.
+July 10, 2001                Added a section for Cheat Codes. (but no codes as
+135k                         of yet...)  Updated Other Works section.
+
+Version 1.1                  Updated the Other Works section.  Corrected some
+July 2, 2001                 minor grammatical and spelling errors.
+134k
+
+Version 1.0                  This FAQ is first published.  Created complete
+June 4, 2001                 walkthrough for Invictus: In the Shadow of
+133k                         Olympus.  Changed the Other Works section to
+                             take up less space and be easier to read.
+
+
+==============================================================================
+                              Legal Information
+==============================================================================
+
+I am in no way, shape, or form affiliated with Interplay Productions.  I had
+nothing to do with the creation of this game, nor did I have anything to do
+with the people who made it.
+
+This FAQ may be posted on any site provided an email is sent to me FIRST
+stating where the FAQ is to be posted, and an existing URL is provided within
+the same email.  NOTHING MAY BE CHANGED WITHIN THIS DOCUMENT.  This document
+may not be translated into any other language or dialect.  Nothing may be
+added, removed, or rearranged in any way, shape or form and then republished.
+This FAQ MUST remain in its original form. (invictus.txt)  The author of this
+FAQ reserves the right to recall this FAQ from any site, at any time, and for
+any reason as he sees fit.  This document may NOT be sold for profit, nor may
+it be included in any package or promotion receiving a profit.  By possessing
+this document, you accept all the terms and conditions which accompany it,
+both expressed and implied.  Violation of the United States Copyright Laws is
+a crime.  Plagiarism is also a crime.
+
+This document is Copyright 2001 by Michael Walsh.
+Invictus Copyright 2000 Interplay Productions.
+
+==============================================================================

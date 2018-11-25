@@ -1,0 +1,524 @@
+
+  _    _                 _            __  __          ___       _
+ | |  | |               | |          / _| \ \        / (_)     | |
+ | |__| | ___  __ _ _ __| |_    ___ | |_   \ \  /\  / / _ _ __ | |_ ___ _ __
+ |  __  |/ _ \/ _` | '__| __|  / _ \|  _|   \ \/  \/ / | | '_ \| __/ _ \ '__|
+ | |  | |  __/ (_| | |  | |_  | (_) | |      \  /\  /  | | | | | ||  __/ |
+ |_|  |_|\___|\__,_|_|   \__|  \___/|_|       \/  \/   |_|_| |_|\__\___|_|
+                  ___ _                 ___ _
+                 / __| |_ ___ _ _ ___  |_ _| |_ ___ _ __  ___
+                 \__ \  _/ _ \ '_/ -_)  | ||  _/ -_) '  \(_-<
+                 |___/\__\___/_| \___| |___|\__\___|_|_|_/__/
+
+
+			       by Michael Walsh
+                                   Ver 1.4
+                                July 11, 2001
+
+                            Questions?  Additions?
+                       E-mail me at: cumw7@pen.eiu.edu
+                  Put "Heart of Winter" in the Subject Line
+
+
+
+                        -------------------------------
+                              TABLE OF CONTENTS:
+                        -------------------------------
+                          i. Why a Store Inventory?
+                         ii. Thanks To...
+                        -------------------------------
+                               HEART OF WINTER
+                        -------------------------------
+                           1. Kieran Nye
+                           2. Quinn Silverfinger
+                           3. Emmerich's Armory
+                           4. Edion Caradoc's Tower
+                           5. Tiernon's Forge
+                        -------------------------------
+                           TRIALS OF THE LUREMASTER
+                        -------------------------------
+                           6. Hobart's Trove
+                           7. Rikasha's Services
+                        -------------------------------
+                          x. Other Works
+                          y. Previous Updates List
+                          z. Legal Information
+                        -------------------------------
+
+
+==============================================================================
+                          Why a Store Inventory FAQ?
+==============================================================================
+
+
+     O-----------------------------------------------------------------O
+     | NOTE: Shops in the Trials of the Luremaster downloadable add-on |
+     |       are included in this document.  See Table of Contents.    |
+     O-----------------------------------------------------------------O
+
+
+   The answer to this can be traced to a personal frustration.  It is one that
+many gamers probably share with me, or have shared with me at one time.  Here
+it is:  You have been playing Game X for 7 hours straight.  You are getting
+tired.  Your mind is not as sharp as it was 3 hours ago.  You are trying
+desperately to remember where you had seen that Flaming Long Sword +12 before.
+Then you remember - it was in one of those stores I passed in the last 4
+hours.  So you head toward what you *think* is the right town.  You send your
+party to the counter, peruse the store's inventory, and realize that you spent
+20 minutes going to the wrong store.
+
+   If this has never happened to you in a Baldur's Gate/Icewind Dale game, you
+must be a wonder gamer.  If that is you, thank you for needlessly downloading
+this FAQ.  It makes me feel better.
+
+   Now for those who, like me, never seem to be able to keep store inventories
+straight.  Below I have compiled the items that are carried by all the
+merchants in Icewind Dale: Heart of Winter expansion pack.  This FAQ _ONLY_
+contains the shop lists for the expansion pack.  For the shop lists of the
+main game, see my Icewind Dale Store Items FAQ, also available at gamefaqs.com
+In addition to the items, I have listed their price and, on occasion, a bit of
+other information about them.
+
+     NOTE:  The prices of items in the shops of Icewind Dale: Heart of Winter
+            are at least partially dependent on the Charisma score of the
+	    FIRST character in your party.  So your prices may vary to some
+            extent from mine, but not greatly.  When I recorded these prices,
+            I was using a character with a Charisma of 18.  Leaders with less
+            Charisma may find higher prices, while the reverse is true for
+	    characters with Charisma scores above 18.
+
+   Now for the other question which you may be asking.  Why didn't I just
+attach these Shop Item charts to the end of the larger FAQ that I wrote for
+Icewind Dale: Heart of Winter?  Again, it stems from a personal frustration,
+or preference, if you will.  Here are four good reasons:
+
+   1. I hate scrolling through endless pages of a FAQ in order to get to the
+      Shop List at the end...or near the end...or somewhere.
+   2. I also dislike downloading huge FAQ's.  I like having all the
+      information, but there are some FAQ's that weigh in at over 600k!  Now,
+      many people won't find this a problem, but let's say that you live in
+      the middle of nowhere (like I do) and the fastest connection you can get
+      to the Internet is 33.6...see where I am going with this?
+   3. I like options!  I like being able to download my Shop Items FAQ,
+      without a side of Walkthrough.
+   4. Which is more printer-friendly:  This FAQ, or the 600k file I mentioned
+      earlier?
+
+   If people ask for it and/or wish to contribute to this list, I might be
+willing to expand the information on here to include partial/full item
+descriptions, and/or Shopping Strategy, if indeed such a thing exists.
+
+Or I might do the above if I get bored...
+
+
+
+==============================================================================
+                                 Thanks To...
+==============================================================================
+
+
+   Thanks to CJayC at gamefaqs.com  for posting my FAQs.  Yours is a
+truly excellent website, CJayC, and I am grateful that you continue to accept
+my work.
+
+   Also thanks to the Figlet Server at  http://www.surfplaza.com/figlet/  for
+providing their free online Text to ASCII converter, which I used to create
+the Title image.
+
+   Finally, I want to thank the people who post on the FAQ Contributors
+Message Forum - you have kept me well entertained, as well as having provided
+me with much needed breaks from FAQ writing.
+
+   And now, without further ado...the shopping lists!!!
+
+
+
+==============================================================================
+                               Shop Inventories
+==============================================================================
+
+   There are a total of five merchants (seven with Trials of the Luremaster)
+with whom you can buy and sell items, weapons, spells, etc.  I will list the
+name of the merchant, the location of the merchant, (using coordinates, which
+you can find by pressing  x  during a game) all of the items that they carry,
+the price listed (based on my party leader with 18 Charisma) and any other
+relevant information about the item in question. (mainly weapon mastery types)
+
+
+
+==============================================================================
+1.   Kieran Nye - The Whistling Gallows Inn:  (x 2260 y 1187  AR 9101)
+==============================================================================
+
+Weapons                                  Type            Potion
+-------------------------------------    -------         -------------------
+Dagger of Safe Harbor          13,200    Dagger          Thrym Extract   715
+Jamison's Sling                19,580    Missile
+Zilzander's Magic Dart (x10)    5,500    Ammo
+Xainlaphar's Flying Skull       1,650    Ammo            Other
+                                                         -------------------
+                                                         Gem Bag           5
+                                                         Scroll Case      11
+                                                         Potion Box       11
+
+
+                                   Scrolls
+                                  ---------
+Magic Missile       110   Lower Resistance      550   Lightning Bolt     990
+Chromatic Orb       110   Cloudkill             550   Shout             1320
+Blur                220   Contact Other         550   Confusion         1320
+Melf's Acid Arrow   220   Plane                       Minor Globe of
+Stinking Cloud      220   Lance of Disruption   660   Invulnerability   1320
+Web                 220   Trollish Fortitude    660   Abi-Dalzim's
+Haste               990   Seven Eyes            770   Horrid Wilting    2640
+                          Protection From       990
+                          Normal Missiles
+
+
+
+==============================================================================
+2.   Quinn Silverfinger - Shrine of Waukeen  (x 2302 y 1883  AR 9103)
+==============================================================================
+
+Weapons                        Type             Potion
+---------------------------    --------         ---------------------------
+Amaunator's Legacy   40,640    G. Sword         Oil of Second Chances  3492
+H.Q. 2H Long Sword      317    G. Sword
+H.Q. Long Sword          98    L. Sword
+H.Q. Short Sword         63    S. Sword         Jewelry
+H.Q. Dagger              12    Dagger           ---------------------------
+H.Q. Battle Axe          31    Axe              Ring of Prot. +1       3810
+Flail of Mae         36,068    Flail            Ring of Prot. +2      11430
+Inconsequence        31,750    Hammer
+H.Q. War Hammer          12    Hammer
+H.Q. Mace                50    Mace             Other
+H.Q. Halberd             63    Halberd          ---------------------------
+Kinetic Spear        15,303    Spear            Stone to Flesh Scroll  3810
+Force Bullet (x5)     5,080    Ammo             Gem Bag                   6
+                                                Scroll Case              12
+                                                Potion Box               12
+
+
+Armor                                  Type
+-----------------------------------    --------
+Leather Armor +2              4,445    Armor
+Studded Leather +1            1,905    Armor
+Chainmail +2                  6,350    Armor
+Plate Mail +1                 6,350    Armor
+Bracers of Defense (AC 6)     5,080    Gauntlet
+Waukeen's Defender           27,940    Shield
+
+
+
+                               Temple Services
+                              -----------------
+Cure Light Wounds       250   Heal                2000   Raise Dead     varies
+Cure Moderate Wounds    500   Cure Disease         750   Resurrection   varies
+Cure Serious Wounds     750   Neutralize Poison    750
+Cure Critical Wounds   1000   Remove Curse        1500   Identify          100
+
+
+
+==============================================================================
+3.   Emmerich Hawk's - Bowyer's Cabin  (x 2975 y 2273  AR 9104)
+==============================================================================
+
+Weapons                         Type
+----------------------------    --------
+Composite L. Bow +1    2,550    Bow
+Long Bow +1            1,632    Bow
+Storm Bow             27,871    Bow
+Arrow                      1    Ammo
+Arrow +1                 408    Ammo
+Arrow +2                 734    Ammo
+Arrow of Biting          510    Ammo
+Arrow of Piercing        510    Ammo
+Goblin Arrows           1785    Ammo
+Heavy Crossbow            51    Crossbow
+Light Crossbow            35    Crossbow
+Bolt                       1    Ammo
+Bolt +1                  408    Ammo
+Bolt +2                  612    Ammo
+Bolt of Biting           765    Ammo
+Sling                      1    Missile
+Bullet                     1    Ammo
+Bullet +1                163    Ammo
+Bullet +2                306    Ammo
+Dart                       1    Ammo
+Dart +1                  163    Ammo
+Dart of Wounding         510    Ammo
+Two-Handed Sword          51    G. Sword
+Bastard Sword             25    G. Sword
+Long Sword                15    L. Sword
+Short Sword               10    S. Sword
+Dagger                     2    Dagger
+Throwing Dagger            1    Dagger
+Battle Axe                 5    Axe
+Halberd                   10    Halberd
+Spear                      1    Spear
+Mace                       8    Mace
+Morning Star              10    M. Star
+Flail                     15    Flail
+War Hammer                 2    Hammer
+
+
+
+==============================================================================
+4.   Edion Caradoc Tower - Burial Isle Tower:  (x 565 y 2326  AR 9301)
+==============================================================================
+
+Weapons                                Type
+-----------------------------------    --------
+Long Sword +4: Cynicism      38,775    L. Sword
+
+
+Armor                                  Type
+-----------------------------------    --------
+The Shield of the Revenant   19,800    Shield
+Cyclocone                    11,440    Helmet
+
+
+Accessories
+---------------------------------
+Bracers of Blasting        19,800
+Edion's Ring of Wizardry   38,500
+Ulcaster Academy Ring      27,500
+Girdle of Ogre Blood       22,500
+
+
+                                   Scrolls
+                                  ---------
+Armor                  110   Slow                  330   Suffocate       2,310
+Cat's Grace            220   Vitriolic Sphere    1,760   Great Shout     2,640
+Invisibility           220   Dimension Door      1,320   Iron Body         880
+Mirror Image           220   Cone of Cold          550   Power Word:
+Strength               220   Sunfire             1,650   Blind           2,970
+Icelance               990   Darts of Bone         660   Power Word:
+Fireball               990   Soul Eater          1,980   Kill            2,970
+Agannazar's Scorcher   220   Mordenkainen's              Monster
+                             Force Missiles        440   Summoning VII   2,970
+
+
+
+==============================================================================
+5.   Tiernon's Forge - Gloomfrost Mountain Cave:  (x 3290 y 600  AR 9501)
+==============================================================================
+
+Weapons                                  Type        Accessories
+----------------------------             --------    -------------------------
+2H Axe of Greater Phasing +2    6,350    Axe         Cloak of Prot. +2  11,430
+Flawless 2H Axe                   508    Axe         Boots of the North  1,143
+Battle Axe +2: Defender         3,175    Axe
+Battle Axe +1                   1,905    Axe
+Flawless Battle Axe               444    Axe         Potions
+H.Q. Battle Axe                    31    Axe         -------------------------
+Throwing Axe +2                 3,175    Axe         Thrym Extract         825
+War Hammer of Phasing +3       11,747    Hammer      Flaming Oil           381
+War Hammer +2                   3,810    Hammer      Oil of Fiery Burning  635
+H.Q. War Hammer                    12    Hammer      Pot. of Fiery Breath  317
+Long Sword +2                   5,397    L. Sword    Mummy's Tea           698
+Finest Long Sword                 254    L. Sword    Elixir of Health      317
+H.Q. Long Sword                    95    L. Sword    Potion of Cold Res.   317
+Scimitar +3: Frostbrand         9,588    Scimitar    Pot. of Extra Healing 381
+Short Sword +2                  5,080    S. Sword    Potion of Healing      95
+Dagger +2                       2,540    Dagger      Antidote              127
+Arrow +2                          914    Ammo        Potion of Frost
+Holdfast Arrow                  1,524    Ammo        Giant Strength        952
+Arrow of Ice                    1,524    Ammo
+Bullet +2                         762    Ammo
+Bolt +2                           762    Ammo        Jewelry
+                                                     -------------------------
+                                                     Ring of Lesser Res.   635
+Armor                                    Type        Gold Ring              50
+-------------------------------------    -------     Flamedance Ring       158
+Winter King's Plate            15,633    Armor       Silver Necklace        12
+Full Plate Mail +1             21,570    Armor       Pearl Necklace      1,270
+Plate Mail +1                   6,350    Armor
+Chainmail +2                    6,350    Armor
+Studded Leather +2              5,715    Armor       Gems
+Traveler's Robe                   762    Armor       -------------------------
+Magic Robe of Cold Resistance     381    Armor       Diamond             1,270
+L. Shield +1                    2,540    Shield      Moonbar Gem           476
+M. Shield +1                    1,905    Shield      Moonstone Gem          63
+S. Shield +1                    1,270    Shield      Skydrop Gem            50
+Helmet                              6    Helmet
+
+
+Other
+----------------------------------------------
+Protection from Cold              952   Scroll
+Winter Wolf Pelt                  635
+Yeti Pelt                         127
+Gem Bag                             6
+Scroll Case                        12
+Potion Box                         12
+
+
+
+    * * * The following lists are ONLY for Trials of the Luremaster * * *
+
+
+==============================================================================
+6.   Hobart's Trove - Castle Maluradek  (AR 9715)
+==============================================================================
+
+Weapons                         Type         Accessories
+----------------------------    --------     -------------------------------
+Arrow                      1    Ammo         Golden Girdle             1,530
+Arrow +1                 408    Ammo         Gauntlets of Ogre Power   9,180
+Arrow +2                 734    Ammo         Cloak of Protection +2    9,180
+Arrow of Fire            255    Ammo         Bracers of Icelandic
+Arrow of Biting          510    Ammo         Peril                     5,100
+Arrow of Piercing        510    Ammo
+Goblin Arrows           1785    Ammo
+Bolt                       1    Ammo         Potions
+Bolt +1                  408    Ammo         -------------------------------
+Bolt +2                  612    Ammo         Potion of Extra Healing     306
+Bolt of Biting           765    Ammo         Antidote                    102
+Bullet                     1    Ammo         Philter of Purification     501
+Bullet +1                163    Ammo         Flaming Oil                 306
+Bullet +2                306    Ammo
+Dart                       1    Ammo
+Dart +1                  163    Ammo         Other
+Dart of Wounding         510    Ammo         -------------------------------
+Short Bow                 30    Bow          Bag of Holding            5,100
+Long Bow                  76    Bow
+Composite Long Bow       102    Bow
+Short Bow of
+Ebullience            10,200    Bow
+Heavy Crossbow            51    Crossbow
+Light Crossbow            35    Crossbow
+Sling                      1    Missile
+Two-Handed Sword          51    G. Sword
+Bastard Sword             25    G. Sword
+Long Sword                15    L. Sword
+Short Sword               10    S. Sword
+Dagger                     2    Dagger
+Throwing Dagger            1    Dagger
+Battle Axe                 5    Axe
+Halberd                   10    Halberd
+Spear                      1    Spear
+Mace                       8    Mace
+Morning Star              10    M. Star
+Flail                     15    Flail
+Skull Flail           15,300    Flail
+War Hammer                 2    Hammer
+
+
+Armor                                    Type
+-------------------------------------    -------
+Chainmail Armor                    76    Armor
+Splint Mail +1                  2,040    Armor
+Leather Armor +2                3,570    Armor
+Full Plate Mail +1             17,340    Armor
+Helmet                              1    Helmet
+Helmet                              5    Helmet
+
+
+
+==============================================================================
+7.   Rikasha's Services - Cave of the Jackal  (x 2169 y 880  AR 9715)
+==============================================================================
+
+Temple Services
+-----------------------------
+Cure Light Wounds         100
+Remove Fear               100
+Aid                       200
+Slow Poison               100
+Cure Moderate Wounds      200
+Remove Curse              300
+Remove Paralysis          300
+Cure Disease              300
+Cure Serious Wounds       500
+Neutralize Poison         500
+Cure Critical Wounds      700
+Raise Dead             varies
+Heal                      900
+Resurrection           varies
+
+
+
+==============================================================================
+                                 Other Works
+==============================================================================
+
+   This is a list of FAQ's written by me.  The latest versions of all of
+these FAQ's can be found at:
+
+              http://gamefaqs.com/features/recognition/8633.html
+
+   Unless otherwise noted, other sites might also carry this FAQ, but I will
+always send new updates to gamefaqs.com first.
+
+
+         O----------------------------------------------------------O
+         |                      Works to Date                       |
+         O----------------------------------------------------------O
+         |                                                          |
+         |  Icewind Dale - Store Items                              |
+         |                                                          |
+         |  Icewind Dale: Heart of Winter - Store Items             |
+         |  Icewind Dale: Heart of Winter - Walkthrough             |
+         |                                                          |
+         |  Icewind Dale: Trials of the Luremaster - Walkthrough    |
+         |               (included in Heart of Winter Walkthrough)  |
+         |                                                          |
+         |  Invictus: In the Shadow of Olympus - Walkthrough        |
+         |                                                          |
+         |  Revenant - Walkthrough                                  |
+         |                                                          |
+         | *Sea Dogs - Walkthrough                                  |
+         |                                                          |
+         O----------------------------------------------------------O
+
+           * Available ONLY at - http://www.gamefaqs.com
+
+
+
+==============================================================================
+                               Version Updates
+==============================================================================
+
+Version 1.4                  Updated the Other Works section.  Corrected some
+July 11, 2001                minor grammatical and spelling errors.  Added
+25.1k                        shop lists for Trials of the Luremaster.
+
+Version 1.2                  Updated the Other Works section.  Added ASCII
+June 4, 2001                 text image at the top of the document.  Corrected
+18.9k                        grammar and spelling errors.
+
+Version 1.1                  Updated Legal Information Section.  Updated the
+April 17, 2001               Other Works section.  Made minor insignificant
+18.0k                        changes.  Corrected grammar and spelling errors.
+
+Version 1.0                  This FAQ is first published.  Created complete
+March 10, 2001               item inventories with prices and item types for
+17.4k                        the five merchants in the expansion pack.
+
+
+==============================================================================
+                              Legal Information
+==============================================================================
+
+I am in no way, shape, or form affiliated with Black Isle and/or Interplay
+Entertainment Corp.  I had nothing to do with the creation of this game, nor
+did I have anything to do with the people who made it.
+
+This FAQ may be posted on any site provided an email is sent to me FIRST
+stating where the FAQ is to be posted, and an existing URL is provided within
+the same email.  NOTHING MAY BE CHANGED WITHIN THIS DOCUMENT.  This document
+may not be translated into any other language or dialect.  Nothing may be
+added, removed, or rearranged in any way, shape or form and then republished.
+This FAQ MUST remain in its original form. (how_shop.txt)  The author of this
+FAQ reserves the right to recall this FAQ from any site, at any time, and for
+any reason as he sees fit.  This document may NOT be sold for profit, nor may
+it be included in any package or promotion receiving a profit.  By possessing
+this document, you accept all the terms and conditions which accompany it,
+both expressed and implied.  Violation of the United States Copyright Laws is
+a crime.  Plagiarism is also a crime.
+
+This document is Copyright 2001 by Michael Walsh.
+Icewind Dale: Heart of Winter  (c) 2000-2001 Interplay Entertainment Corp.
+
+==============================================================================
